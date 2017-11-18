@@ -15002,7 +15002,7 @@ USB1	nuclease
 USE1	SNAP receptor USE1
 USF1	Upstream stimulatory factor 1
 USO1	Vesicle-mediated ER to Golgi transport protein
-USP1	universal stress protein (USP) family protein possible involvement in nucleo-mitochondrial control of maltose, galactose and raffinose utilization
+USP1	universal stress protein
 USP6	ubiquitin carboxyl-terminal hydrolase 4/11/15
 USP6NL	USP6 N-terminal-like protein
 USP8	Ubiquitin carboxyl-terminal hydrolase 8
@@ -15306,7 +15306,6 @@ VTS1_2	Protein VTS1
 VWA5A	von Willebrand factor A domain-containing protein 5A
 VWA8	von Willebrand factor A domain-containing protein 8
 VWF1	putative protein containing von Willebrand factor and highly repetitive sequences
-Vav	Protein vav
 Vcp	Cell division control protein 48
 Vcpkmt_0	Protein-lysine methyltransferase METTL21D
 Vcpkmt_1	Protein-lysine methyltransferase METTL21D
@@ -15357,13 +15356,13 @@ WEE1	Mitosis inhibitor protein kinase wee1
 WEX_0	Werner Syndrome-like exonuclease
 WEX_1	Werner Syndrome-like exonuclease
 WHI2	growth regulation protein
-WHI4	whiskey
+WHI3	cell cycle RNA binding protein
+WHI4	cell cycle RNA binding protein
 WHI5	transcriptional repressor WHI5
 WLM	Fe2+/Zn2+ regulated transporter
 WRAP53	Telomerase Cajal body protein 1
 WRAP73	WD repeat-containing protein WRAP73
 WRS1	tryptophan--tRNA ligase
-WSC	WSC protein
 WSC1	beta-1,6-N-acetylglucosaminyltransferase, contains WSC domain
 WSC2	cell wall integrity and stress response component
 WSC3	cell wall integrity and stress response component 3
