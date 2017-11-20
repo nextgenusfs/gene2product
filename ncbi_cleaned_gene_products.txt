@@ -1,5 +1,5 @@
-#version 1.0
-#Date 11-13-2017
+#version 1.0.1
+#Date 11-20-2017
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
 2ABD	Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform
@@ -68,7 +68,6 @@ AAO_0	L-ascorbate oxidase
 AAO_1	L-ascorbate oxidase
 AAO_2	L-ascorbate oxidase
 AAP1	arginine/alanine aminopeptidase
-AAP1'	arginine/alanine aminopeptidase
 AAR	alpha-aminoadipate reductase protein
 AAR2	a1-alpha2 repression
 AARS	K01872 alanyl-tRNA synthetase
@@ -2709,7 +2708,7 @@ DAP2	Dipeptidyl aminopeptidase
 DAP3	28S ribosomal protein S29, mitochondrial
 DAP500	Putative dihydrodipicolinate synthetase
 DARS	Aspartate--tRNA ligase, cytoplasmic
-DAS1	F-box protein YJL149W
+DAS1	F-box protein
 DAT1	datin
 DBF2	serine/threonine-protein kinase DBF2
 DBF4	Cdc7p-Dbf4p kinase complex regulatory subunit
@@ -3822,7 +3821,7 @@ FNTB	Protein farnesyltransferase subunit beta
 FOB1	replication fork barrier binding protein FOB1
 FOC1	putative formate transporter 1 (Formate channel 1)
 FOCC	Chaperone protein focC
-FOL1	trifunctional dihydropteroate synthetase/dihydrohydroxymethylpterin pyrophosphokinase/dihydroneopterin aldolase
+FOL1	trifunctional dihydropteroate synthetase
 FOL2	GTP cyclohydrolase I
 FOL3	folylpolyglutamate synthase
 FOL3_0	Dihydrofolate synthetase
@@ -5000,7 +4999,7 @@ HIS1_0	ATP phosphoribosyltransferase
 HIS1_1	ATP phosphoribosyltransferase
 HIS2	histidinolphosphatase
 HIS3	imidazoleglycerol-phosphate dehydratase
-HIS4	trifunctional histidinol dehydrogenase/phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase
+HIS4	trifunctional histidinol dehydrogenase
 HIS5	histidinol-phosphate transaminase
 HIS6	Enzyme that catalyzes the fourth step in the histidine pathway
 HIS7	Histidine biosynthesis bifunctional protein hisB
@@ -24454,3 +24453,98 @@ zuo1	Zuotin
 zupT	Zinc transporter ZupT
 zwf	glucose-6-phosphate dehydrogenase
 zym1	metallothionein Zym1
+AAD14	Putative aryl-alcohol dehydrogenase AAD14
+ACR2	DNA-directed RNA polymerase I subunit RPA2
+ACU9	Malate synthase, glyoxysomal
+AIM9	Phosphotransferase enzyme family
+AIM22	Biotin/lipoate A/B protein ligase family
+ALA1	Alanine--tRNA ligase
+ALDH5A1	Dehydrogenase
+ALTA5	60S acidic ribosomal protein P2
+ANKFY1	ankyrin repeat and FYVE domain containing 1
+ARG6	Protein arg-6, mitochondrial
+ARG13	Amino-acid transporter arg-13
+ARL3	ADP-ribosylation factor family protein
+AXHA2	Alpha-L-arabinofuranosidase axhA-2
+CAP10	capsule-associated protein CAP1
+CAS42	Triose-phosphate Transporter family
+CAS91	Maltose acetyltransferase
+CEL6C	1,4-beta-D-glucan cellobiohydrolase CEL6C
+CET1	MRNA capping
+CHI1	Chitinase 1
+CLPP1	ATP-dependent Clp protease proteolytic subunit 1
+CRP74	60S ribosomal protein L10a
+CYS17	Cysteine synthase 1
+CYT20	Valine--tRNA ligase, mitochondrial
+DAPA2	dihydrodipicolinate synthetase
+DBP7	ATP-dependent RNA helicase dbp7
+DBP10	ATP-dependent RNA helicase dbp10
+DCW1	hydrolase family 76 protein
+DERI1	D-erythrulose-4-phosphate isomerase 1
+DHRS4	Dehydrogenase reductase SDR family member
+DID2	Inherit from dotNOG: Snf7
+DNAJ1	DNAj domain protein
+ERD2	Required for the retention of luminal endoplasmic reticulum proteins
+FAE1	Feruloyl esterase B
+FAEB-2	Tannase and feruloyl esterase
+FET5	ATP binding protein
+FRR4	Mitochondrial chaperone Frataxin
+GCH1	GTP cyclohydrolase 1
+GNG1	Guanine nucleotide-binding protein subunit gamma
+GUT1	Glycerol kinase
+HHK5	Histidine kinase
+IDE1	Insulinase (Peptidase family M16)
+IPC1	Aureobasidin resistance protein Aur1
+KATG2	Catalase-peroxidase 2
+KLP7	Kinesin family
+KNG1	kininogen 1
+KTR5	alpha-1,2-mannosyltransferase (Kre5)
+LGA1	L-threo-3-deoxy-hexylosonate aldolase
+LRRCC1	leucine rich repeat
+LXR3	L-xylulose reductase
+MAGO2	Protein mago nashi 2
+MAN26A	Mannan endo-1,4-beta-mannosidase man26A
+MEP5	Fungalysin/Thermolysin Propeptide Motif
+MER3	Sec63
+MFSD11	DUF895 domain membrane protein
+MNR2	CorA family metal ion transporter
+MNS1B	Involved in the maturation of Asn-linked oligosaccharides
+MRS3/4	mitochondrial
+MSC2	Cation efflux family
+MSM1	methionyl-tRNA synthetase
+MT1	Sphingolipid C9-methyltransferase 1
+MT2	Sphingolipid C9-methyltransferase 2
+NIT2	Carbon-nitrogen hydrolase
+NIT4	Nitrogen assimilation transcription factor nit-4
+NNT1	nicotinamide n-methyltransferase
+NOG1	Nucleolar GTP-binding protein 1
+NOP14	nucleolar complex protein 14
+NUO31	NADH-ubiquinone oxidoreductase 30.4 kDa subunit, mitochondrial
+OPS1	ion channel activity
+PGX1	Exopolygalacturonase
+PHF3	PHD finger protein 3
+PLB1	Lysophospholipase 1
+RAB6B	Ras-related protein Rab-6B
+RAB11B	Ras-related protein Rab-11B
+RAR1	Probable methionine--tRNA ligase, cytoplasmic
+RGA2	Rho-type gtpase-activating protein
+RO1	Dynein heavy chain, cytoplasmic
+RO4	Actin-like protein
+RPL7	60S ribosomal protein L7
+RPL15	60S ribosomal protein L15
+RPL22	60S ribosomal protein L22
+RPS17	40S ribosomal protein S17
+RPS25	40S ribosomal protein S25
+SIA1	purple acid phosphatase
+SP2	Subtilisin-like protease 2
+SP3	Subtilisin-like protease 3
+TCA8	Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial
+TCA9	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial
+TOK1	Potassium channel
+URG1	Uracil-regulated protein 1
+UTP4	U3 small nucleolar RNA-associated protein
+VAC8	Vacuolar protein 8
+WBP4	WW domain binding protein 4
+XYD1	D-xylose 1-dehydrogenase (NADP(+))
+YAE1	Essential protein Yae1, N terminal
+ZRA1	ZEB2-regulated ABC transporter 1
