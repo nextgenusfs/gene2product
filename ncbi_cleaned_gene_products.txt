@@ -7696,7 +7696,7 @@ KPYK	Pyruvate kinase
 KPYK2	Pyruvate kinase 2
 KRE1	killer toxin resistant protein
 KRE11	KRE11-like protein
-KRE2	K10967 alpha 1,2-mannosyltransferase EC 2.4.1
+KRE2	alpha 1,2-mannosyltransferase EC 2.4.1
 KRE27	killer toxin resistant protein
 KRE28	spindle pole body component YDR532C
 KRE29	Smc5-Smc6 complex subunit KRE29
@@ -12530,7 +12530,7 @@ RTA1_3	Protein RTA1
 RTC1	SEA (Seh1-associated) complex subunit
 RTC2	Putative vacuolar membrane transporter for cationic amino acids
 RTC3	SDO1-like protein YHR087W
-RTC5	cytoplasm
+RTC5	Restriction of telomere capping protein 5
 RTC6	54S ribosomal protein, mitochondrial
 RTCA_0	RNA 3'-terminal phosphate cyclase
 RTCA_1	RNA 3'-terminal phosphate cyclase
