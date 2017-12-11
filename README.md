@@ -7,6 +7,9 @@ I hope this is a "community" project where we can keep a list of gene names and 
 2) run `update-gene2product.py Gene2Products.new-names-passed.txt`
 3) do a Pull Request with your update
 
+#### Important:
+While a product definition may pass tbl2asn, it doesn't mean that the description is *great*.  Please at least manually glance at the names/product deflines that are in the `Gene2Products.new-names-passed.txt` file prior to doing a PR, there are likely a few manual tweaks that can be quickly done to improve the product defline.
+
 #### Extra Credit:
 `funannotate annotate` will also produce a file named `Gene2Products.need-curating.txt`, these are names/deflines that need manual curation.  If you manually curate these data, please validate that they pass tbl2asn prior to adding them to your PR.
 
