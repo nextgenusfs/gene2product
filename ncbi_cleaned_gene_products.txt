@@ -7993,7 +7993,7 @@ LNP1	ER network formation protein
 LOA1	lysophosphatidic acid acyltransferase LOA1
 LOC1	60S ribosomal subunit assembly/export protein
 LOG	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG
-LON1	ATP-dependent serine protease with role in degradation of misfolded and unassembled polypeptides
+LON1	ATP-dependent serine protease
 LONRF1	LON peptidase N-terminal domain and RING finger protein 1
 LONRF1_0	LON peptidase N-terminal domain and RING finger protein 1
 LONRF1_1	LON peptidase N-terminal domain and RING finger protein 1
