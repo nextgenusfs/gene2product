@@ -1,5 +1,5 @@
-#version 1.4
-#Date 01-13-2018
+#version 1.5
+#Date 03-03-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -1789,6 +1789,7 @@ CDUP3	rRNA processing
 CECR2	cat eye syndrome chromosome region, candidate 2
 CEF1	Pre-mRNA-splicing factor CEF1
 CEF3	translation elongation factor EF-3
+CEFD2	Isopenicillin N epimerase component 2
 CEG1	Dcp1p-Dcp2p decapping enzyme complex alpha subunit
 CEK1	mitogen-activated serine/threonine-protein kinase
 CEL6C	1,4-beta-D-glucan cellobiohydrolase CEL6C
@@ -2255,6 +2256,7 @@ CRH11	transglycosylase
 CRK1	cyclin-dependent serine/threonine protein kinase
 CRK2	Cell division control protein 2
 CRL1	GTP-binding protein (RHO4)
+CRLS1	cardiolipin synthase
 CRM1	Karyopherin transporter
 CRN1	DUF1900 super family
 CROP	Cisplatin overexpressed protein
@@ -3078,6 +3080,7 @@ DPP1-3	Diacylglycerol pyrophosphate (DGPP) phosphatase
 DPP2	phosphatidate phosphatase
 DPP3	bifunctional diacylglycerol diphosphate phosphatase/phosphatidate phosphatase
 DPP4	diacylglycerol pyrophosphate phosphatase
+DPP5	Probable dipeptidyl-peptidase 5
 DPP8	dipeptidylpeptidase
 DPP9	Dipeptidyl peptidase 9
 DPPA	Periplasmic dipeptide transport protein
@@ -3531,6 +3534,7 @@ ERG24	ERG24, C-14 sterol reductase
 ERG25	C-4 sterol methyl oxidase
 ERG25p-2	C4-methyl sterol oxidase
 ERG26	ERG26, C-3 sterol dehydrogenase
+ERG27	3-keto-steroid reductase
 ERG27_0	3-keto-steroid reductase
 ERG27_1	3-keto-steroid reductase
 ERG28	ergosterol biosynthesis protein
@@ -3743,6 +3747,7 @@ FAEB-2	Tannase and feruloyl esterase
 FAF1	pre-rRNA processing and 40S ribosomal subunit assembly
 FAF2	FAS-associated factor 2
 FAH1	cytochrome P450
+FAH12	Oleate hydroxylase fah12
 FAHD2	Fumarylacetoacetate hydrolase domain-containing protein 2
 FAHD2A	Fumarylacetoacetate hydrolase domain-containing protein 2A
 FAHD2B	Fumarylacetoacetate hydrolase domain-containing protein 2B
@@ -7464,6 +7469,7 @@ IMP4	snoRNA-binding rRNA-processing protein IMP4
 IMPA3	Importin subunit alpha-3
 IMPA9	Importin subunit alpha-9
 IND1	Iron-sulfur protein
+INDA1	Amino-acid permease inda1
 ING1	PHD finger protein ING1
 ING4	Inhibitor of growth protein 4
 ING4_0	Inhibitor of growth protein 4
@@ -8000,6 +8006,7 @@ LETM1_0	LETM1 and EF-hand domain-containing protein 1, mitochondrial
 LETM1_1	LETM1 and EF-hand domain-containing protein 1, mitochondrial
 LEU1	3-isopropylmalate dehydratase
 LEU2	3-isopropylmalate dehydrogenase
+LEU2B	3-isopropylmalate dehydrogenase B
 LEU3	Regulatory protein LEU3
 LEU4	2-isopropylmalate synthase (Alpha-isopropylmalate synthase) (Alpha-IPM synthetase)
 LEU5	coenzyme A transporter
@@ -8878,6 +8885,7 @@ MMT1	mitochondrial metal transporter
 MMT2	mitochondrial metal transporter
 MND1	Meiotic nuclear division protein 1
 MND2	anaphase-promoting complex (APC) subunit
+MNH1	Protein mago nashi
 MNI1	Histidine protein methyltransferase 1
 MNL1	alpha mannosidase-like protein
 MNN1	alpha-1,3-mannosyltransferase MNN1
@@ -12867,6 +12875,7 @@ RXT3	transcriptional regulatory protein RXT3
 RYL2	Ras-like GTP-binding protein RYL2
 RYL2_0	Ras-like GTP-binding protein RYL2
 RYL2_1	Ras-like GTP-binding protein RYL2
+RYP3	Velvet complex subunit ryp3
 RZ1B	Glycine-rich RNA-binding protein RZ1B
 Rab2a	Ras-related protein Rab-2A
 Rab3il1	Guanine nucleotide exchange factor for Rab-3A
@@ -14086,11 +14095,15 @@ SUA7	transcription initiation factor IIB
 SUA71	transcription factor TFIIB
 SUB1	Transcriptional coactivator
 SUB2	Suppressor of the cold-sensitive snRNP biogenesis mutant brr1-1
+SUB4	Secreted subtilisin-like serine protease sub4
+SUB5	Secreted subtilisin-like serine protease sub5
 SUB6	subtilisin-like serine protease
 SUB7	subtilisin-like serine protease
 SUB8	serine protease
 SUB8_0	Subtilisin-like protease 8
 SUB8_1	Subtilisin-like protease 8
+SUB9	Secreted subtilisin-like serine protease sub9
+SUB11	Secreted subtilisin-like serine protease sub11
 SUC1	transcription factor
 SUC1.1	zinc finger protein
 SUC1.2	Fungal transcriptional regulatory protein
