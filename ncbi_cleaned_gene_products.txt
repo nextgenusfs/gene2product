@@ -752,14 +752,14 @@ ARL1	Arf family GTPase ARL1
 ARL1_0	ADP-ribosylation factor-like protein 1
 ARL1_1	ADP-ribosylation factor-like protein 1
 ARL2	ADP-ribosylation factor-like protein 2
-ARL3	ADP-ribosylation factor family protein
+ARL3	ADP-ribosylation factor family protein 3
 ARL5A	ADP-ribosylation factor-like protein 5A
 ARL8B	ADP-ribosylation factor-like protein 8B
-ARMC4	Armadillo repeat containing 4
+ARMC4	Armadillo repeat containing protein 4
 ARMC7	Armadillo repeat-containing protein 7
 ARMC8_0	Armadillo repeat-containing protein 8
 ARMC8_1	Armadillo repeat-containing protein 8
-ARN1	siderophore transporter
+ARN1	Siderophore transporter
 ARN2	Siderophore Iron Transport
 ARN5	ARN family transporter for siderophore-iron chelates
 ARN6	endosomal ferric enterobactin transporter
@@ -771,20 +771,20 @@ ARO3-2	3-deoxy-D-arabino-heptulosonate-7-phosphate (DAHP) synthase
 ARO4	3-deoxy-7-phosphoheptulonate synthase
 ARO7	chorismate mutase ARO7
 ARO8	Aromatic/aminoadipate aminotransferase 1
-ARO9	aromatic amino acid aminotransferase II
-ARO9.1	aromatic amino acid aminotransferase II
-ARO9.2	aromatic amino acid aminotransferase II
-ARO10	phenylpyruvate decarboxylase
+ARO9	Aromatic amino acid aminotransferase II
+ARO9.1	Aromatic amino acid aminotransferase II
+ARO9.2	Aromatic amino acid aminotransferase II
+ARO10	Phenylpyruvate decarboxylase
 ARO10-1	Phenylpyruvate decarboxylase
 ARO10-2	Phenylpyruvate decarboxylase
 ARO80	zinc finger transcriptional activator
 AROC	Chorismate synthase
 ARP1	centractin- actin-related protein of the dynactin complex
-ARP2	actin-related protein
-ARP3	actin-related protein
+ARP2	Actin-related protein
+ARP3	Actin-related protein
 ARP4	NuA4 histone acetyltransferase subunit
-ARP5	actin-related protein 5
-ARP6	actin-related protein
+ARP5	Actin-related protein 5
+ARP6	Actin-related protein 6
 ARP7	general RNA polymerase II transcription factor
 ARP8	actin-like protein ARP8
 ARP9	Actin-like protein ARP9 (SWI/SNF complex component ARP9)
@@ -1616,7 +1616,7 @@ CCC2.2	copper-transporting ATPase (Cu(2+)-ATPase)
 CCC2.3	copper-transporting P1-type ATPase
 CCD94	Coiled-coil domain-containing protein 94
 CCDC6	Coiled-coil domain-containing protein 6
-CCDC12	coiled-coil domain containing 12
+CCDC12	Coiled-coil domain containing 12
 CCDC25	Coiled-coil domain-containing protein 25
 CCDC97	Coiled-coil domain containing 97
 CCDC101	SAGA-associated factor 29
@@ -2454,7 +2454,7 @@ CYM1	metalloprotease
 CYM_0	Chymosin
 CYM_1	Chymosin
 CYN1	Cyanate hydratase
-CYP1	heme binding
+CYP1    heme binding
 CYP2U1	cytochrome P450
 CYP3	Peptidyl-prolyl cis-trans isomerase H
 CYP3A5	Cytochrome P450 3A5
@@ -11843,52 +11843,52 @@ RABGAP1L	Rab GTPase-activating protein 1-like protein
 RABGEF1	zinc finger domain-containing protein
 RABH1B	Ras-related protein RABH1b
 RABL6	Rab-like protein 6
-RAC1	Rho family GTPase
+RAC1	Rho family GTPase protein RAC1
 RAC7	Rac-like GTP-binding protein ARAC7
 RAD1	ssDNA endodeoxyribonuclease
-RAD2	DNA repair protein
+RAD2	DNA repair protein RAD2
 RAD3	TFIIH/NER complex ATP-dependent 5'-3' DNA helicase subunit
-RAD4	DNA repair protein
+RAD4	DNA repair protein RAD4
 RAD5	DNA helicase RAD5
 RAD5_0	DNA repair protein RAD5
 RAD5_1	DNA repair protein RAD5
-RAD6	E2 ubiquitin-conjugating protein
+RAD6	E2 ubiquitin-conjugating protein RAD6
 RAD7	UV-damaged DNA-binding protein RAD7
-RAD9	radiation sensitive protein
-RAD9A	cell cycle checkpoint control protein
+RAD9	radiation sensitive protein RAD9
+RAD9A	cell cycle checkpoint control protein RAD9A
 RAD9B	Cell cycle checkpoint control protein RAD9B
-RAD10	ssDNA endonuclease and repair protein
-RAD14	DNA repair protein
+RAD10	ssDNA endonuclease and repair protein RAD10
+RAD14	DNA repair protein RAD14
 RAD15	DNA-dependent ATPase of the nucleotide excision repair factor 4 complex
-RAD16	DNA repair protein
+RAD16	DNA repair protein RAD16
 RAD17	Cell cycle checkpoint protein RAD17
 RAD18	E3 ubiquitin-protein ligase RAD18
 RAD21	Double-strand-break repair protein rad21
 RAD23	UV excision repair protein RAD23
-RAD24	radiation sensitive protein
+RAD24	radiation sensitive protein RAD24
 RAD25	DNA repair helicase RAD25
-RAD26	DNA dependent ATPase
-RAD27	5' to 3' exonuclease, 5' flap endonuclease
-RAD28	DNA repair protein
-RAD30	DNA-directed DNA polymerase eta
-RAD32	DNA-directed DNA polymerase eta
-RAD33	DNA repair protein
-RAD50	DNA repair protein
+RAD26	DNA dependent ATPase RAD26
+RAD27	5' to 3' exonuclease, 5' flap endonuclease RAD27
+RAD28	DNA repair protein RAD28
+RAD30	DNA-directed DNA polymerase eta RAD30
+RAD32	DNA-directed DNA polymerase eta RAD32
+RAD33	DNA repair protein RAD33
+RAD50	DNA repair protein RAD50
 RAD51	recombinase RAD51
 RAD51C	DNA repair protein RAD51
 RAD51D	DNA repair protein RAD51 4
 RAD51_0	DNA repair protein RAD51 1
 RAD51_1	DNA repair protein RAD51 1
-RAD52	DNA repair protein
-RAD53	Protein kinase
-RAD54	DNA-dependent ATPase RAD54
+RAD52	DNA repair protein RAD52
+RAD53	Protein kinase protein RAD53
+RAD54	DNA-dependent ATPase protein RAD54
 RAD54B	DNA repair and recombination protein RAD54B
-RAD59	mitotic recombination and DNA repair protein
-RAD61	radiation sensitive protein
-RAE1	Poly(A)+ RNA export protein
-RAG1	low-affinity glucose transporter
-RAG2	glucose-6-phosphate isomerase
-RAG5	hexokinase
+RAD59	mitotic recombination and DNA repair protein RAD59
+RAD61	radiation sensitive protein RAD61
+RAE1	Poly(A)+ RNA export protein RAE1
+RAG1	low-affinity glucose transporter protein RAG1
+RAG2	glucose-6-phosphate isomerase protein RAG2
+RAG5	hexokinase isoenzyme protein RAG5
 RAG8	casein kinase I homolog RAG8
 RAGP1	Ran GTPase-activating protein 1
 RAI1_0	Decapping nuclease RAI1
@@ -11904,11 +11904,11 @@ RANBP10_0	Ran-binding protein 10
 RANBP10_1	Ran-binding protein 10
 RANGAP1	Ran GTPase-activating protein 1
 RANGRF	Ran guanine nucleotide release factor
-RAP1	DNA-binding transcription factor
+RAP1	DNA-binding transcription factor RAP1
 RAP1B	Ras- protein Rap-1b
 RAP1GAP2	Rap1 GTPase-activating protein 2
-RAPGAP1	Rap/ran-GAP
-RAR1	Probable methionine--tRNA ligase, cytoplasmic
+RAPGAP1	Rap/ran-GAP protein
+RAR1	Probable methionine--tRNA ligase, cytoplasmic protein RAR1
 RARS2	Arginyl-tRNA synthetase
 RAS	Ras-like protein
 RAS1	Ras family GTPase
