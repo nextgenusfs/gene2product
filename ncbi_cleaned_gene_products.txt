@@ -752,10 +752,10 @@ ARL1	Arf family GTPase ARL1
 ARL1_0	ADP-ribosylation factor-like protein 1
 ARL1_1	ADP-ribosylation factor-like protein 1
 ARL2	ADP-ribosylation factor-like protein 2
-ARL3	ADP-ribosylation factor family protein
+ARL3	ADP-ribosylation factor family protein 3
 ARL5A	ADP-ribosylation factor-like protein 5A
 ARL8B	ADP-ribosylation factor-like protein 8B
-ARMC4	Armadillo repeat containing 4
+ARMC4	Armadillo repeat containing protein 4
 ARMC7	Armadillo repeat-containing protein 7
 ARMC8_0	Armadillo repeat-containing protein 8
 ARMC8_1	Armadillo repeat-containing protein 8
@@ -2454,7 +2454,7 @@ CYM1	metalloprotease
 CYM_0	Chymosin
 CYM_1	Chymosin
 CYN1	Cyanate hydratase
-CYP1	heme binding
+CYP1    heme binding
 CYP2U1	cytochrome P450
 CYP3	Peptidyl-prolyl cis-trans isomerase H
 CYP3A5	Cytochrome P450 3A5
