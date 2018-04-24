@@ -1918,47 +1918,47 @@ CHR16217	SNF2 family DNA-dependent ATPase
 CHR16218	SNF2 superfamily protein
 CHR16219	SNF2 superfamily protein
 CHR16220	RAD26-like SNF2 family DNA-dependent ATPase
-CHS1	Chitin synthase 1
-CHS1_0	Chitin synthase 1
-CHS1_1	Chitin synthase 1
-CHS1_2	Chitin synthase 1
-CHS1_3	Chitin synthase 1
-CHS2	Chitin synthase 2
-CHS2.2	chitin synthase 2.2
-CHS3	chitin synthase, class
+CHS1	Chitin synthase, class 1
+CHS1_0	Chitin synthase, class 1
+CHS1_1	Chitin synthase, class 1
+CHS1_2	Chitin synthase, class 1
+CHS1_3	Chitin synthase, class 1
+CHS2	Chitin synthase, class 2
+CHS2.2	Chitin synthase, class 2.2
+CHS3	Chitin synthase, class 3
 CHS4.1	Activator of Chs3-like protein
 CHS4.2	Activator of Chs3-like protein
 CHS4.3	Activator of Chs3-like protein
-CHS5	Chitin biosynthesis protein CHS5
-CHS5.1	chitin biosynthesis protein
-CHS5.2	CHS5 chitin synthase, class V
-CHS5_0	Chitin biosynthesis protein CHS5
-CHS5_1	Chitin synthase 5
-CHS6	chitin synthase, class VI
-CHS7	chitin synthase 7
-CHS7_0	Chitin synthase export chaperone
-CHS7_1	Chitin synthase export chaperone
-CHS7_2	Chitin synthase export chaperone
-CHS7_3	Chitin synthase 7
-CHS8	Chitin synthase 8
-CHS8_0	Chitin synthase 8
-CHS8_1	Chitin synthase 8
-CHS8_2	Chitin synthase 8
-CHS8_3	Chitin synthase 8
-CHS8_4	Chitin synthase 8
-CHS8_5	Chitin synthase 8
-CHS8_6	Chitin synthase 8
-CHS8_7	Chitin synthase 8
-CHS8_8	Chitin synthase 8
-CHS8_9	Chitin synthase 8
-CHS8_10	Chitin synthase 8
-CHS8_11	Chitin synthase 8
+CHS5	Chitin synthase, class 5
+CHS5.1	Chitin synthase, class 5
+CHS5.2	Chitin synthase, class 5
+CHS5_0	Chitin synthase, class 5
+CHS5_1	Chitin synthase, class 5
+CHS6	Chitin synthase, class 6
+CHS7	Chitin synthase, class 7
+CHS7_0	Chitin synthase, class 7
+CHS7_1	Chitin synthase, class 7
+CHS7_2	Chitin synthase, class 7 
+CHS7_3	Chitin synthase, class 7
+CHS8	Chitin synthase, class 8
+CHS8_0	Chitin synthase, class 8
+CHS8_1	Chitin synthase, class 8
+CHS8_2	Chitin synthase, class 8
+CHS8_3	Chitin synthase, class 8
+CHS8_4	Chitin synthase, class 8
+CHS8_5	Chitin synthase, class 8
+CHS8_6	Chitin synthase, class 8
+CHS8_7	Chitin synthase, class 8
+CHS8_8	Chitin synthase, class 8
+CHS8_9	Chitin synthase, class 8
+CHS8_10	Chitin synthase, class 8
+CHS8_11	Chitin synthase, class 8
 CHSA	Chalcone synthase A
 CHT	Cyanide hydratase
-CHT1	chitinase
-CHT1.1	glycoside hydrolase family 18 protein
-CHT1.2	glycoside hydrolase family 18 protein
-CHT2	chitinase 2 precursor
+CHT1	Chitinase
+CHT1.1	Chitinase, glycoside hydrolase family 18 protein
+CHT1.2	Chitinase, glycoside hydrolase family 18 protein
+CHT2	Chitinase 2 precursor
 CHTF8	Chromosome transmission fidelity protein 8
 CHX19	Cation/H(+) antiporter 19
 CHZ1	Histone H2A.Z-specific chaperone
