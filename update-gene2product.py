@@ -26,6 +26,7 @@ with open(os.path.join(currentdir, 'ncbi_cleaned_gene_products.txt'), 'rU') as d
         elif line.startswith('#'):
             continue
         else:
+            print(line)
             name, product = line.split('\t')
             #product = product[0].lower() + product[1:]
             #do some checks here of product name

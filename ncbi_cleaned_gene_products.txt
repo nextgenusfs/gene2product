@@ -1380,14 +1380,14 @@ BRIP1	Fanconi anemia group J protein
 BRL1	Nucleus export protein BRL1
 BRN1	condensin subunit
 BRO1	bck1-like resistance to osmotic shock
-BRPF1	Bromodomain and PHD finger containing
+BRPF1	Bromodomain and PHD finger-containing protein 1
 BRPF3	Bromodomain and PHD finger-containing protein 3
 BRR1	spliceosomal snRNP component
 BRR2	DEIH-box ATPase
 BRR6	nuclear envelope integral membrane protein required for nuclear transport
 BRSK1	Serine/threonine-protein kinase BRSK1
-BRWD1	Bromodomain and WD repeat domain containing protein 1
-BRWD3	Bromodomain and WD repeat domain containing protein 3
+BRWD1	Bromodomain and WD repeat-containing protein 1
+BRWD3	Bromodomain and WD repeat-containing protein 3
 BRX1	RNA-binding protein required for biogenesis of the ribosomal 60S subunit
 BSC6	Bypass of stop codon protein 6
 BSC6_0	Bypass of stop codon protein 6
@@ -2455,7 +2455,7 @@ CYM_0	Chymosin
 CYM_1	Chymosin
 CYN1	Cyanate hydratase
 CYP1	heme binding
-CYP2U1	cytochrome P450
+CYP2U1	cytochrome P450 2U1
 CYP3	Peptidyl-prolyl cis-trans isomerase H
 CYP3A5	Cytochrome P450 3A5
 CYP3A28_0	Cytochrome P450 3A28
@@ -2742,42 +2742,42 @@ Cyp27a1	Sterol 26-hydroxylase mitochondrial
 Cyp40	Peptidyl-prolyl cis-trans isomerase D
 Cyp46a1	Cholesterol 24-hydroxylase
 Cyp51a1	Lanosterol 14-alpha demethylase
-CypX	cytochrome P450 monooxygenase-like protein
-CytC	cytochrome c
-CytC2	cytochrome c
+CypX	Cytochrome P450 monooxygenase-like cypX
+CytC	Cytochrome c-1
+CytC2	Cytochrome c-2
 D2_0	cAMP-regulated D2 protein
-D25	carbohydrate esterase 4 protein
+D25	Carbohydrate esterase 4 protein
 DAAM1	Disheveled-associated activator of morphogenesis 1
-DAAM2	Dishevelled associated activator of morphoproteinsis
-DAC	deacylase-like protein
-DAD1	Dolichyl-diphosphooligosaccharide-protein glycosyltransferase subunit
-DAD2	duo1 and dam1 interacting protein
-DAD3	duo1 and dam1 interacting protein
-DAD4	duo1 and dam1 interacting protein
-DAGAT-4	diacylglycerol-acyltransferase
+DAAM2	Dishevelled associated activator of morphoproteinsis 2
+DAC	Deacylase-like protein
+DAD1	Dolichyl-diphosphooligosaccharide-protein glycosyltransferase subunit DAD1
+DAD2	DASH complex subunit DAD2
+DAD3	DASH complex subunit DAD3
+DAD4	DASH complex subunit DAD4
+DAGAT-4	Diacylglycerol-acyltransferase 2B
 DAGLB	Sn1-specific diacylglycerol lipase beta
 DAK	Dihydroxyacetone kinase
-DAK1	dihydroxyacetone kinase
-DAK1.1	dihydroxyacetone kinase isoenzyme I
+DAK1	Dihydroxyacetone kinase 1
+DAK1.1	Dihydroxyacetone kinase isoenzyme I
 DAK1.2	Dihydroxyacetone kinase 1 (Glycerone kinase 1) (DHA kinase 1)
-DAK1A	dihydroxyacetone kinase
-DAK2	Dihydroxyacetone kinase
-DAK-1	dihydroxyacetone kinase Dak1
+DAK1A	dihydroxyacetone kinase 1A
+DAK2	Dihydroxyacetone kinase 2
+DAK-1	Dihydroxyacetone kinase Dak1
 DAL1	Allantoinase
-DAL2	allantoicase
+DAL2	Allantoicase
 DAL3	Ureidoglycolate lyase
 DAL4	Allantoin permease
-DAL4.1	allantoin transport
-DAL4.2	allantoin permease
-DAL4.3	allantoin permease
-DAL5	allantoate permease
+DAL4.1	Allantoin permease
+DAL4.2	Allantoin permease
+DAL4.3	Allantoin permease
+DAL5	Allantoate permease
 DAL5-1	Allantoate permease
 DAL5-2	Allantoate permease
 DAL5_0	Allantoate permease
 DAL5_1	Allantoate permease
 DAL6	allantoate permease
 DAL7	malate synthase DAL7
-DAL8	allantoate permease
+DAL8	Allantoate permease
 DAL9	allantoate permease
 DAL11	allantoate permease
 DAL12	allantoate permease
@@ -2786,11 +2786,11 @@ DAL81	Fungal specific transcription factor
 DAL81_1	Transcriptional activator protein DAL81
 DAL81_2	Transcriptional activator protein DAL81
 DAL82	transcriptional activator
-DAM1	DASH complex subunit
-DAN1	cell wall mannoprotein
-DAN2	delayed anaerobic protein
-DAN3	delayed anaerobic protein
-DAN4	Cell wall protein DAN4 precursor
+DAM1	DASH complex subunit DAM1
+DAN1	cell wall mannoprotein DAN1
+DAN2	Seripauperin-23
+DAN3	Seripauperin-24
+DAN4	Cell wall protein DAN4
 DAO1	D-amino acid oxidase
 DAO2	d-amino acid oxidase
 DAP1	Dihydrodipicolinate synthase
@@ -15832,14 +15832,14 @@ WDR3	Dip2/Utp12 family protein
 WDR4	WD repeat domain 4
 WDR5B_0	COMPASS-like H3K4 histone methylase component WDR5B
 WDR5B_1	COMPASS-like H3K4 histone methylase component WDR5B
-WDR6	WD repeat domain 6
-WDR7	WD-repeat protein required for cell viability
-WDR12	WD repeat domain 12
-WDR33	WD repeat domain 33
+WDR6	WD repeat-containing protein 6
+WDR7	WD repeat-containing protein 7
+WDR12	WD repeat-containing protein 12
+WDR33	WD repeat-containing protein 33
 WDR36	WD repeat-containing protein 36
-WDR43	WD repeat domain 43
-WDR44	WD repeat domain 44
-WDR45B	WD repeat domain phosphoinositide-interacting protein 3
+WDR43	WD repeat-containing protein 43
+WDR44	WD repeat-containing protein 44
+WDR45B	WD repeat-containing protein phosphoinositide-interacting protein 3
 WDR45L	wD repeat domain
 WDR50	U3 small nucleolar RNA-associated protein 18
 WDR55	WD domain, G-beta repeat
@@ -15847,11 +15847,11 @@ WDR62	mitogen-activated protein kinase binding protein 1
 WDR74	WD repeat-containing protein 74
 WDR75	WD repeat-containing protein 75
 WDR76	WD repeatcontaining protein
-WDR81	WD repeat domain 81
+WDR81	WD repeat-containing protein 81
 WDR81_0	WD repeat-containing protein 81
 WDR81_1	WD repeat-containing protein 81
-WDR83	WD repeat domain-containing protein 83
-WDR91	WD repeat domain 91
+WDR83	WD repeat-containing protein-containing protein 83
+WDR91	WD repeat-containing protein 91
 WDR92	WD repeat-containing protein 92
 WDYHV1	Protein N-terminal glutamine amidohydrolase
 WEE1	Mitosis inhibitor protein kinase wee1
@@ -22155,8 +22155,8 @@ prp1	U4/U6 x U5 tri-snRNP complex subunit Prp1
 prp2	U2AF large subunit (U2AF-59)
 prp3	U4/U5/U6 small nuclear ribonucleoprotein prp3
 prp4	Serine/threonine-protein kinase prp4
-prp5	WD repeat protein Prp5
-prp5_0	Pre-mRNA-splicing factor prp5
+prp5	Pre-mRNA-processing ATP-dependent RNA helicase prp5
+prp5_0	Pre-mRNA-processing ATP-dependent RNA helicase prp5
 prp5_1	Pre-mRNA-processing ATP-dependent RNA helicase prp5
 prp10	U2 snRNP component prp10
 prp10_0	U2 snRNP component prp10
@@ -23947,9 +23947,9 @@ swc2	Swr1 complex complex subunit Swc2
 swc3	SWR1 complex subunit swc3
 swc4	Swr1 complex subunit Swc4
 swc5	SWR1-complex protein 5
-swd1	Set1C complex subunit Swd1
-swd2	Set1C complex subunit Swd2.1
-swd3	WD repeat protein Swd3
+swd1	COMPASS component SWD3
+swd2	Set1C complex subunit SWD2
+swd3	COMPASS component SWD3
 swf1	Palmitoyltransferase swf1
 swf-1	Palmitoyltransferase SWF1
 swi1	replication fork protection complex subunit Swi1
@@ -23958,9 +23958,9 @@ swi3	replication fork protection complex subunit Swi3
 swi5	Swi5 protein
 swi6	Chromatin-associated protein swi6
 swi10	DNA repair endonuclease Swi10
-swo1	Heat shock protein 90
-swo1_0	Heat shock protein 90
-swo1_1	Heat shock protein 90
+swo1	Heat shock protein 90 homolog
+swo1_0	Heat shock protein 90 homolog
+swo1_1	Heat shock protein 90 homolog
 swoH	Nucleoside diphosphate kinase
 swr1	SNF2 family helicase Swr1
 sws1	SWIM domain containing-Srs2 interacting protein 1
@@ -24749,12 +24749,12 @@ wdr5	WD repeat-containing protein 5
 wdr21	WD repeat protein, human WDR21 family
 wdr24	WD repeat-containing protein 24
 wdr26	WD repeat-containing protein 26
-wdr45b	WD repeat domain phosphoinositide-interacting protein 3
+wdr45b	WD repeat-containing protein phosphoinositide-interacting protein 3
 wdr53	WD repeat-containing protein 53
 wdr61	WD repeat-containing protein 61
 wdr68	DDB1- and CUL4-associated factor 7
 wdr82	WD repeat-containing protein 82
-wdr83	WD repeat domain-containing protein 83
+wdr83	WD repeat-containing protein-containing protein 83
 wdr85	Diphthine methyltransferase
 wdr89	WD repeat-containing protein 89
 wdr91_0	WD repeat-containing protein 91
