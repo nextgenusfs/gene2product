@@ -1,5 +1,5 @@
-#version 1.5
-#Date 03-03-2018
+#version 1.6
+#Date 04-27-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -1938,7 +1938,7 @@ CHS6	Chitin synthase, class 6
 CHS7	Chitin synthase, class 7
 CHS7_0	Chitin synthase, class 7
 CHS7_1	Chitin synthase, class 7
-CHS7_2	Chitin synthase, class 7 
+CHS7_2	Chitin synthase, class 7
 CHS7_3	Chitin synthase, class 7
 CHS8	Chitin synthase, class 8
 CHS8_0	Chitin synthase, class 8
@@ -2454,7 +2454,7 @@ CYM1	metalloprotease
 CYM_0	Chymosin
 CYM_1	Chymosin
 CYN1	Cyanate hydratase
-CYP1    heme binding
+CYP1	heme binding
 CYP2U1	cytochrome P450
 CYP3	Peptidyl-prolyl cis-trans isomerase H
 CYP3A5	Cytochrome P450 3A5
