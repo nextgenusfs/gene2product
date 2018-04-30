@@ -755,7 +755,7 @@ ARL2	ADP-ribosylation factor-like protein 2
 ARL3	ADP-ribosylation factor family protein 3
 ARL5A	ADP-ribosylation factor-like protein 5A
 ARL8B	ADP-ribosylation factor-like protein 8B
-ARMC4	Armadillo repeat containing protein 4
+ARMC4	Armadillo repeat-containing protein 4
 ARMC7	Armadillo repeat-containing protein 7
 ARMC8_0	Armadillo repeat-containing protein 8
 ARMC8_1	Armadillo repeat-containing protein 8
@@ -1589,22 +1589,21 @@ CBP3	Protein CBP3, mitochondrial
 CBP4	assembly factor CBP4
 CBP6	mitochondrial translational activator
 CBP80	Component of the cap-binding complex (CBC)
-CBR1	cytochrome b reductase
+CBR1	NADH-cytochrome b5 reductase
 CBR1_0	NADH-cytochrome b5 reductase 1
 CBR1_1	NADH-cytochrome b5 reductase 1
 CBR1_2	NADH-cytochrome b5 reductase 1
 CBR1_3	NADH-cytochrome b5 reductase 1
-CBR2	NADH-cytochrome b-5 reductase
-CBR3	NADH-cytochrome b-5 reductase
+CBR2	NADH-cytochrome b-5 reductase-like protein
 CBR4_0	Carbonyl reductase family member 4
 CBR4_1	Carbonyl reductase family member 4
-CBS1	mitochondrial translational activator
-CBS2	mitochondrial translational activator
+CBS1	Cytochrome B translational activator protein CBS1, mitochondrial
+CBS2	Cytochrome B translational activator protein CBS2
 CBSCBSPB3	CBS domain-containing protein CBSCBSPB3
 CBSDUF6	DUF21 domain-containing protein
 CBT1	cytochrome B termination
 CBWD1	COBW domain-containing protein 1
-CC2D1B	coiled-coil and C2 domain containing
+CC2D1B	Coiled-coil and C2 domain-containing protein 1B
 CC-RAS	Ras-like protein
 CCA1	CCA tRNA nucleotidyltransferase, mitochondrial
 CCA12	Cyclin-A1-2
@@ -1616,9 +1615,9 @@ CCC2.2	copper-transporting ATPase (Cu(2+)-ATPase)
 CCC2.3	copper-transporting P1-type ATPase
 CCD94	Coiled-coil domain-containing protein 94
 CCDC6	Coiled-coil domain-containing protein 6
-CCDC12	Coiled-coil domain containing 12
+CCDC12	Coiled-coil domain-containing protein 12
 CCDC25	Coiled-coil domain-containing protein 25
-CCDC97	Coiled-coil domain containing 97
+CCDC97	Coiled-coil domain-containing protein 97
 CCDC101	SAGA-associated factor 29
 CCDC130	Coiled-coil domain-containing protein 130
 CCDC174	Coiled-coil domain-containing protein 174
@@ -2843,9 +2842,9 @@ DCL-2	ATP-dependent helicase DCL-2
 DCLRE1A	DNA cross-link repair 1A protein
 DCM1	RecA family ATPase
 DCN1	Scaffold-type E3 ligase
-DCP1	Dcp1p-Dcp2p decapping enzyme complex catalitic subunit
-DCP1B	Dcp1-like decapping
-DCP2	decapping enzyme complex catalytic subunit
+DCP1	mRNA-decapping enzyme subunit 1
+DCP1B	mRNA-decapping enzyme 1B
+DCP2	mRNA-decapping enzyme subunit 2
 DCPS	m7GpppX diphosphatase
 DCR1	ribonuclease III
 DCR1A	DNA cross-link repair 1A protein
@@ -5023,7 +5022,7 @@ HDQ2	hydroxyquinol 1,2- dioxygenase
 HEATR1	HEAT repeat-containing protein 1
 HEATR2	Inherit from euNOG: HEAT repeat containing 2
 HEATR5B	HEAT repeat-containing protein 5B
-HEATR6	HEAT repeat containing 6
+HEATR6	HEAT repeat-containing protein 6
 HECTD2	domain containing E3 ubiquitin protein ligase
 HEF3	translation elongation factor EF-3
 HEK2	RNA binding protein, heterogenous nuclear RNP-K like protein
@@ -7566,9 +7565,9 @@ ISC10	induced in sporogenesis
 ISCU	Iron-sulfur cluster assembly enzyme ISCU, mitochondrial
 ISM1	isoleucine-tRNA ligase
 ISN1	IMP 5'-nucleotidase
-ISOC1	Isochorismatase domain containing 1
-ISOC2_0	Isochorismatase domain-containing protein 2, mitochondrial
-ISOC2_1	Isochorismatase domain-containing protein 2, mitochondrial
+ISOC1	Isochorismatase domain-containing protein 1
+ISOC2_0	Isochorismatase domain-containing protein 2
+ISOC2_1	Isochorismatase domain-containing protein 2
 ISOLY	isocitrate lyase
 ISP4	sexual differentiation process protein ISP4
 ISR1	Putative protein kinase
@@ -14788,8 +14787,8 @@ TOA2	Transcription initiation factor IIA small chain (TFIIA 13.5 kDa subunit)
 TOB1	transducer of ERBB2
 TOC34	Translocase of chloroplast
 TOE1	Target of EGR1, member 1 (Nuclear)
-TOF1	DNA repair
-TOF2	topoisomerase I-interacting factor
+TOF1	Topoisomerase 1-associated factor 1
+TOF2	Topoisomerase 1-interacting factor 2
 TOH1	GPI-anchored cell wall protein
 TOK1	Potassium channel
 TOK1_0	Outward-rectifier potassium channel TOK1
@@ -17631,15 +17630,15 @@ chr3_5	Chitin synthase regulatory factor 3
 chr4	1,3-beta-glucan synthase regulatory factor Chf3/Chr4
 chs1	chitin synthase I
 chs2	Chitin synthase 2
-chs7	Chitin synthase export chaperone
-chs7_1	Chitin synthase export chaperone
-chs7_2	Chitin synthase export chaperone
-chs-1	chitin synthase
+chs7	Chitin synthase 7
+chs7_1	Chitin synthase 7
+chs7_2	Chitin synthase 7
+chs-1	chitin synthase 1
 chs-2	Chitin synthase 2
 chs-3	Chitin synthase 3
 chs-4	Chitin synthase 4
-chs-5	chitin synthase C
-chs-6	chitin synthase D
+chs-5	chitin synthase 5
+chs-6	chitin synthase 6
 chsA	Chitin synthase A
 chsC	Chitin synthase C
 chsD	Chitin synthase D
@@ -22013,7 +22012,7 @@ ppi1_0	Peptidyl-prolyl cis-trans isomerase
 ppi1_1	Peptidyl-prolyl cis-trans isomerase
 ppi1_2	Peptidyl-prolyl cis-trans isomerase
 ppiB	Peptidyl-prolyl cis-trans isomerase B
-ppk3	HEAT repeat protein Ppk3
+ppk3	HEAT repeat-containing protein Ppk3
 ppk4	Serine/threonine-protein kinase ppk4
 ppk6_0	Serine/threonine-protein kinase ppk6
 ppk6_1	Serine/threonine-protein kinase ppk6
