@@ -2972,7 +2972,7 @@ DIC1_0	Mitochondrial dicarboxylate transporter
 DIC1_1	Mitochondrial dicarboxylate transporter
 DIC1_2	Mitochondrial dicarboxylate transporter
 DICER	Endoribonuclease Dicer
-DID2	Inherit from dotNOG: Snf7
+DID2	Vacuolar-sorting protein SNF7
 DID4	ESCRT-III subunit protein DID4
 DIE2	Dolichyl-phosphate-glucose-glycolipid alpha-glucosyltransferase-like protein
 DIG1	down-regulator of invasive growth
@@ -5040,7 +5040,7 @@ HDNO_1	6-hydroxy-D-nicotine oxidase
 HDNO_2	6-hydroxy-D-nicotine oxidase
 HDQ2	hydroxyquinol 1,2- dioxygenase
 HEATR1	HEAT repeat-containing protein 1
-HEATR2	Inherit from euNOG: HEAT repeat containing 2
+HEATR2	HEAT repeat-containing protein 2
 HEATR5B	HEAT repeat-containing protein 5B
 HEATR6	HEAT repeat-containing protein 6
 HECTD2	Probable E3 ubiquitin-protein ligase HECTD2
@@ -7606,7 +7606,7 @@ ISW2_0	ISWI chromatin-remodeling complex ATPase ISW2
 ISW2_1	ISWI chromatin-remodeling complex ATPase ISW2
 ISY1	NineTeen Complex (NTC) component
 ITC1	ATP-dependent Isw2p-Itc1p chromatin remodeling complex subunit
-ITFG2	integrin alpha FG-GAP repeat containing 2
+ITFG2	integrin alpha FG-GAP repeat-containing protein 2
 ITGA8	integrin subunit alpha 8
 ITPK1	Inositol-tetrakisphosphate 1-kinase
 ITR1	myo-inositol transporter ITR1
@@ -8149,7 +8149,7 @@ LRO1	phospholipid:diacylglycerol acyltransferase
 LRP1	Exosome complex protein
 LRP2BP	LRP2 binding protein
 LRRC10B	Leucine-rich repeat-containing protein 10B
-LRRC34	leucine rich repeat containing protein 34
+LRRC34	Leucine-rich repeat-containing protein 34
 LRRC40	Leucine-rich repeat-containing protein 40
 LRRC58_0	Leucine-rich repeat-containing protein 58
 LRRC58_1	Leucine-rich repeat-containing protein 58
@@ -14603,7 +14603,7 @@ TDP1	tyrosyl-DNA phosphodiesterase 1
 TDRD3	tudor domain-containing protein 3
 TEA1	Ty enhancer activator
 TEC1	Transcription factor
-TECPR1	Tectonin beta-propeller repeat containing 1
+TECPR1	Tectonin beta-propeller repeat-containing 1
 TED1	Protein TED1
 TEF	Elongation factor 1-alpha
 TEF1	translation elongation factor EF-1 alpha
@@ -16970,7 +16970,7 @@ arsB_1	Arsenite resistance protein ArsB
 arsC	Protein ArsC
 art1	arrestin family protein
 aru1	arginase Aru1
-arz1	armadillo repeat containing, Zfs1 target number 1
+arz1	Armadillo repeat-containing zfs1 target protein 1
 asa1	Astra associated protein 1 Asa1
 asa-1	ASTRA-associated protein 1
 asd1	aspartate-semialdehyde dehydrogenase-like protein
@@ -16979,7 +16979,7 @@ asd-3	ascus development protein 3
 asd-4	GATA type zinc finger protein ASD4
 ase1	Anaphase spindle elongation protein 1
 asf1	Histone chaperone asf1
-asf-1	histone chaperone asf-1
+asf-1	Histone chaperone asf-1
 ash2	Ash2-trithorax family protein
 ask1	DASH complex subunit Ask1
 asl1_0	Alkali-sensitive linkage protein 1
