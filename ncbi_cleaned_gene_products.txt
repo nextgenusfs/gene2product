@@ -1810,7 +1810,7 @@ CENPI	Centromere protein I
 CEP3	Cbf3 kinetochore protein complex subunit b
 CEP104	Centrosomal protein
 CES	Carboxylesterase/lipase/ esterase
-CET1	MRNA capping
+CET1	mRNA-capping enzyme subunit beta
 CETN1	Centrin-1
 CETN3	Centrin-3
 CEX1	Nuclear aminoacylation-dependent tRNA export pathway component
@@ -2487,7 +2487,7 @@ CYP4F3_3	Docosahexaenoic acid omega-hydroxylase CYP4F3
 CYP4F3_4	Docosahexaenoic acid omega-hydroxylase CYP4F3
 CYP4F12	Cytochrome P450 family 4 subfamily F member 12
 CYP5	peptidylprolyl isomerase family protein
-CYP6	Peptidyl-prolyl cis-trans isomerase-like 4
+CYP6	Peptidyl-prolyl cis-trans isomerase cyp6
 CYP7A1	Cholesterol 7-alpha-monooxygenase
 CYP8	Peptidyl-prolyl cis-trans isomerase-like 2
 CYP10	Peptidyl-prolyl cis-trans isomerase-like 3
@@ -3996,7 +3996,7 @@ FPGS	folylpolyglutamate synthase
 FPK1	Ser/Thr protein kinase
 FPPS	Farnesyl pyrophosphate synthase
 FPR1	FK506 binding protein proline rotamase rapamycin-binding protein
-FPR2	Peptidyl-prolyl cis-trans isomerase
+FPR2	Peptidyl-prolyl cis-trans isomerase FPR2
 FPR3	peptidylprolyl isomerase FPR3
 FPR4	peptidylprolyl isomerase FPR4
 FPS1	glycerol channel
@@ -8964,7 +8964,7 @@ MOB2_0	CBK1 kinase activator protein MOB2
 MOB2_1	CBK1 kinase activator protein MOB2
 MOB4	MOB member 4, phocein
 MOCOS	Molybdenum cofactor sulfurase
-MOCS1	Molybdenum cofactor synthesis 1
+MOCS1	Molybdenum cofactor synthesis protein 1
 MOCS2	Molybdopterin synthase catalytic subunit
 MOCS3	Molybdenum cofactor synthesis protein 3
 MOD5	tRNA isopentenyltransferase
@@ -10838,7 +10838,7 @@ PIL1_2	Sphingolipid long chain base-responsive protein PIL1
 PIM1	ATP-dependent Lon protease PIM1
 PIM1-1	ATP-dependent Lon protease
 PIM1-2	ATP-dependent Lon protease
-PIN1	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1
+PIN1	Peptidyl-prolyl cis-trans isomerase NIMA-interacting protein 1
 PIN2	protein that induces appearance of [PIN+] prion when overproduced
 PIN3	protein that induces appearance of [PIN+] prion when overproduced
 PIN4	Peptidyl-prolyl cis-trans isomerase PIN4
