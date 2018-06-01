@@ -2469,9 +2469,9 @@ CYM_0	Chymosin
 CYM_1	Chymosin
 CYN1	Cyanate hydratase
 CYP1	heme binding
-CYP1A2	cytochrome P450, 1, sub A, polypeptide
-CYP2R1	Cytochrome P450 2 sub
-CYP2U1	cytochrome P450 2U1
+CYP1A2	cytochrome P450 family 1 subfamily A member 2
+CYP2R1	Cytochrome P450 family 2 subfamily R member 1
+CYP2U1	cytochrome P450 family 2 subfamily U member 1
 CYP3	Peptidyl-prolyl cis-trans isomerase H
 CYP3A5	Cytochrome P450 3A5
 CYP3A28_0	Cytochrome P450 3A28
@@ -2485,7 +2485,7 @@ CYP4F3_1	Docosahexaenoic acid omega-hydroxylase CYP4F3
 CYP4F3_2	Docosahexaenoic acid omega-hydroxylase CYP4F3
 CYP4F3_3	Docosahexaenoic acid omega-hydroxylase CYP4F3
 CYP4F3_4	Docosahexaenoic acid omega-hydroxylase CYP4F3
-CYP4F12	Cytochrome P450 4F12
+CYP4F12	Cytochrome P450 family 4 subfamily F member 12
 CYP5	peptidylprolyl isomerase family protein
 CYP6	Peptidyl-prolyl cis-trans isomerase-like 4
 CYP7A1	Cholesterol 7-alpha-monooxygenase
@@ -2497,7 +2497,7 @@ CYP51A1	Lanosterol 14-alpha demethylase
 CYP51G1	Sterol 14-demethylase
 CYP51_0	Lanosterol 14-alpha demethylase
 CYP51_1	Lanosterol 14-alpha demethylase
-CYP52	Cytochrome P450 52A3 (CYPLIIA3)
+CYP52	Cytochrome P450 52A3
 CYP52A1	Cytochrome P450 52A1
 CYP52A9	Cytochrome P450 52A9
 CYP52A12	Cytochrome P450 52A12
