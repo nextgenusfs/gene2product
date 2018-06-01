@@ -11903,10 +11903,10 @@ RAD32	DNA-directed DNA polymerase eta RAD32
 RAD33	DNA repair protein RAD33
 RAD50	DNA repair protein RAD50
 RAD51	recombinase RAD51
-RAD51C	DNA repair protein RAD51
-RAD51D	DNA repair protein RAD51 4
-RAD51_0	DNA repair protein RAD51 1
-RAD51_1	DNA repair protein RAD51 1
+RAD51C	DNA repair protein RAD51C
+RAD51D	DNA repair protein RAD51D
+RAD51_0	DNA repair protein RAD51
+RAD51_1	DNA repair protein RAD51
 RAD52	DNA repair protein RAD52
 RAD53	Protein kinase protein RAD53
 RAD54	DNA-dependent ATPase protein RAD54
@@ -13583,12 +13583,13 @@ SMARCD1	SWI SNF , matrix associated, actin dependent regulator of chromatin, sub
 SMARCD3	SWI SNF, matrix associated, actin dependent regulator of chromatin
 SMB1	Sm B
 SMBP2	DNA-binding protein SMUBP-2
-SMC1	chromosome segregation protein SMC1
+SMC1	Structural maintenance of chromosomes protein 1
+SMC1A	Structural maintenance of chromosomes protein 1A
 SMC2	Structural maintenance of chromosomes protein 2
-SMC3	Multiprotein cohesin complex subunit
-SMC4	Structural maintenance of chromosomes protein
-SMC5	structural maintenance of chromosomes protein
-SMC6	DNA repair protein
+SMC3	Structural maintenance of chromosomes protein 3
+SMC4	Structural maintenance of chromosomes protein 4
+SMC5	Structural maintenance of chromosomes protein 5
+SMC6	Structural maintenance of chromosomes protein 6
 SMD1	mRNA splicing protein SMD1
 SMD2	mRNA splicing protein
 SMD3	small nuclear ribonucleoprotein Sm D3
@@ -20272,12 +20273,12 @@ mcmbp	Mini-chromosome maintenance complex-binding protein
 mcmbp_0	Mini-chromosome maintenance complex-binding protein
 mcmbp_1	Mini-chromosome maintenance complex-binding protein
 mcp1	sequence orphan
-mcp2	Meiotic coiled-coil protein 2
+mcp2	Meiotic coiled-coil domain containing protein 2
 mcp3	sequence orphan
 mcp4	prospore membrane protein Mcp4/Mug101
 mcp5	cortical anchoring factor for dynein Mcp5/Num1
 mcp6	horsetail movement protein Hrs1/Mcp6
-mcp7	meiosis specific coiled-coil protein Mcp7
+mcp7	meiosis specific coiled-coil domain containing protein Mcp7
 mcp60	mitochondrial heat shock protein Hsp60/Mcp60
 mcr1	NADH-cytochrome b5 reductase 2
 mcrA	Mitomycin radical oxidase
@@ -23571,12 +23572,13 @@ slx4	Structure-specific endonuclease subunit slx4
 slx9	Ribosome biogenesis protein slx9
 smarcb1a	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1-A
 smb1	Small nuclear ribonucleoprotein-associated protein B
-smc1	SMC1 protein
-smc2	SMC2 protein
-smc3	SMC3 protein
+smc1	Structural maintenance of chromosomes protein 1
+smc1A	Structural maintenance of chromosomes protein 1A
+smc2	Structural maintenance of chromosomes protein 2
+smc3	Structural maintenance of chromosomes protein 3
 smc4/csm1	SMC4/CSM1 protein
-smc5	SMC5 protein
-smc6	SMC6 protein
+smc5	Structural maintenance of chromosomes protein 5
+smc6	Structural maintenance of chromosomes protein 6
 smc6_0	Structural maintenance of chromosomes protein 6
 smc6_1	Structural maintenance of chromosomes protein 6
 smco-1	calcium channel subunit Cch1
