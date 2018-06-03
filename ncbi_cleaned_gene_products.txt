@@ -14527,7 +14527,7 @@ TB22A	TBC1 domain family member 22A
 TBA	Tubulin alpha chain
 TBB	Tubulin beta chain
 TBB1	Tubulin beta-1 chain
-TBC1D9	B
+TBC1D9	TBC1 domain family member 9
 TBC1D13	TBC1 domain family member 13
 TBC1D15	TBC1 domain family member 15
 TBC13	TBC1 domain family member 13
@@ -16166,33 +16166,33 @@ YOR1_1	Oligomycin resistance ATP-dependent permease YOR1
 YOR1_2	Oligomycin resistance ATP-dependent permease YOR1
 YOR2	Oligomycin resistance ATP-dependent permease
 YOS1	Protein transport protein YOS1
-YOS9	OS-9
+YOS9	Protein OS-9
 YOX1	Homeobox protein YOX1
 YOX2	Homeodomain protein
 YOX7	Putative E3 ubiquitin-protein ligase
 YPC1	Alkaline ceramidase
 YPD1	Phosphorelay intermediate protein
-YPF1	aspartic endopeptidase
+YPF1	Aspartic endopeptidase
 YPI1	Type 1 phosphatases regulator YPI1
-YPK1	serine/threonine protein kinase, AGC family
+YPK1	Serine/threonine protein kinase, AGC family
 YPK2	Serine/threonine-protein kinase
 YPK9	Vacuolar cation-transporting ATPase
 YPO7	Fe-S oxidoreductase
-YPP1	cargo-transport protein YPP1
-YPQ1	cationic amino acid transporter
+YPP1	Cargo-transport protein YPP1	
+YPQ1	Cationic amino acid transporter
 YPQ2	Putative vacuolar membrane transporter for cationic amino acids
 YPR1	NADPH-dependent aldo-keto reductase
 YPR015C_0	Zinc finger protein
 YPR015C_1	Zinc finger protein
 YPR015C_2	Zinc finger protein
-YPS1	aspartyl protease
+YPS1	Aspartyl protease
 YPS1-1	Aspartic proteinase 3
 YPS1-2	Aspartic proteinase 3
 YPS1-3	Aspartic proteinase 3
 YPS1-4	Aspartic proteinase 3
 YPS1-5	Aspartic proteinase 3
-YPS3	aspartyl protease
-YPS6	aspartic protease
+YPS3	Aspartyl protease
+YPS6	Aspartic protease
 YPT1	GTP-binding protein of the rab family
 YPT3	Ras-related protein YPT3
 YPT6	Rab family GTPase YPT6
@@ -24963,7 +24963,7 @@ yodQ	acetylornithine deacetylase
 yop1	ER membrane protein DP1/Yop1
 yop-1	Protein yop-1
 yos1	Protein transport protein yos1
-yos9	Protein OS-9 like protein
+yos9	Protein OS-9
 yox1	MBF complex negative regulatory component Yox1
 ypdA	histidine-containing phosphotransfer protein (Eurofung)
 ypel3	Protein yippee-like 3
