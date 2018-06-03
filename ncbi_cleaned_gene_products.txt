@@ -20754,7 +20754,7 @@ mug113	Meiotically up-regulated gene 113 protein
 mug114	Meiotically up-regulated gene 114 protein
 mug115	Meiotically up-regulated gene 115 protein
 mug116	Meiotically up-regulated gene 116 protein
-mug117  Meiotically up-regulated gene 117 protein
+mug117	Meiotically up-regulated gene 117 protein
 mug121	Meiotically up-regulated gene 121 protein
 mug122	Meiotically up-regulated gene 122 protein
 mug123	Meiotically up-regulated gene 123 protein
