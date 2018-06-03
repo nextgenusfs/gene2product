@@ -487,7 +487,7 @@ ALG12	dolichyl-P-Man:Man(7)GlcNAc(2)-PP-dolichol alpha-1,6-mannosyltransferase
 ALG13	N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase catalytic subunit ALG13
 ALG14	UDP-N-acetylglucosamine transferase subunit
 ALH9	Putative aldehyde dehydrogenase family 7 member A1
-ALI1	Probable NADH-ubiquinone oxidoreductase 30.4 kDa subunit, mitochondrial
+ALI1	Putative NADH-ubiquinone oxidoreductase 30.4 kDa subunit, mitochondrial
 ALK1	protein kinase ALK1
 ALK2	Protein kinase ALK2
 ALKBH2	Alpha-ketoglutarate-dependent dioxygenase alkB 2
@@ -3096,7 +3096,7 @@ DPP1-3	Diacylglycerol pyrophosphate (DGPP) phosphatase
 DPP2	phosphatidate phosphatase
 DPP3	bifunctional diacylglycerol diphosphate phosphatase/phosphatidate phosphatase
 DPP4	diacylglycerol pyrophosphate phosphatase
-DPP5	Probable dipeptidyl-peptidase 5
+DPP5	Putative dipeptidyl-peptidase 5
 DPP8	dipeptidylpeptidase
 DPP9	Dipeptidyl peptidase 9
 DPPA	Periplasmic dipeptide transport protein
@@ -3403,7 +3403,7 @@ EHT1	medium-chain fatty acid ethyl ester synthase/esterase 2
 EI2BE	Translation initiation factor eIF-2B subunit epsilon
 EI24	Etoposide induced 2.4 mRNA
 EID3	EP300-interacting inhibitor of differentiation 3
-EIF1AD	Probable RNA-binding protein EIF1AD
+EIF1AD	Putative RNA-binding protein EIF1AD
 EIF1AX	Eukaryotic translation initiation factor 1A, X-chromosomal
 EIF1AY	Eukaryotic translation initiation factor 1A, Y-chromosomal
 EIF2A	Eukaryotic translation initiation factor 2A
@@ -5043,7 +5043,7 @@ HEATR1	HEAT repeat-containing protein 1
 HEATR2	HEAT repeat-containing protein 2
 HEATR5B	HEAT repeat-containing protein 5B
 HEATR6	HEAT repeat-containing protein 6
-HECTD2	Probable E3 ubiquitin-protein ligase HECTD2
+HECTD2	Putative E3 ubiquitin-protein ligase HECTD2
 HEF3	Translation elongation factor EF-3
 HEK2	RNA binding protein, heterogenous nuclear RNP-K like protein
 HEL1	E3 ubiquitin-protein ligase HEL1
@@ -9116,7 +9116,7 @@ MSB3	GTPase-activating protein
 MSB4	Rab GTPase-activating protein MSB4
 MSBP1	Membrane steroid-binding protein 1
 MSC1	meiotic sister-chromatid recombination-related protein
-MSC2	Probable zinc transporter MSC2
+MSC2	Putative zinc transporter MSC2
 MSC3	Meiotic sister-chromatid recombination-related protein 3
 MSC6	Meiotic sister-chromatid recombination-related protein 6, mitochondrial
 MSC7	Meiotic Sister-Chromatid recombination aldehyde dehydrogenase
@@ -9880,7 +9880,7 @@ NRPS5	NRPS5 single domain, non-ribosomal peptide synthase-like protein
 NRPS12	Nonribosomal peptide synthetase 12
 NRPS13	Nonribosomal peptide synthetase 13
 NRPS14	Nonribosomal peptide synthetase 14
-NRS1	Probable asparagine--tRNA ligase, cytoplasmic
+NRS1	Putative asparagine--tRNA ligase, cytoplasmic
 NRT1	nicotinamide riboside transporter
 NS4	Ferrous iron transport protein B
 NS.00478	Putative 4a-hydroxytetrahydrobiopterin dehydratase
@@ -11301,7 +11301,7 @@ PRE6	Proteasome subunit alpha type-4
 PRE7	Proteasome subunit beta type-6
 PRE8	Proteasome subunit alpha type-2
 PRE9	Proteasome subunit alpha type-3
-PRE10	Probable proteasome subunit alpha type-7
+PRE10	Putative proteasome subunit alpha type-7
 PRG4	Proteoglycan-4
 PRI1	p48 polypeptide of DNA primase
 PRI2	DNA primase subunit PRI2
@@ -11936,7 +11936,7 @@ RAP1	DNA-binding transcription factor RAP1
 RAP1B	Ras- protein Rap-1b
 RAP1GAP2	Rap1 GTPase-activating protein 2
 RAPGAP1	Rap/ran-GAP protein
-RAR1	Probable methionine--tRNA ligase, cytoplasmic protein RAR1
+RAR1	Putative methionine--tRNA ligase, cytoplasmic protein RAR1
 RARS2	Arginyl-tRNA synthetase
 RAS	Ras-like protein
 RAS1	Ras family GTPase
@@ -16292,7 +16292,7 @@ ZCCHC8	Zinc finger CCHC domain-containing protein 8
 ZCF2	Putative transcription factor
 ZDHC2	Palmitoyltransferase ZDHHC2
 ZDHHC2	Palmitoyltransferase ZDHHC2
-ZDHHC14	Probable Palmitoyltransferase ZDHHC14
+ZDHHC14	Putative Palmitoyltransferase ZDHHC14
 ZDHHC15	Palmitoyltransferase ZDHHC15
 ZDS1	zillion different screens protein
 ZEO1	zeocin resistance
