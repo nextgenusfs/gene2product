@@ -214,6 +214,7 @@ ACTL6A	Actin-like 6A
 ACTL6A_0	Actin-like protein 6A
 ACTL6A_1	Actin-like protein 6A
 ACTL6B	Actin-like protein 6B
+ACTL10	Actin-like protein 10
 ACTN1	Alpha-actinin-1
 ACTN2	actinin alpha 2
 ACTR10	Actin-related protein 10
@@ -539,6 +540,7 @@ AMI1	Amidase 1
 AMI2	Glutamyl-tRNA(Gln) amidotransferase subunit A (amidase)
 AML1	Meiosis protein mei2
 AMMECR1L	AMME chromosomal region protein 1-like
+AMMECR1	AMME syndrome candidate gene 1 protein
 AMN1	Antagonist of MEN (Mitotic Exit Network)
 AMN1_0	Antagonist of mitotic exit network protein 1
 AMN1_1	Antagonist of mitotic exit network protein 1
@@ -1563,6 +1565,7 @@ CARP_8	Polyporopepsin
 CAS1	CRISPR-associated protein 1
 CAS42	Triose-phosphate Transporter family
 CAS91	Maltose acetyltransferase
+CASQ1	Calsequestrin-1
 CAT	Catalase
 CAT1	catalase A
 CAT2	Carnitine O-acetyltransferase mitochondrial
@@ -1967,10 +1970,11 @@ CHS8_10	Chitin synthase, class 8
 CHS8_11	Chitin synthase, class 8
 CHSA	Chalcone synthase A
 CHT	Cyanide hydratase
-CHT1	Chitinase
+CHT1	Chitinase 1
 CHT1.1	Chitinase, glycoside hydrolase family 18 protein
 CHT1.2	Chitinase, glycoside hydrolase family 18 protein
-CHT2	Chitinase 2 precursor
+CHT2	Chitinase 2
+CHT3	Chitinase 3
 CHTF8	Chromosome transmission fidelity protein 8
 CHX19	Cation/H(+) antiporter 19
 CHZ1	Histone H2A.Z-specific chaperone
@@ -2385,6 +2389,7 @@ CTS1	Endochitinase 1
 CTS1_1	Endochitinase 1
 CTS1_2	Endochitinase 1
 CTS1_3	Endochitinase 1
+CTS2	Glycoside hydrolase 18 protein
 CTSD	plasmepsin-2
 CTSD_3	Cathepsin D
 CTSE	Cathepsin E
@@ -3420,6 +3425,7 @@ EIF2D	Eukaryotic translation initiation factor 2D
 EIF2GAMMA	Eukaryotic translation initiation factor 2 subunit 3
 EIF2S3	Eukaryotic translation initiation factor 2 subunit 3
 EIF3E	Eukaryotic translation initiation factor 3 subunit E
+EIF3L	Eukaryotic translation initiation factor 3 subunit L
 EIF4E	translation initiation factor eIF4E
 EIF4E2	Eukaryotic translation initiation factor 4E type 2
 EIF6	eukaryotic translation initiation factor 6
@@ -5036,6 +5042,7 @@ HDAC4_0	Histone deacetylase 4
 HDAC4_1	Histone deacetylase 4
 HDAC8	Histone deacetylase 8
 HDAC9	Histone deacetylase
+HDDC2	HD domain-containing protein 2
 HDGFL1	hepatoma derived growth factor-like 1
 HDH	Histidinol dehydrogenase, chloroplastic
 HDHD1	Pseudouridine-5'-phosphatase
@@ -5265,6 +5272,7 @@ HOF1	formin-binding protein
 HOG1	MAPK protein HOG1
 HOG1_0	Mitogen-activated protein kinase HOG1
 HOG1_1	Mitogen-activated protein kinase HOG1
+HOGA1	4-hydroxy-2-oxoglutarate aldolase, mitochondrial
 HOL4	Transient receptor potential cation channel subfamily M member 4
 HOL5	member of major facilitator superfamily multidrug-resistance protein
 HOL11	histidinol and sodium permease
@@ -7495,6 +7503,7 @@ IMP3	Small subunit (SSU) processome component
 IMP4	snoRNA-binding rRNA-processing protein IMP4
 IMPA3	Importin subunit alpha-3
 IMPA9	Importin subunit alpha-9
+IMPDH1	Inosine-5'-monophosphate dehydrogenase 1
 IND1	Iron-sulfur protein
 INDA1	Amino-acid permease inda1
 ING1	PHD finger protein ING1
@@ -7738,7 +7747,9 @@ KCTD7	BTB (POZ) domain-containing protein
 KCTD14	BTB/POZ domain-containing protein KCTD14
 KCTD16	BTB/POZ domain-containing protein KCTD16
 KCY	Cytidylate kinase
+KDELR1	ER lumen protein-retaining receptor 1
 KDELR2	ER lumen protein-retaining receptor 2
+KDELR3	ER lumen protein-retaining receptor 3
 KDM1A	Lysine-specific histone demethylase 1A
 KDM3B	Lysine-specific demethylase 3B
 KDM5D	Lysine-specific demethylase 5D
@@ -7893,6 +7904,7 @@ KTR5	alpha-1,2-mannosyltransferase (Kre5)
 KTR7	Kre2-related protein
 KU70	ATP-dependent DNA helicase II subunit 1
 KU80	ATP-dependent DNA helicase II subunit 2
+KUP1	Putative potassium transport system protein kup 1
 KYE1	enoate reductase 1
 KYNU	kynureninase
 Kat7	Histone acetyltransferase KAT7
@@ -9046,6 +9058,7 @@ MRM2	2' O-ribose methyltransferase
 MRN1	RNA-binding protein
 MRP1	mitochondrial ribosomal small subunit component
 MRP2	40S ribosomal protein MRP2, mitochondrial
+MRP3	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial
 MRP4	37S ribosomal protein, mitochondrial
 MRP7	54S ribosomal protein L2, mitochondrial
 MRP8	mitochondrial ribosomal protein
@@ -9234,6 +9247,7 @@ MUC1.9	mucin-like protein with chitinase features
 MUC1.10	repeated sequence with similarity to MUC1
 MUC1.11	MUC1-like protein
 MUC2	putative cell wall protein
+MUC21	Mucin-21
 MUD1	U1 small nuclear ribonucleoprotein A
 MUG70	Meiotically up-regulated gene 70 protein
 MUG81	Putative helicase mug81
@@ -12417,49 +12431,50 @@ RPII	DNA-directed RNA polymerase II subunit RPB1
 RPL1A	ribosomal 60S subunit protein L1A
 RPL1B	ribosomal 60S subunit protein L1B
 RPL2	ribosomal 60S subunit protein L2A
-RPL2A	ribosomal protein L2A
-RPL2B	ribosomal 60S subunit protein L2B
-RPL3	ribosomal 60S subunit protein L3
-RPL3B	50S ribosomal protein L3-2, chloroplastic
+RPL2A	60S ribosomal protein L2-A
+RPL2B	60S ribosomal protein L2-B
+RPL21	60S ribosomal protein L21-A
+RPL3	60S ribosomal protein L3
+RPL3B	60S ribosomal protein L3-B
 RPL3_0	60S ribosomal protein L3
 RPL3_1	60S ribosomal protein L3
 RPL4	60S ribosomal protein L4
-RPL4A	ribosomal 60S subunit protein L4A
-RPL4B	ribosomal protein L4B
-RPL5	ribosomal protein L5
+RPL4A	60S ribosomal protein L4-A
+RPL4B	60S ribosomal protein L4-B
+RPL5	60S ribosomal protein L5
 RPL6	60S ribosomal protein L6
-RPL6A	ribosomal 60S subunit protein L6A
+RPL6A	60S ribosomal protein L6
 RPL6B	60S ribosomal protein L6-B
 RPL6_0	60S ribosomal protein L6
 RPL6_1	60S ribosomal protein L6
 RPL7	60S ribosomal protein L7
-RPL7A	ribosomal 60S subunit protein L7A
-RPL7B	60S ribosomal protein L7
+RPL7A	60S ribosomal protein L7-A
+RPL7B	60S ribosomal protein L7-B
 RPL7_0	60S ribosomal protein L7
 RPL7_1	60S ribosomal protein L7
-RPL8A	ribosomal 60S subunit protein L8A
+RPL8A	60S ribosomal protein L8-A
 RPL8B	60S ribosomal protein L8-B
 RPL9	60S ribosomal protein L9
 RPL9A	60S ribosomal protein L9-A
-RPL9B	ribosomal protein L9B
-RPL10	ribosomal 60S subunit protein L10
-RPL10A	60S ribosomal protein L10a
-RPL10C	60S ribosomal protein L10-3
+RPL9B	60S ribosomal protein L9-B
+RPL10	60S ribosomal protein L10
+RPL10A	60S ribosomal protein L10-A
+RPL10C	60S ribosomal protein L10-C
 RPL11	60S ribosomal protein L11
-RPL11A	ribosomal 60S subunit protein L11A
-RPL11B	Ribosomal 60S subunit protein L11B
-RPL12	ribosomal 60S subunit protein L12A
-RPL12A	ribosomal protein L12A
+RPL11A	ribosomal 60S subunit protein L11-A
+RPL11B	Ribosomal 60S subunit protein L11-B
+RPL12	ribosomal 60S subunit protein L12
+RPL12A	60S ribosomal protein L12-A
 RPL12B	60S ribosomal protein L7/L12
-RPL13	ribosomal 60S subunit protein L13A
-RPL13A	ribosomal_L13e super family
-RPL13B	ribosomal 60S subunit protein L13B
-RPL14	ribosomal 60S subunit protein L14B
-RPL14A	ribosomal protein L14A
+RPL13	60S ribosomal protein L13
+RPL13A	60S ribosomal protein L13-A
+RPL13B	60S ribosomal protein L13-B
+RPL14	60S ribosomal protein L14
+RPL14A	60S ribosomal protein L14-A
 RPL14B	60S ribosomal protein L14-B
 RPL15	60S ribosomal protein L15
-RPL15A	ribosomal protein L15A
-RPL15B	ribosomal 60S subunit protein L15B
+RPL15A	60S ribosomal protein L15-A
+RPL15B	60S ribosomal protein L15-B
 RPL15B_0	60S ribosomal protein L15-B
 RPL15B_1	60S ribosomal protein L15-B
 RPL16A	ribosomal protein L16A
@@ -13534,6 +13549,7 @@ SLC2A3_2	Solute carrier family 2, facilitated glucose transporter member 3
 SLC2A3_3	Solute carrier family 2, facilitated glucose transporter member 3
 SLC2A5	Solute carrier family 2, facilitated glucose transporter member 5
 SLC2A13	Proton myo-inositol cotransporter
+SLC3A1	Neutral and basic amino acid transport protein rBAT
 SLC4A1AP	Kanadaptin
 SLC7A6OS	solute carrier 7, member 6 opposite strand
 SLC7A9	b(0,+)-type amino acid transporter 1
@@ -14592,6 +14608,7 @@ TCB1_4	Transposable element Tcb1 transposase
 TCB2	Tricalbin-2
 TCB3	tricalbin-3
 TCC1	Transcription factor
+TCCB2	Putative Insecticidal toxin complex protein TccB2
 TCD1	tRNA threonylcarbamoyladenosine dehydratase 1
 TCD2	tRNA threonylcarbamoyladenosine dehydratase
 TCD4	Fe(II)-dependent sulfonate/alpha-ketoglutarate dioxygenase-like protein
@@ -15517,6 +15534,7 @@ UPS2	Phospholipid metabolism protein
 UPS2_0	Protein UPS2, mitochondrial
 UPS2_1	Protein UPS2, mitochondrial
 UQC2	Ubiquinol-cytochrome-c reductase complex core protein 2, mitochondrial precursor
+UQCRFS1	Cytochrome b-c1 complex subunit Rieske, mitochondrial
 UQCR10	Cytochrome b-c1 complex subunit 9
 UQCRC1	mitochondrial processing peptidase beta subunit
 URA1	dihydroorotate dehydrogenase
@@ -16388,6 +16406,7 @@ ZNFX1	NFX1-type zinc finger-containing protein 1
 ZNHIT2	Zinc finger HIT domain-containing protein 2
 ZNHIT6	Box C/D snoRNA protein 1
 ZNT8	Zinc transporter 8
+ZNRD1	DNA-directed RNA polymerase I subunit RPA12
 ZPAR2M0002	P2
 ZPARMT0001	COX2
 ZPARMT0003	COB
@@ -16423,6 +16442,7 @@ ZRT2_0	Zinc-regulated transporter 2
 ZRT2_1	Zinc-regulated transporter 2
 ZRT2_2	Zinc-regulated transporter 2
 ZRT3	Zinc transporter
+ZSCAN5B	Zinc finger and SCAN domain-containing protein 5B
 ZSCAN5C	Zinc finger and SCAN domain-containing protein 5C
 ZSWIM7	Zinc finger SWIM domain-containing protein 7
 ZTA1	NADPH:quinone reductase
