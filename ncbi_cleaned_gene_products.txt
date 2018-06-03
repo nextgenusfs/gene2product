@@ -8065,7 +8065,7 @@ LIG4	DNA ligase (ATP)
 LIG4_0	DNA ligase 4
 LIG4_1	DNA ligase 4
 LIN1	U5 snRNP complex subunit LIN1
-LIN53	Probable histone-binding protein lin-53
+LIN53	Putative histone-binding protein lin-53
 LIP	Lipase
 LIP1	sphingosine N-acyltransferase subunit LIP1
 LIP1_0	Lipase 1
@@ -10649,7 +10649,7 @@ PFA4_1	Palmitoyltransferase PFA4
 PFA4_2	Palmitoyltransferase PFA4
 PFA5	palmitoyltransferase PFA5
 PFD1	prefolding complex chaperone subunit
-PFDN1	Binds specifically to cytosolic chaperonin (c-CPN) and transfers target proteins to it
+PFDN1	Prefoldin subunit 1
 PFDN2	Prefoldin subunit 2
 PFDN4	Prefoldin subunit 4
 PFDN5	Prefoldin subunit 5
