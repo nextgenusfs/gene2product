@@ -11442,6 +11442,7 @@ PSD12	26S proteasome non-ATPase regulatory subunit 12
 PSD13	26S proteasome non-ATPase regulatory subunit 13
 PSDE	26S proteasome non-ATPase regulatory subunit 14
 PSE1	importin subunit beta-3
+PSEN1	Presenilin-1
 PSF1	DNA replication protein PSF1
 PSF2	DNA replication protein PSF2
 PSF3	DNA replication protein
@@ -14729,6 +14730,7 @@ TIF1_0	ATP-dependent RNA helicase eIF4A
 TIF1_1	ATP-dependent RNA helicase eIF4A
 TIF2	translation initiation factor eIF4A subunit
 TIF3	Eukaryotic translation initiation factor 4B
+TIF3H1	Eukaryotic translation initiation factor 3 subunit H
 TIF4A-3	Eukaryotic initiation factor 4A-3
 TIF5	eukaryotic translation initiation factor 5
 TIF11	Translation initiation factor 1A
@@ -14790,22 +14792,23 @@ TMA19	Ribosome associating protein
 TMA20	translation machinery-associated protein 20
 TMA22	Translation machinery-associated protein 22
 TMA23	Ribosome biogenesis protein
-TMA46	translation machinery-associated protein 46
+TMA46	Translation machinery-associated protein 46
 TMA64	Translation machinery-associated protein 64
 TMBIM4	Transmembrane BAX inhibitor motif-containing protein 4
 TMC1	AN1-type zinc finger protein TMC1
 TMCO3	Transmembrane and coiled-coil domains-containing protein 3
 TMCO7	transmembrane and coiled-coil domains-containing protein 7
 TMED9	Transmembrane emp24 domain-containing protein 9
-TMEM62	transmembrane protein 62
-TMEM63C	transmembrane protein 63C
+TMEM48	Nucleoporin NDC1
+TMEM62	Transmembrane protein 62
+TMEM63C	Transmembrane protein 63C
 TMEM110	Transmembrane protein 110
 TMEM115	Transmembrane protein 115
 TMEM167A	Protein kish-A
 TMF1	TATA element modulatory factor 1
 TML1	Trimethyllysine dioxygenase
 TMLHE	Trimethyllysine dioxygenase, mitochondrial
-TMN3	cellular adhesion and filamentous growth protein
+TMN3	Cellular adhesion and filamentous growth protein
 TMN6	Transmembrane 9 superfamily member 6
 TMN7	Transmembrane 9 superfamily member 7
 TMP1	Thymidylate synthase
