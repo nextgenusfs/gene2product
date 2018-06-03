@@ -7527,6 +7527,7 @@ INT6_6	Eukaryotic translation initiation factor 3 subunit E
 INT6_7	Eukaryotic translation initiation factor 3 subunit E
 INT11	Integrator complex subunit 11
 INTS2	Integrator complex subunit 2
+INTS3	Integrator complex subunit 3
 INTS7	Integrator complex subunit 7
 INTS9	Integrator complex subunit 9
 INU1	inulinase
