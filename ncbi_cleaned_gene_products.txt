@@ -930,7 +930,7 @@ ATG32	mitophagy protein ATG32
 ATH1	alpha,alpha-trehalase ATH1
 ATK2	Kinesin-2
 ATL2	Putative RING-H2 finger protein
-ATM1	mitochondrial ABC transporter
+ATM1	Iron-sulfur clusters transporter ATM1, mitochondrial
 ATO2	ammonia (ammonium) transport outward
 ATO2_0	Ammonia transport outward protein 2
 ATO2_1	Ammonia transport outward protein 2
@@ -8180,7 +8180,7 @@ LST7	protein required for amino acid permease transport from the Golgi to the ce
 LST8	TOR complex subunit LST8
 LTA4	putative leukotriene A-4 hydrolase (LTA-4 hydrolase) (Leukotriene A(4) hydrolase)
 LTA4H	Leukotriene A-4 hydrolase
-LTE1	mitotic regulator
+LTE1	Guanine nucleotide exchange factor LTE1
 LTE1_0	Guanine nucleotide exchange factor LTE1
 LTE1_1	Guanine nucleotide exchange factor LTE1
 LTN1	listerin E3 ubiquitin protein ligase 1
@@ -8438,7 +8438,7 @@ MAPK_1	Mitogen-activated protein kinase
 MAPR4	Membrane-associated progesterone-binding protein 4
 MAPRE3	Microtubule-associated protein RP/EB family member 3
 MAPT	Microtubule-associated protein tau
-MARC2	MOSC domain-containing protein
+MARC2	Mitochondrial amidoxime reducing component 2
 MARK1	MAP microtubule affinity-regulating kinase 1
 MARK2	Map microtubule affinity-regulating kinase
 MARK4	MAP/microtubule affinity-regulating kinase 4
@@ -8575,8 +8575,8 @@ MDM32	mitochondrial distribution and morphology
 MDM34	ERMES complex subunit
 MDM34_0	Mitochondrial distribution and morphology protein 34
 MDM34_1	Mitochondrial distribution and morphology protein 34
-MDM35	Mitochondrial Distribution and Morphology
-MDM36	mitochondrial distribution and morphology
+MDM35	Mitochondrial distribution and morphology protein 35
+MDM36	mitochondrial distribution and morphology protein 36
 MDM38	ribosome-binding protein MDM38
 MDN1	AAA family ATPase midasin
 MDN1_0	Midasin
@@ -8659,7 +8659,7 @@ MEP1_1	Extracellular metalloprotease 1
 MEP2	ammonium transporter
 MEP3	ammonium permease MEP3
 MEP4	Extracellular metalloproteinase 4
-MEP5	Fungalysin/Thermolysin Propeptide Motif
+MEP5	Fungalysin/Thermolysin Extracellular metalloproteinase 5
 MEP8	Neutral protease 2 MEP8
 MEP10	Extracellular metalloproteinase 10
 MEP10_0	Extracellular metalloproteinase 10
@@ -9059,40 +9059,40 @@ MRPL16	mitochondrial ribosomal large subunit component
 MRPL17	54S ribosomal protein L17 mitochondrial
 MRPL19	mitochondrial 54S ribosomal protein YmL19
 MRPL20	54S ribosomal protein L20 mitochondrial
-MRPL22	mitochondrial 54S ribosomal protein YmL22
-MRPL23	mitochondrial 54S ribosomal protein YmL23
-MRPL24	54S ribosomal protein L24 mitochondrial
-MRPL25	mitochondrial ribosomal protein MRPL25
-MRPL27	54S ribosomal protein L27
-MRPL28	mitochondrial 54S ribosomal protein YmL28
-MRPL31	mitochondrial 54S ribosomal protein YmL31
+MRPL22	54S ribosomal protein L22, mitochondrial
+MRPL23	54S ribosomal protein L23, mitochondrial
+MRPL24	39S ribosomal protein L24, mitochondrial
+MRPL25	54S ribosomal protein L25, mitochondrial
+MRPL27	60S ribosomal protein L27, mitochondrial
+MRPL28	39S ribosomal protein L28, mitochondrial
+MRPL31	54S ribosomal protein L31, mitochondrial
 MRPL32	54S ribosomal protein L32, mitochondrial
-MRPL33	YmL33
+MRPL33	39S ribosomal protein L33, mitochondrial
 MRPL33_0	39S ribosomal protein L33, mitochondrial
 MRPL33_1	54S ribosomal protein L33, mitochondrial
 MRPL35	mitochondrial 54S ribosomal protein YmL35
-MRPL36	YmL36
-MRPL37	YmL37
-MRPL38	YmL34
+MRPL36	54S ribosomal protein L36, mitochondrial
+MRPL37	39S ribosomal protein L37, mitochondrial
+MRPL38	39S ribosomal protein L38, mitochondrial
 MRPL39	54S ribosomal protein L39, mitochondrial
-MRPL40	YmL40
-MRPL43	ribosomal protein
-MRPL44	YmL44
+MRPL40	39S ribosomal protein L40, mitochondrial
+MRPL43	39S ribosomal protein L43, mitochondrial
+MRPL44	39S ribosomal protein L44, mitochondrial
 MRPL45	39S ribosomal protein L45, mitochondrial
-MRPL46	mitochondrial ribosomal protein, L46
+MRPL46	39S ribosomal protein L46, mitochondrial
 MRPL49	54S ribosomal protein L49, mitochondrial
-MRPL50	54S ribosomal protein L50
-MRPL51	mitochondrial 54S ribosomal protein MRPL51
-MRPS5	mitochondrial 37S ribosomal protein MRPS5
-MRPS8	37S ribosomal protein S8
-MRPS9	mitochondrial ribosomal protein
+MRPL50	54S ribosomal protein L50, mitochondrial
+MRPL51	39S ribosomal protein L51, mitochondrial
+MRPS5	28S ribosomal protein S5, mitochondrial
+MRPS8	37S ribosomal protein S8, mitochondrial
+MRPS9	37S ribosomal protein S9, mitochondrial
 MRPS12	37S ribosomal protein S12, mitochondrial
 MRPS16	37S ribosomal protein S16, mitochondrial
 MRPS17	37S ribosomal protein S17 mitochondrial
-MRPS18	mitochondrial 37S ribosomal protein YmS18
-MRPS18C	Ribosomal protein
+MRPS18	28S ribosomal protein S18b, mitochondrial
+MRPS18C	28S ribosomal protein S18c, mitochondrial
 MRPS28	37S ribosomal protein S28, mitochondrial
-MRPS35	mitochondrial ribosomal protein
+MRPS35	28S ribosomal protein S35, mitochondrial
 MRS1	mitochondrial group I intron splicing protein
 MRS2	magnesium ion transporter
 MRS2.1	mitochondrial magnesium ion transporter
@@ -9116,9 +9116,9 @@ MSB3	GTPase-activating protein
 MSB4	Rab GTPase-activating protein MSB4
 MSBP1	Membrane steroid-binding protein 1
 MSC1	meiotic sister-chromatid recombination-related protein
-MSC2	Cation efflux family
-MSC3	meiotic sister-chromatid recombination-related protein
-MSC6	meiotic sister-chromatid recombination-related protein
+MSC2	Probable zinc transporter MSC2
+MSC3	Meiotic sister-chromatid recombination-related protein 3
+MSC6	Meiotic sister-chromatid recombination-related protein 6, mitochondrial
 MSC7	Meiotic Sister-Chromatid recombination aldehyde dehydrogenase
 MSD1	aspartate--tRNA ligase MSD1
 MSDC	Mannosyl-oligosaccharide alpha-1,2-mannosidase
@@ -9169,12 +9169,12 @@ MT1	Sphingolipid C9-methyltransferase 1
 MT2	Sphingolipid C9-methyltransferase 2
 MTA	N6-adenosine-methyltransferase MT-A70-like protein
 MTACP2	Acyl carrier protein 2, mitochondrial
-MTC1	UPF0615 protein YJL123C
-MTC4	conserved putative membrane protein
+MTC1	Maintenance of telomere capping protein 1
+MTC4	Maintenance of telomere capping protein 4
 MTC5	Maintenance of telomere capping protein 5
 MTC6	Maintenance of telomere capping protein 6
 MTD1	NAD-dependent 5,10-methylenetetrahydrafolate dehydrogenase
-MTF1	mitochondrial replication protein MTF1
+MTF1	Mitochondrial transcription factor 1
 MTF1_0	Mitochondrial transcription factor 1
 MTF2	mitochondrial transcription factor 2
 MTFMT	Methionyl-tRNA formyltransferase, mitochondrial
@@ -9259,7 +9259,7 @@ MXR2-1	Methionine sulfoxide reductase
 MXR2-2	Methionine sulfoxide reductase
 MYB	Transcriptional activator Myb
 MYB3R1	DNA binding transcription coactivator transcription factor
-MYB4R1	Myb-like DNA-binding domain
+MYB4R1	Myb-like DNA-binding domain protein
 MYC1	COP9 signalosome subunit CSN2
 MYCBP2	E3 ubiquitin-protein ligase MYCBP2
 MYG1	UPF0160 protein MYG1, mitochondrial
@@ -9553,7 +9553,7 @@ NBP35	cytosolic Fe-S cluster assembly factor NBP35
 NBP352	conserved nucleotide binding protein
 NBR1	Next to BRCA1 gene 1 protein
 NC2B	Negative cofactor 2 complex subunit beta
-NCA2	nuclear control of ATPase
+NCA2	Nuclear control of ATPase protein 2
 NCA3	SUN family protein NCA3
 NCA-2_31041	calcium-translocating P-type ATPase
 NCB2	negative cofactor 2 transcription regulator complex subunit NCB2
@@ -9649,7 +9649,7 @@ NEJ1	Mating-type regulated component of NHEJ
 NEK6	Serine/threonine-protein kinase Nek6
 NELF-B	Negative elongation factor B
 NELFCD	Negative elongation factor D
-NEM1	Nuclear Envelope Morphology
+NEM1	Nuclear envelope morphology protein 1
 NEMF	Nuclear export mediator factor NEMF
 NEO1	Putative aminophospholipid-translocase
 NEP1	18S rRNA pseudouridine methyltransferase
@@ -10254,7 +10254,7 @@ OXD	oxalate decarboxylase, secreted
 OXDA	D-amino-acid oxidase
 OXNAD1	Oxidoreductase NAD-binding domain-containing protein 1
 OXP1	5-oxoprolinase
-OXR1	oxidation resistance
+OXR1	oxidation resistance protein 1
 OXR1_0	Oxidation resistance protein 1
 OXR1_1	Oxidation resistance protein 1
 OXR1_2	Oxidation resistance protein 1
@@ -11273,7 +11273,7 @@ PPZ1_0	Serine/threonine-protein phosphatase PP-Z1
 PPZ1_1	Serine/threonine-protein phosphatase PP-Z1
 PPZ2	protein phosphatase Z
 PQLC1	PQ-loop repeat-containing protein 1
-PQLC2	PQ loop repeat
+PQLC2	PQ loop repeat-containing protein 2
 PR1_0	Cuticle-degrading protease
 PR1_1	Cuticle-degrading protease
 PR1_2	Cuticle-degrading protease
@@ -11385,7 +11385,7 @@ PRPF4	U4/U6 small nuclear ribonucleoprotein Prp4
 PRPF6	Pre-mRNA-processing factor 6
 PRPF8	Pre-mRNA-processing-splicing factor 8
 PRPF19	Pre-mRNA-processing factor 19
-PRPF38B	PRP38 pre-mRNA processing factor 38 (Yeast) domain-containing protein B
+PRPF38B	PRP38 pre-mRNA processing factor 38 domain-containing protein B
 PRR1	serine/threonine protein kinase PRR1
 PRR2	serine/threonine protein kinase PRR2
 PRS	Proline--tRNA ligase cytoplasmic
@@ -11526,8 +11526,8 @@ PTR2	peptide transporter PTR2
 PTR2_0	Peptide transporter PTR2
 PTR2_1	Peptide transporter PTR2
 PTR3	SPS-sensor component PTR3
-PTRH1	peptidyl-tRNA hydrolase 1
-PTRH2	Peptidyl-tRNA hydrolase 2, mitochondrial
+PTRH1	peptidyl-tRNA hydrolase protein 1
+PTRH2	Peptidyl-tRNA hydrolase protein 2, mitochondrial
 PTRHD1	peptidyl-tRNA hydrolase domain-containing protein 1
 PUB1	E3 ubiquitin-protein ligase pub1
 PUF2	mRNA binding protein
@@ -11627,7 +11627,7 @@ PbPdhE1b	PDH complex beta subunit
 PbPdhE2	PDH complex E2 component
 PbPdhPCa	PDH phosphatase
 PbSucCoASa	gdp-forming, alpha subunit of succinate-CoA ligase
-Pbdc1	polysaccharide biosynthesis domain containing 1
+Pbdc1	polysaccharide biosynthesis domain-containing protein 1
 Pbs2p	Pkinase-domain-containing protein
 Pcbd2	Pterin-4-alpha-carbinolamine dehydratase 2
 Pcmt	protein-L-isoaspartate(D-aspartate) O-methyltransferase
@@ -12088,8 +12088,8 @@ RFM1	repression factor of middle sporulation element
 RFS1	flavodoxin-like fold family protein
 RFT1	Oligosaccharide translocation protein RFT1
 RFU1	regulator of free ubiquitin chains 1
-RFWD2	ring finger and WD repeat domain-containing protein 2
-RFWD3	ring finger and WD repeat domain-containing protein 3
+RFWD2	RING finger and WD repeat domain-containing protein 2
+RFWD3	RING finger and WD repeat domain-containing protein 3
 RFWD3_0	E3 ubiquitin-protein ligase RFWD3
 RFWD3_1	E3 ubiquitin-protein ligase RFWD3
 RFX1	DNA binding protein
@@ -12264,7 +12264,7 @@ RNAP_1	Rhizopuspepsin-1
 RNASEH1	Ribonuclease H1
 RNASEH2A	Ribonuclease H2 subunit A
 RNF13	E3 ubiquitin-protein ligase RNF13
-RNF34	ring finger protein 34, E3 ubiquitin protein ligase
+RNF34	RING finger protein 34
 RNF44	RING finger protein 44
 RNF128	E3 ubiquitin-protein ligase RNF128
 RNF167	E3 ubiquitin-protein ligase RNF167
@@ -12813,7 +12813,7 @@ RSP3	40S ribosomal protein S1
 RSP5	NEDD4 family E3 ubiquitin-protein ligase
 RSP14	40S ribosomal protein S14-B (RP59B)
 RSP27	Ubiquitin/40S ribosomal protein S27a fusion
-RSPRY1	ring finger and SPRY domain-containing protein 1
+RSPRY1	RING finger and SPRY domain-containing protein 1
 RSR1	Ras-related protein RSR1
 RSSA	40S ribosomal protein SA
 RT	reverse transcriptase
@@ -12862,6 +12862,7 @@ RUFY2	RUN and FYVE domain-containing protein 2
 RUP1	UBA domain-containing protein RUP1
 RUS6	Protein root UVB sensitive 6
 RUVB2	RuvB-like helicase 2
+RUVBL1	RuvB-like protein 1
 RUVBL2101	TBP-interacting protein
 RUVBL2102	TBP-interacting protein
 RUVBL2401	ATP-dependent DNA helicase reptin
@@ -13231,7 +13232,7 @@ SDS	L-serine dehydratase/L-threonine deaminase
 SDS2	regulatory subunit for the mitotic function of type I protein phosphatase
 SDS3	histone deacetylase and transcriptional regulator
 SDS22	Protein phosphatase 1 regulatory subunit SDS22
-SDS23	adenyl nucleotide binding
+SDS23	Protein SDS23
 SDS23_0	Protein SDS23
 SDS23_1	Protein SDS23
 SDT1	suppressor of deletion of TFIIS
@@ -13260,7 +13261,7 @@ SEC18	transport between ER and Golgi ATPase protein
 SEC21	coatomer subunit gamma
 SEC22	SNAP receptor
 SEC23	GTPase-activating protein SEC23
-SEC23IP	SEC23-interacting protein protein
+SEC23IP	SEC23-interacting protein
 SEC24	COPII subunit
 SEC24C_0	Protein transport protein Sec24C
 SEC24C_1	Protein transport protein Sec24C
@@ -13322,16 +13323,16 @@ SER3	phosphoglycerate dehydrogenase SER3
 SER33	D-3-phosphoglycerate dehydrogenase 2
 SERGEF	Secretion-regulating guanine nucleotide exchange factor
 SES1	Cytosolic seryl-tRNA synthetase
-SET1	histone methyltransferase
+SET1	histone methyltransferase SET1
 SET2	histone methyltransferase SET2
 SET2-1	Histone methyltransferase with a role in transcriptional elongation
 SET2-2	Histone methyltransferase with a role in transcriptional elongation
-SET3	SET domain-containing protein
-SET4	SET domain-containing protein
-SET5	potential protein lysine methyltransferase SET5
-SET7	SET domain-containing protein
+SET3	SET domain-containing protein 3
+SET4	SET domain-containing protein 4
+SET5	SET domain-containing protein 5
+SET7	SET domain-containing protein 7
 SET9	Histone-lysine N-methyltransferase SET9
-SETD1B	Histone-lysine N-methyltransferase setd1b
+SETD1B	Histone-lysine N-methyltransferase SETD1B
 SETD4	SET domain-containing protein 4
 SETD6	N-lysine methyltransferase SETD6
 SETD9	SET domain-containing protein 9
@@ -13702,10 +13703,10 @@ SNZ2	pyridoxine biosynthesis protein SNZ2
 SNZ3	Stationary phase-induced gene family member
 SNZ5	pyridoxal 5'-phosphate synthase
 SOD	Superoxide dismutase [Mn], mitochondrial
-SOD1	superoxide dismutase
+SOD1	Superoxide dismutase [Cu-Zn]
 SOD1_0	Superoxide dismutase [Cu-Zn]
 SOD1_1	Superoxide dismutase [Cu-Zn]
-SOD2	Mitochondrial manganese superoxide dismutase
+SOD2	Superoxide dismutase [Mn], mitochondrial
 SOD2.1	Cu/Zn superoxide dismutase
 SOD2.2	Cu/Zn superoxide dismutase
 SOD3.1	manganese-superoxide dismutase
@@ -14193,7 +14194,7 @@ SUT4	sugar transporter protein
 SUV3	RNA helicase
 SVF1	Putative cell survival pathways protein
 SVL3	styryl dye vacuolar localization protein 3
-SVP26	erv26 super family
+SVP26	erv26 super family protein
 SVS1	suppressor of vanadate sensitivity
 SWA2	auxilin-like clathrin-binding protein required for normal clathrin function
 SWC3	SWR1-complex protein 3
@@ -15446,7 +15447,7 @@ UHRF1	E3 ubiquitin-protein ligase UHRF1
 UHRF1_0	E3 ubiquitin-protein ligase UHRF1
 UHRF1_1	E3 ubiquitin-protein ligase UHRF1
 UHRF1_2	E3 ubiquitin-protein ligase UHRF1
-UHRF2	ubiquitin-like with PHD and ring finger domains 2, E3 ubiquitin protein ligase
+UHRF2	ubiquitin-like with PHD and RING finger domains 2
 UIP3	DUP240 family protein UIP3
 UIP4	Ulp1 interacting protein
 UIP5	Ulp1 interacting protein
@@ -16129,7 +16130,7 @@ YM60	Putative esterase
 YMC1	carrier protein YMC1
 YMC1-1	Putative mitochondrial inner membrane transporter
 YMC1-2	Putative mitochondrial inner membrane transporter
-YMC2	mitochondrial carrier protein
+YMC2	Mitochondrial carrier protein YMC2
 YMC2-1	Putative mitochondrial inner membrane transporter
 YMC2-2	Putative mitochondrial inner membrane transporter
 YMC3	mitochondrial carrier protein
@@ -20270,12 +20271,12 @@ mcmbp	Mini-chromosome maintenance complex-binding protein
 mcmbp_0	Mini-chromosome maintenance complex-binding protein
 mcmbp_1	Mini-chromosome maintenance complex-binding protein
 mcp1	sequence orphan
-mcp2	Meiotic coiled-coil domain containing protein 2
+mcp2	Meiotic coiled-coil domain-containing protein 2
 mcp3	sequence orphan
 mcp4	prospore membrane protein Mcp4/Mug101
 mcp5	cortical anchoring factor for dynein Mcp5/Num1
 mcp6	horsetail movement protein Hrs1/Mcp6
-mcp7	meiosis specific coiled-coil domain containing protein Mcp7
+mcp7	meiosis specific coiled-coil domain-containing protein Mcp7
 mcp60	mitochondrial heat shock protein Hsp60/Mcp60
 mcr1	NADH-cytochrome b5 reductase 2
 mcrA	Mitomycin radical oxidase
@@ -20693,104 +20694,104 @@ mts2	26S protease regulatory subunit 4 homolog
 mts4	19S proteasome regulatory subunit Mts4
 mtx3	Metaxin-3
 mud1	UBA domain protein Mud1
-mug4	sequence orphan
-mug5	meiotically upregulated gene Mug5
-mug8	conserved fungal protein
-mug9	conserved fungal protein
-mug14	Meiotically up-regulated protein 14 protein
+mug4	Meiotically up-regulated gene 4 protein
+mug5	Meiotically up-regulated gene 5 protein
+mug8	Meiotically up-regulated gene 8 protein
+mug9	Meiotically up-regulated gene 9 protein
+mug14	Meiotically up-regulated gene 14 protein
 mug14_0	Meiotically up-regulated gene 14 protein
-mug14_1	Meiotically up-regulated protein 14
-mug14_2	Meiotically up-regulated protein 14
-mug15	sequence orphan
-mug16	Protein GMH1 homolog
-mug20	sequence orphan
-mug24	RNA-binding protein, rrm type
-mug27	meiosis specific protein kinase Mug27/Slk1
-mug28	RNA-binding protein Mug28
-mug33	conserved fungal protein
-mug35	sequence orphan
-mug37	sequence orphan
+mug14_1	Meiotically up-regulated gene 14 protein
+mug14_2	Meiotically up-regulated gene 14 protein
+mug15	Meiotically up-regulated gene 15 protein
+mug16	Meiotically up-regulated gene 16 protein
+mug20	Meiotically up-regulated gene 20 protein
+mug24	Meiotically up-regulated gene 24 protein
+mug27	Serine/threonine-protein kinase ppk35
+mug28	Meiotically up-regulated gene 28 protein
+mug33	Meiotically up-regulated gene 33 protein
+mug35	Meiotically up-regulated gene 35 protein
+mug37	Meiotically up-regulated gene 37 protein
 mug40	DNA polymerase kappa
-mug42	sequence orphan
-mug45	sequence orphan
-mug51	variant protein kinase 19 family protein
-mug55	Cdc20/Fizzy subfamily WD repeat protein
-mug57	meiotically upregulated gene Mug57
+mug42	Meiotically up-regulated gene 42 protein
+mug45	Meiotically up-regulated gene 45 protein
+mug51	Meiotically up-regulated gene 51 protein
+mug55	Meiotic fizzy-related protein 2
+mug57	FAS1 domain-containing protein mug57
 mug60	Meiotically up-regulated gene 60 protein
-mug63	TLDc domain protein 1
+mug63	Oxidation resistance protein 1
 mug65	Meiotically up-regulated gene 65 protein
 mug66	Meiotically up-regulated gene 66 protein
-mug68	sequence orphan
-mug70	Meiotically up-regulated protein 70
-mug74	sequence orphan
-mug80	Meiotically up-regulated protein 80
+mug68	Meiotically up-regulated gene 68 protein
+mug70	Meiotically up-regulated gene 70 protein
+mug74	Meiotically up-regulated gene 74 protein
+mug80	Meiotically up-regulated gene 80 protein
 mug80_0	Meiotically up-regulated gene 80 protein
 mug80_1	Meiotically up-regulated gene 80 protein
 mug84	Meiotically up-regulated gene 84 protein
-mug86	Meiotically up-regulated protein 86 protein
+mug86	Meiotically up-regulated gene 86 protein
 mug87	Meiotically up-regulated gene 87 protein
 mug87_0	Meiotically up-regulated gene 87 protein
 mug87_1	Meiotically up-regulated gene 87 protein
 mug89_0	Meiotically up-regulated gene 89 protein
 mug89_1	Meiotically up-regulated gene 89 protein
 mug89_2	Meiotically up-regulated gene 89 protein
-mug93	TPR repeat protein, meiotically spliced
-mug94	sequence orphan
-mug95	sequence orphan
-mug96	sequence orphan
-mug97	meiotically upregulated gene Mug97
-mug98	sequence orphan
-mug99	meiotically upregulated gene Mug99
-mug100	sequence orphan
-mug103	sequence orphan
-mug106	sequence orphan
-mug108	sequence orphan
-mug110	sequence orphan
-mug111	sequence orphan
-mug112	dubious
-mug113	T5orf172 family protein
-mug114	sequence orphan
-mug115	sequence orphan
-mug116	sequence orphan
-mug117	meiotically upregulated gene Mug117
-mug121	sequence orphan
-mug122	PX/PXA domain protein
-mug123	meiotically upregulated gene Mug123
-mug124	sequence orphan
-mug125	sequence orphan
-mug126	sequence orphan
-mug128	sequence orphan
-mug129	sequence orphan
-mug130	sequence orphan
-mug137	BAR adaptor protein
-mug143	sequence orphan
-mug146	meiotically upregulated gene Mug46
-mug147	sequence orphan
-mug150	sequence orphan
-mug151	Meiotically up-regulated protein 151
-mug153	sequence orphan
-mug154	Meiotically up-regulated protein 154
-mug155	dubious
-mug157	meiotically up-regulated gene 157 protein
-mug157_1	Meiotically up-regulated protein 157
-mug157_2	Meiotically up-regulated protein157
-mug157_3	Meiotically up-regulated protein157
-mug158	Meiotically up-regulated protein 158
-mug158_0	Meiotically up-regulated gene 158 protein
-mug158_1	Meiotically up-regulated gene 158 protein
-mug160	human ATXN10 ortholog, implicated in amino acid biosynthesis
-mug162	sequence orphan
-mug163	sequence orphan
-mug164	microtubule-associated protein Mug164
-mug165	sequence orphan
-mug166	sequence orphan
-mug168	sequence orphan
-mug170	arrestin
-mug174	meiotically upregulated gene Mug174
-mug176	BRCT domain protein
+mug93	Meiotically up-regulated gene 93 protein
+mug94	Meiotically up-regulated gene 94 protein
+mug95	Meiotically up-regulated gene 95 protein
+mug96	Meiotically up-regulated gene 96 protein
+mug97	Meiotically up-regulated gene 97 protein
+mug98	Meiotically up-regulated gene 98 protein
+mug99	Meiotically up-regulated gene 99 protein
+mug100	Meiotically up-regulated gene 100 protein
+mug103	Meiotically up-regulated gene 103 protein
+mug106	Meiotically up-regulated gene 106 protein
+mug108	Meiotically up-regulated gene 108 protein
+mug110	Meiotically up-regulated gene 110 protein
+mug111	Meiotically up-regulated gene 111 protein
+mug112	Meiotically up-regulated gene 112 protein
+mug113	Meiotically up-regulated gene 113 protein
+mug114	Meiotically up-regulated gene 114 protein
+mug115	Meiotically up-regulated gene 115 protein
+mug116	Meiotically up-regulated gene 116 protein
+mug117  Meiotically up-regulated gene 117 protein
+mug121	Meiotically up-regulated gene 121 protein
+mug122	Meiotically up-regulated gene 122 protein
+mug123	Meiotically up-regulated gene 123 protein
+mug124	Meiotically up-regulated gene 124 protein
+mug125	Meiotically up-regulated gene 125 protein
+mug126	Meiotically up-regulated gene 126 protein
+mug128	Meiotically up-regulated gene 128 protein
+mug129	Meiotically up-regulated gene 129 protein
+mug130	Meiotically up-regulated gene 130 protein
+mug137	Meiotically up-regulated gene 137 protein
+mug143	Meiotically up-regulated gene 143 protein
+mug146	Meiotically up-regulated gene 146 protein
+mug147	Meiotically up-regulated gene 147 protein
+mug150	Meiotically up-regulated gene 150 protein
+mug151	Meiotically up-regulated gene 151 protein
+mug153	Meiotically up-regulated gene 153 protein
+mug154	Meiotically up-regulated gene 154 protein
+mug155	Meiotically up-regulated gene 155 protein
+mug157	Meiotically up-regulated gene 157 protein
+mug157_1	    Meiotically up-regulated gene 157 protein
+mug157_2	    Meiotically up-regulated gene 157 protein
+mug157_3	    Meiotically up-regulated gene 157 protein
+mug158		    Ergothioneine biosynthesis protein 1
+mug158_0	    Ergothioneine biosynthesis protein 1 
+mug158_1	    Ergothioneine biosynthesis protein 1
+mug160	Meiotically up-regulated gene 160 protein
+mug162	Meiotically up-regulated gene 162 protein
+mug163	Meiotically up-regulated gene 163 protein
+mug164	Microtubule-associated protein mug164
+mug165	Meiotically up-regulated gene 165 protein
+mug166	Meiotically up-regulated gene 166 protein
+mug168	Meiotically up-regulated gene 168 protein
+mug170	Meiotically up-regulated gene 170 protein
+mug174	Meiotically up-regulated gene 174 protein
+mug176	Meiotically up-regulated gene 176 protein
 mug182	Meiotically up-regulated gene 182 protein
-mug184	meiotically upregulated gene Mug184
-mug190	C2 domain protein
+mug184	Meiotically up-regulated gene 184 protein
+mug190	Meiotically up-regulated gene 190 protein
 murQ	N-acetylmuramic acid 6-phosphate etherase
 mus7	DNA repair protein Mus7/Mms22
 mus8	ubiquitin-conjugating enzyme E2 2
@@ -22467,14 +22468,14 @@ rad25	DNA damage checkpoint protein rad25
 rad26	ATRIP, ATR checkpoint kinase regulatory subunit Rad26
 rad31	SUMO E1-like activator enzyme Rad31
 rad32	Rad32 nuclease
-rad50	DNA repair protein Rad50
-rad51	RAD51 protein
-rad51-b	DNA repair protein RAD51 B
-rad52	RAD52 protein
-rad54	RAD54 protein
-rad55	RAD55 protein
-rad57	RAD57 protein
-rad60	DNA repair protein Rad60
+rad50	DNA repair protein RAD50
+rad51	DNA repair protein RAD51
+rad51-b	DNA repair protein RAD51B
+rad52	DNA repair protein RAD52
+rad54	DNA repair protein RAD54
+rad55	DNA repair protein RAD55
+rad57	DNA repair protein RAD57
+rad60	DNA repair protein RAD60
 radA	DNA repair and recombination protein RadA
 radC	DNA repair and recombination protein radC
 rae1	RNA export factor, nucleoporin Rae1
