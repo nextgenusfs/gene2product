@@ -1657,14 +1657,14 @@ CCR4-NOT	glucose-repressible alcohol dehydrogenase transcriptional effector
 CCR4_0	Glucose-repressible alcohol dehydrogenase transcriptional effector
 CCR4_1	Glucose-repressible alcohol dehydrogenase transcriptional effector
 CCS1	copper chaperone
-CCT1	Choline-phosphate cytidylyltransferase 1
+CCT1	T-complex protein 1 subunit alpha
 CCT2	T-complex protein 1 subunit beta
-CCT3	Cytosolic chaperonin Cct ring complex subunit gamma
-CCT4	Subunit of the cytosolic chaperonin Cct ring complex
-CCT5	chaperonin subunit epsilon subunit
-CCT6	Subunit of the cytosolic chaperonin Cct ring complex
-CCT7	chaperonin-containing T-complex subunit
-CCT8	chaperonin containing T-complex subunit eight component
+CCT3	T-complex protein 1 subunit gamma
+CCT4	T-complex protein 1 subunit delta
+CCT5	T-complex protein 1 subunit epsilon
+CCT6	T-complex protein 1 subunit zeta
+CCT7	T-complex protein 1 subunit eta
+CCT8	T-complex protein 1 subunit theta
 CCW12	cell wall protein
 CCW14	cell wall mannoprotein
 CCZ1	vacuolar fusion protein CCZ1
@@ -2428,7 +2428,7 @@ CWH41	Processing alpha glucosidase I
 CWP1	cell wall mannoprotein
 CWP2	cell wall mannoprotein
 CXF1	Putative cation efflux family protein
-CXORF26	polysaccharide biosynthesis domain containing 1
+CXORF26	polysaccharide biosynthesis domain containing protein 1
 CXT1	cryptococcal xylosyltransferase 1
 CXT1_0	Beta-1,2-xylosyltransferase 1
 CXT1_1	Beta-1 2-xylosyltransferase 1
@@ -8154,7 +8154,7 @@ LRRC58_0	Leucine-rich repeat-containing protein 58
 LRRC58_1	Leucine-rich repeat-containing protein 58
 LRRC74A	Leucine-rich repeat-containing protein 74A
 LRRCC1	leucine rich repeat
-LRRIQ4	leucine-rich repeats and IQ motif containing 4
+LRRIQ4	leucine-rich repeats and IQ motif containing protein 4
 LRR_1	RNI-like protein
 LRSAM1	E3 ubiquitin-protein ligase LRSAM1
 LRWD1	Leucine-rich repeats and WD repeat domain-containing protein 1
@@ -10151,7 +10151,7 @@ ODD1	oleate delta-12 desaturase
 ODE2	omega-6 fatty acid desaturase
 OEP64_0	Outer envelope protein 64, chloroplastic
 OEP64_1	Outer envelope protein 64, chloroplastic
-OFC2B	Oligonucleotide/oligosaccharide-binding fold containing 2B
+OFC2B	Oligonucleotide/oligosaccharide-binding fold containing protein 2B
 OFD1	oxidative DNA demethylase
 OGFD1	2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1
 OGFRL1	Opioid growth factor receptor-like protein 1
@@ -11028,11 +11028,12 @@ POL32	DNA polymerase delta subunit POL32
 POL90	polyprotein of L1-like non-LTR retrotransposon Zorro 1
 POL92	polyprotein of L1-like non-LTR retrotransposon Zorro 3
 POLA1	DNA polymerase alpha catalytic subunit
-POLA2	polymerase (DNA directed), alpha 2, accessory subunit
-POLD2	DNA polymerase delta small subunit
-POLD3	polymerase (DNA-directed), delta 3, accessory subunit
+POLA2	DNA polymerase alpha subunit B
+POLD2	DNA polymerase delta subunit 2
+POLD3	DNA polymerase delta subunit 3
 POLD4	DNA polymerase delta subunit 4
-POLE2	polymerase (DNA directed), epsilon 2, accessory subunit
+POLE1	DNA polymerase epsilon subunit A
+POLE2	DNA polymerase epsilon subunit 2
 POLE3	DNA polymerase epsilon subunit 3
 POLI	DNA polymerase iota
 POLK	DNA polymerase kappa
@@ -11291,16 +11292,16 @@ PRDX2	Peroxiredoxin-2
 PRDX3	peroxiredoxin
 PRDX5	Peroxiredoxin-5, mitochondrial
 PRDX6	Peroxiredoxin-6
-PRE1	22.6 kDa proteasome subunit
-PRE2	proteasome core particle subunit beta 5
-PRE3	proteasome core particle subunit beta 1
-PRE4	proteasome subunit
-PRE5	20S proteasome alpha-type subunit
-PRE6	proteasome core particle subunit alpha 4
+PRE1	Proteasome subunit beta type-4
+PRE2	Proteasome subunit beta type-5
+PRE3	Proteasome subunit beta type-1
+PRE4	Proteasome subunit beta type-7
+PRE5	Proteasome subunit alpha type-6
+PRE6	Proteasome subunit alpha type-4
 PRE7	Proteasome subunit beta type-6
-PRE8	proteasome core particle subunit alpha 2
+PRE8	Proteasome subunit alpha type-2
 PRE9	Proteasome subunit alpha type-3
-PRE10	proteasome core particle subunit alpha 7
+PRE10	Probable proteasome subunit alpha type-7
 PRG4	Proteoglycan-4
 PRI1	p48 polypeptide of DNA primase
 PRI2	DNA primase subunit PRI2
@@ -11403,8 +11404,8 @@ PRSS16	Thymus-specific serine protease
 PRT1	Translation initiation factor 3 subunit b
 PRT1_0	Eukaryotic translation initiation factor 3 subunit B
 PRT1_1	Eukaryotic translation initiation factor 3 subunit B
-PRUNE	Protein prune
-PRW1	conerved putative protein with WD repeats
+PRUNE	Exopolyphosphatase PRUNE1
+PRW1	RbAp48-related WD40 repeat-containing protein prw1
 PRX1-1	Mitochondrial peroxiredoxin with thioredoxin peroxidase activity
 PRX1-2	Mitochondrial peroxiredoxin with thioredoxin peroxidase activity
 PRX1b	mitochondrial peroxiredoxin PRX1
@@ -11867,7 +11868,7 @@ RABB1B	Ras-related protein RABB1b
 RABB1C	Ras-related protein RABB1c
 RABEPK	Rab9 effector protein with kelch motifs
 RABGAP1L	Rab GTPase-activating protein 1-like protein
-RABGEF1	zinc finger domain-containing protein
+RABGEF1	Rab5 GDP/GTP exchange factor
 RABH1B	Ras-related protein RABH1b
 RABL6	Rab-like protein 6
 RAC1	Rho family GTPase protein RAC1
@@ -14602,7 +14603,7 @@ TDP1	tyrosyl-DNA phosphodiesterase 1
 TDRD3	tudor domain-containing protein 3
 TEA1	Ty enhancer activator
 TEC1	Transcription factor
-TECPR1	Tectonin beta-propeller repeat-containing 1
+TECPR1	Tectonin beta-propeller repeat-containing protein 1
 TED1	Protein TED1
 TEF	Elongation factor 1-alpha
 TEF1	translation elongation factor EF-1 alpha
@@ -15051,7 +15052,7 @@ TSR2	rRNA accumulation-related protein
 TSR3	ribosome biogenesis protein TSR3
 TSR4	20S rRNA accumulation protein
 TSTA3	GDP-L-fucose synthase
-TSTD2	thiosulfate sulfurtransferase (rhodanese)-like domain-containing 2
+TSTD2	thiosulfate sulfurtransferase (rhodanese)-like domain-containing protein 2
 TTC9B	Tetratricopeptide repeat protein 9B
 TTC9C	Tetratricopeptide repeat protein 9C
 TTC12	Tetratricopeptide repeat protein 12
@@ -15882,8 +15883,8 @@ WDR33	WD repeat-containing protein 33
 WDR36	WD repeat-containing protein 36
 WDR43	WD repeat-containing protein 43
 WDR44	WD repeat-containing protein 44
-WDR45B	WD repeat-containing protein phosphoinositide-interacting protein 3
-WDR45L	WD repeat-containing protein 45L
+WDR45B	WD repeat domain phosphoinositide-interacting protein 3
+WDR45L	WD repeat domain phosphoinositide-interacting protein 3
 WDR50	U3 small nucleolar RNA-associated protein 18
 WDR55	WD domain repeat-containing protein 55
 WDR62	mitogen-activated protein kinase binding protein 1
@@ -18682,13 +18683,13 @@ ergic3	Endoplasmic reticulum-Golgi intermediate compartment protein 3
 ergic3_0	Endoplasmic reticulum-Golgi intermediate compartment protein 3
 ergic3_1	Endoplasmic reticulum-Golgi intermediate compartment protein 3
 erh	Enhancer of rudimentary
-eri1	double-strand siRNA ribonuclease Eri1
+eri1	Double-strand siRNA ribonuclease Eri1
 eri-1	3'-5' exonuclease eri-1
 ero11	ER oxidoreductin Ero1a
 ero12	ER protein folding oxidoreductin Ero1b
 ero-1	Endoplasmic reticulum oxidoreductin-1
-erp3	endosomal cargo receptor
-erp5	endosomal cargo receptor
+erp3	Endosomal cargo receptor
+erp5	Endosomal cargo receptor
 erp38	Protein disulfide-isomerase erp38
 ers1	RNA-silencing factor Ers1
 erv41	ER-derived vesicles protein 41
@@ -18698,15 +18699,15 @@ eryG	Erythromycin 3''-O-methyltransferase
 esa1	Histone acetyltransferase ESA1
 esf1	Pre-rRNA-processing protein esf1
 esf2	Pre-rRNA-processing protein esf2
-eso1	sister chromatid cohesion protein/DNA polymerase eta Eso1
-esp1	ESP1 protein
+eso1	N-acetyltransferase eso1
+esp1	Separin
 est1	telomerase regulator Est1
 estA	carboxylesterase estA
 est_0	Esterase
 est_1	Esterase
 eta2	Myb family protein Eta2
-etd1	ethanol-hypersensitive mutant protein Etd1
-etf	electron-transferring-flavoproteindehydrogenase
+etd1	Ethanol-hypersensitive mutant protein Etd1
+etf	Electron-transferring-flavoproteindehydrogenase
 etf1	Eukaryotic peptide chain release factor subunit 1
 etfA	electron transfer flavoprotein, alpha subunit
 etfB	Electron transfer flavoprotein subunit beta
@@ -22008,10 +22009,11 @@ pol_14	Retrovirus-related Pol polyprotein from transposon 17.6
 pol_15	Pol polyprotein
 pol_16	Pro-Pol polyprotein
 pola1	DNA polymerase alpha catalytic subunit
+pold	DNA polymerase delta catalytic subunit
 pold-1	DNA polymerase delta catalytic subunit
-polh	sister chromatid cohesion protein Eso1
-poli	DNA polymerase Tau
-poll	DNA polymerase IV
+polh	DNA polymerase eta
+poli	DNA polymerase iota
+poll	DNA polymerase lambda
 polr2d	DNA-directed RNA polymerase II subunit rpb4
 polr3c_0	DNA-directed RNA polymerase III subunit RPC3
 polr3c_1	DNA-directed RNA polymerase III subunit RPC3
