@@ -12428,146 +12428,146 @@ RPH1	transcriptional repressor
 RPI1	Ribose-5-phosphate isomerase B (Phosphoriboisomerase B) (LACB) (RPIB)
 RPIA	Ribose-5-phosphate isomerase A
 RPII	DNA-directed RNA polymerase II subunit RPB1
-RPL1A	ribosomal 60S subunit protein L1A
-RPL1B	ribosomal 60S subunit protein L1B
-RPL2	ribosomal 60S subunit protein L2A
-RPL2A	60S ribosomal protein L2-A
-RPL2B	60S ribosomal protein L2-B
-RPL21	60S ribosomal protein L21-A
+RPL1A	60S ribosomal protein L1A
+RPL1B	60S ribosomal protein L1B
+RPL2	60S ribosomal protein L2
+RPL2A	60S ribosomal protein L2A
+RPL2B	60S ribosomal protein L2B
+RPL21	60S ribosomal protein L21
 RPL3	60S ribosomal protein L3
-RPL3B	60S ribosomal protein L3-B
-RPL3_0	60S ribosomal protein L3
-RPL3_1	60S ribosomal protein L3
+RPL3B	60S ribosomal protein L3B
+RPL3_0	60S ribosomal protein L3_0
+RPL3_1	60S ribosomal protein L3_1
 RPL4	60S ribosomal protein L4
-RPL4A	60S ribosomal protein L4-A
-RPL4B	60S ribosomal protein L4-B
+RPL4A	60S ribosomal protein L4A
+RPL4B	60S ribosomal protein L4B
 RPL5	60S ribosomal protein L5
 RPL6	60S ribosomal protein L6
-RPL6A	60S ribosomal protein L6
-RPL6B	60S ribosomal protein L6-B
-RPL6_0	60S ribosomal protein L6
-RPL6_1	60S ribosomal protein L6
+RPL6A	60S ribosomal protein L6A
+RPL6B	60S ribosomal protein L6B
+RPL6_0	60S ribosomal protein L6_0
+RPL6_1	60S ribosomal protein L6_1
 RPL7	60S ribosomal protein L7
-RPL7A	60S ribosomal protein L7-A
-RPL7B	60S ribosomal protein L7-B
-RPL7_0	60S ribosomal protein L7
-RPL7_1	60S ribosomal protein L7
-RPL8A	60S ribosomal protein L8-A
-RPL8B	60S ribosomal protein L8-B
+RPL7A	60S ribosomal protein L7A
+RPL7B	60S ribosomal protein L7B
+RPL7_0	60S ribosomal protein L7_0
+RPL7_1	60S ribosomal protein L7_1
+RPL8A	60S ribosomal protein L8A
+RPL8B	60S ribosomal protein L8B
 RPL9	60S ribosomal protein L9
-RPL9A	60S ribosomal protein L9-A
-RPL9B	60S ribosomal protein L9-B
+RPL9A	60S ribosomal protein L9A
+RPL9B	60S ribosomal protein L9B
 RPL10	60S ribosomal protein L10
-RPL10A	60S ribosomal protein L10-A
-RPL10C	60S ribosomal protein L10-C
+RPL10A	60S ribosomal protein L10A
+RPL10C	60S ribosomal protein L10C
 RPL11	60S ribosomal protein L11
-RPL11A	ribosomal 60S subunit protein L11-A
-RPL11B	Ribosomal 60S subunit protein L11-B
-RPL12	ribosomal 60S subunit protein L12
-RPL12A	60S ribosomal protein L12-A
-RPL12B	60S ribosomal protein L7/L12
+RPL11A	60S ribosomal protein L11A
+RPL11B	60S ribosomal protein L11B
+RPL12	60S ribosomal protein L12
+RPL12A	60S ribosomal protein L12A
+RPL12B	60S ribosomal protein L12B
 RPL13	60S ribosomal protein L13
-RPL13A	60S ribosomal protein L13-A
-RPL13B	60S ribosomal protein L13-B
+RPL13A	60S ribosomal protein L13A
+RPL13B	60S ribosomal protein L13B
 RPL14	60S ribosomal protein L14
-RPL14A	60S ribosomal protein L14-A
-RPL14B	60S ribosomal protein L14-B
+RPL14A	60S ribosomal protein L14A
+RPL14B	60S ribosomal protein L14B
 RPL15	60S ribosomal protein L15
-RPL15A	60S ribosomal protein L15-A
-RPL15B	60S ribosomal protein L15-B
-RPL15B_0	60S ribosomal protein L15-B
-RPL15B_1	60S ribosomal protein L15-B
-RPL16A	ribosomal protein L16A
-RPL16B	ribosomal 60S subunit protein L16B
+RPL15A	60S ribosomal protein L15A
+RPL15B	60S ribosomal protein L15B
+RPL15B_0	60S ribosomal protein L15B_0
+RPL15B_1	60S ribosomal protein L15B_1
+RPL16A	60S ribosomal protein L16A
+RPL16B	60S ribosomal protein L16B
 RPL17	60S ribosomal protein L17
-RPL17A	ribosomal 60S subunit protein L17A
-RPL17B	60S ribosomal protein L17
-RPL17B_0	60S ribosomal protein L17-B
-RPL17B_1	60S ribosomal protein L17-B
-RPL17B_2	60S ribosomal protein L17-B
-RPL18	ribosomal 60S subunit protein L18A
-RPL18A	ribosomal 60S subunit protein L18A
-RPL18B	ribosomal protein L18B
-RPL19	ribosomal protein L19
-RPL19A	ribosomal 60S subunit protein L19A
-RPL19B	ribosomal 60S subunit protein L19B
-RPL19C	60S ribosomal protein L19-3
-RPL20	60S ribosomal protein L18A
-RPL20A	ribosomal 60S subunit protein L20A
-RPL20B	60S ribosomal protein L20
-RPL20B_0	60S ribosomal protein L20-B
-RPL20B_1	60S ribosomal protein L20-B
-RPL20B_2	60S ribosomal protein L20-B
-RPL20B_3	60S ribosomal protein L20-B
-RPL21A	ribosomal protein L21A
-RPL21B	ribosomal protein L21B
-RPL21e	ribosomal protein L21e
+RPL17A	60S ribosomal protein L17A
+RPL17B	60S ribosomal protein L17B
+RPL17B_0	60S ribosomal protein L17B_0
+RPL17B_1	60S ribosomal protein L17B_1
+RPL17B_2	60S ribosomal protein L17B_2
+RPL18	60S ribosomal protein L18
+RPL18A	60S ribosomal protein L18A
+RPL18B	60S ribosomal protein L18B
+RPL19	60S ribosomal protein L19
+RPL19A	60S ribosomal protein L19A
+RPL19B	60S ribosomal protein L19B
+RPL19C	60S ribosomal protein L19C
+RPL20	60S ribosomal protein L20
+RPL20A	60S ribosomal protein L20A
+RPL20B	60S ribosomal protein L20B
+RPL20B_0	60S ribosomal protein L20B_0
+RPL20B_1	60S ribosomal protein L20B_1
+RPL20B_2	60S ribosomal protein L20B_2
+RPL20B_3	60S ribosomal protein L20B_3
+RPL21A	60S ribosomal protein L21A
+RPL21B	60S ribosomal protein L21B
+RPL21e	60S ribosomal protein L21e
 RPL22	60S ribosomal protein L22
-RPL22A	ribosomal protein L22A
-RPL22B	ribosomal 60S subunit protein L22B
-RPL23	Ribosomal protein L14p/L23e
-RPL23A	ribosomal 60S subunit protein L23B
-RPL23B	Ribosomal 60S subunit protein L23B
-RPL24A	ribosomal 60S subunit protein L24A
-RPL24B	Ribosomal 60S subunit protein L24B
-RPL25	ribosomal 60S subunit protein L25
-RPL26	60S ribosomal protein
-RPL26A	ribosomal 60S subunit protein L26A
-RPL26A_0	60S ribosomal protein L26-1
-RPL26A_1	60S ribosomal protein L26-1
-RPL26B	60S ribosomal protein L26-2
-RPL27A	ribosomal protein L27A
-RPL27A_0	60S ribosomal protein L27-A
-RPL27A_1	60S ribosomal protein L27-A
-RPL27B	Ribosomal 60S subunit protein L27B
-RPL28	ribosomal 60S subunit protein L28
-RPL28A	60S ribosomal protein L28-1
-RPL28A_0	60S ribosomal protein L28-1
-RPL28A_1	60S ribosomal protein L28-1
-RPL28_0	60S ribosomal protein L28
-RPL28_1	60S ribosomal protein L28
+RPL22A	60S ribosomal protein L22A
+RPL22B	60S ribosomal protein L22B
+RPL23	60S ribosomal protein L23
+RPL23A	60S ribosomal protein L23A
+RPL23B	60S ribosomal protein L23B
+RPL24A	60S ribosomal protein L24A
+RPL24B	60S ribosomal protein L24B
+RPL25	60S ribosomal protein L25
+RPL26	60S ribosomal protein L26
+RPL26A	60S ribosomal protein L26A
+RPL26A_0	60S ribosomal protein L26A_0
+RPL26A_1	60S ribosomal protein L26A_1
+RPL26B	60S ribosomal protein L26B
+RPL27A	60S ribosomal protein L27A
+RPL27A_0	60S ribosomal protein L27A_0
+RPL27A_1	60S ribosomal protein L27A_1
+RPL27B	60S ribosomal protein L27B
+RPL28	60S ribosomal protein L28
+RPL28A	60S ribosomal protein L28A
+RPL28A_0	60S ribosomal protein L28A_0
+RPL28A_1	60S ribosomal protein L28A_1
+RPL28_0	60S ribosomal protein L28_0
+RPL28_1	60S ribosomal protein L28_1
 RPL29	60S ribosomal protein L29
 RPL30	60S ribosomal protein L30
-RPL30_0	60S ribosomal protein L30
-RPL30_1	60S ribosomal protein L30
+RPL30_0	60S ribosomal protein L30_0
+RPL30_1	60S ribosomal protein L30_1
 RPL31	60S ribosomal protein L31
-RPL31A	ribosomal 60S subunit protein L31A
-RPL31B	ribosomal 60S subunit protein L31B
-RPL31_0	60S ribosomal protein L31
-RPL31_1	60S ribosomal protein L31
-RPL32	Ribosomal 60S subunit protein L32
-RPL33A	Ribosomal 60S subunit protein L33A
-RPL33A_0	60S ribosomal protein L33-A
-RPL33A_1	60S ribosomal protein L33-A
-RPL33B	ribosomal protein L33B
+RPL31A	60S ribosomal protein L31A
+RPL31B	60S ribosomal protein L31B
+RPL31_0	60S ribosomal protein L31_0
+RPL31_1	60S ribosomal protein L31_1
+RPL32	60S ribosomal protein L32
+RPL33A	60S ribosomal protein L33A
+RPL33A_0	60S ribosomal protein L33A_0
+RPL33A_1	60S ribosomal protein L33A_1
+RPL33B	60S ribosomal protein L33B
 RPL34	60S ribosomal protein L34
-RPL34A	60S ribosomal protein L34-A
-RPL34B	ribosomal 60S subunit protein L34B
-RPL34B_0	60S ribosomal protein L34-B
-RPL34B_1	60S ribosomal protein L34-B
-RPL34B_2	60S ribosomal protein L34-B
+RPL34A	60S ribosomal protein L34A
+RPL34B	60S ribosomal protein L34B
+RPL34B_0	60S ribosomal protein L34B_0
+RPL34B_1	60S ribosomal protein L34B_1
+RPL34B_2	60S ribosomal protein L34B_2
 RPL35	60S ribosomal protein L35
-RPL35A	ribosomal 60S subunit protein L35A
-RPL35B	60S ribosomal protein L35-B
-RPL35C	60S ribosomal protein L35-3
+RPL35A	60S ribosomal protein L35A
+RPL35B	60S ribosomal protein L35B
+RPL35C	60S ribosomal protein L35C
 RPL36	60S ribosomal protein L36
-RPL36A	ribosomal 60S subunit protein L36A
-RPL36B	ribosomal 60S subunit protein L36B
-RPL37A	60S ribosomal protein L37-A
-RPL37B	ribosomal 60S subunit protein L37B
-RPL38	ribosomal 60S subunit protein L38
-RPL39	Ribosomal 60S subunit protein L39
-RPL39B	60S ribosomal protein L39
-RPL40A	ubiquitin-ribosomal 60S subunit protein L40A fusion protein
-RPL40B	ribosomal protein L40B
-RPL41A	ribosomal 60S subunit protein L41A
-RPL41B	ribosomal 60S subunit protein L41B
-RPL42	ribosomal 60S subunit protein L42A
-RPL42A	60S ribosomal protein L42
-RPL42B	ribosomal 60S subunit protein L42B
+RPL36A	60S ribosomal protein L36A
+RPL36B	60S ribosomal protein L36B
+RPL37A	60S ribosomal protein L37A
+RPL37B	60S ribosomal protein L37B
+RPL38	60S ribosomal protein L38
+RPL39	60S ribosomal protein L39
+RPL39B	60S ribosomal protein L39B
+RPL40A	60S ribosomal protein L40A
+RPL40B	60S ribosomal protein L40B
+RPL41A	60S ribosomal protein L41A
+RPL41B	60S ribosomal protein L41B
+RPL42	60S ribosomal protein L42
+RPL42A	60S ribosomal protein L42A
+RPL42B	60S ribosomal protein L42B
 RPL43	60S ribosomal protein L43
-RPL43A	ribosomal protein L43A
-RPL43B	ribosomal 60S subunit protein L43B
+RPL43A	60S ribosomal protein L43A
+RPL43B	60S ribosomal protein L43B
 RPM2	RNase P subunit
 RPN1	proteasome regulatory particle base subunit
 RPN1_0	26S proteasome regulatory subunit RPN1
