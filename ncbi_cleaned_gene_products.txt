@@ -8725,7 +8725,7 @@ METTL21B	Methyltransferase-like protein 21B
 METTL21B_0	Methyltransferase-like protein 21B
 METTL21B_1	Methyltransferase-like protein 21B
 METTL21E	Methyltransferase-like protein 21E
-METTL25		Methyltransferase-like protein 25
+METTL25	Methyltransferase-like protein 25
 METTL25_0	Methyltransferase-like protein 25
 METTL25_1	Methyltransferase-like protein 25
 MEU1	S-methyl-5-thioadenosine phosphorylase
@@ -20774,12 +20774,12 @@ mug153	Meiotically up-regulated gene 153 protein
 mug154	Meiotically up-regulated gene 154 protein
 mug155	Meiotically up-regulated gene 155 protein
 mug157	Meiotically up-regulated gene 157 protein
-mug157_1	    Meiotically up-regulated gene 157 protein
-mug157_2	    Meiotically up-regulated gene 157 protein
-mug157_3	    Meiotically up-regulated gene 157 protein
-mug158		    Ergothioneine biosynthesis protein 1
-mug158_0	    Ergothioneine biosynthesis protein 1 
-mug158_1	    Ergothioneine biosynthesis protein 1
+mug157_1	Meiotically up-regulated gene 157 protein
+mug157_2	Meiotically up-regulated gene 157 protein
+mug157_3	Meiotically up-regulated gene 157 protein
+mug158	Ergothioneine biosynthesis protein 1
+mug158_0	Ergothioneine biosynthesis protein 1
+mug158_1	Ergothioneine biosynthesis protein 1
 mug160	Meiotically up-regulated gene 160 protein
 mug162	Meiotically up-regulated gene 162 protein
 mug163	Meiotically up-regulated gene 163 protein
