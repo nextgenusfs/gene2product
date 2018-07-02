@@ -11812,6 +11812,7 @@ PSH1	E3 ubiquitin ligase
 PSK1	serine/threonine protein kinase PSK1
 PSK2	Serine/threonine-protein kinase
 PSMA	Proteasome subunit alpha
+PSMA6   Proteasome subunit alpha type-6
 PSMB1	Proteasome subunit beta type-1
 PSMB4	Proteasome subunit beta type-4
 PSMB7	Proteasome subunit beta type-7
