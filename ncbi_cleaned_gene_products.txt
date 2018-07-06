@@ -1,4 +1,4 @@
-#version 1.13
+#version 1.14
 #Date 07-06-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
@@ -13894,6 +13894,7 @@ SF3A2	Splicing factor 3A subunit 2
 SF3B1	Splicing factor 3B subunit 1
 SF3B2	Splicing factor 3B subunit 2
 SF3B4	Splicing factor 3B subunit 4
+SF3B5	Splicing factor 3B subunit 5
 SF3B6	Splicing factor 3B subunit 6
 SF3b10	splicing factor 3B subunit 10
 SFA1	S-(hydroxymethyl)glutathione dehydrogenase
