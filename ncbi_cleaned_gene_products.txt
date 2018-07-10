@@ -11705,7 +11705,7 @@ PPL1	phycocyanin alpha-subunit phycocyanobilin lyase
 PPM1	carboxy methyl transferase for protein phosphatase 2A
 PPM2	tRNA methyltransferase PPM2
 PPME1	Protein phosphatase methylesterase 1
-PPN1	Phosphate metabolism transcription is regulated by PHO system
+PPN1	Endopolyphosphatase
 PPN1_0	Endopolyphosphatase
 PPN1_1	Endopolyphosphatase
 PPN1_2	Endopolyphosphatase
