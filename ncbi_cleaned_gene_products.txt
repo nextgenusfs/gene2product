@@ -1,5 +1,5 @@
-#version 1.14
-#Date 07-06-2018
+#version 1.15
+#Date 07-10-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -1477,11 +1477,11 @@ BRPF1	Bromodomain and PHD finger-containing protein 1
 BRPF3	Bromodomain and PHD finger-containing protein 3
 BRR1	spliceosomal snRNP component
 BRR2	DEIH-box ATPase
-BRR6	nuclear envelope integral membrane protein required for nuclear transport
+BRR6	Nucleus export protein BRR6
 BRSK1	Serine/threonine-protein kinase BRSK1
 BRWD1	Bromodomain and WD repeat-containing protein 1
 BRWD3	Bromodomain and WD repeat-containing protein 3
-BRX1	RNA-binding protein required for biogenesis of the ribosomal 60S subunit
+BRX1	Ribosome biogenesis protein BRX1
 BSC6	Bypass of stop codon protein 6
 BSC6_0	Bypass of stop codon protein 6
 BSC6_1	Bypass of stop codon protein 6
@@ -1816,7 +1816,7 @@ CDC8	Thymidylate kinase
 CDC9	DNA ligase 1
 CDC10	cell division control protein
 CDC11	Cell division control protein 11
-CDC12	Component of the septin ring, required for cytokinesis
+CDC12	Cell division control protein 12
 CDC13	single-stranded TG1-3 telomere G-tails binding protein
 CDC14	cell division control protein 14
 CDC15	Protein kinase of the Mitotic Exit Network
@@ -2280,51 +2280,51 @@ COQ5	2-hexaprenyl-6-methoxy-1,4-benzoquinone methyltransferase
 COQ6	Putative ubiquinone biosynthesis monooxygenase
 COQ7	ubiquinone biosynthesis monooxygenase Coq7
 COQ8	Ubiquinone biosynthesis
-COQ9	coenzyme Q
-COQ10	coenzyme Q-binding protein COQ10
-COQ10A	Coenzyme Q-binding protein COQ10 A, mitochondrial
-COQ11	ubiquinone biosynthesis protein COQ11
-COR1	ubiquinol-cytochrome c oxidoreductase complex subunit
+COQ9	Ubiquinone biosynthesis protein COQ9, mitochondrial
+COQ10	Coenzyme Q-binding protein COQ10, mitochondrial
+COQ10A	Coenzyme Q-binding protein COQ10A, mitochondrial
+COQ11	MIOREX complex component 2
+COR1	Cytochrome b-c1 complex subunit 1, mitochondrial
 CORA1	cora superfamily
 CORO2B	Coronin-2B
-CORO7	coronin 7
+CORO7	Coronin-7
 COS111	Ciclopirox olamine resistance protein
-COT1	cobalt toxicity
-COX1	cytochrome c oxidase subunit 1
-COX2	cytochrome c oxidase subunit 2
-COX3	cytochrome c oxidase subunit 3
-COX4	cytochrome c oxidase subunit IV
-COX4_2	cytochrome c oxidase subunit 4 COX4
-COX5	subunit VA of cytochrome c oxidase,COX5
-COX5A	COX5A, subunit VA of cytochrome c oxidase
-COX5B	cytochrome c oxidase subunit Vb
-COX5a	cytochrome-c oxidase subunit Va
-COX6	cytochrome c oxidase subunit VI
-COX6A	OX6A subunit VIa of cytochrome c oxidase
-COX6A_2	cytochrome c oxidase subunit 6A COX6A
-COX6B	subunit VIb of cytochrome c oxidase,COX6B
-COX6B_2	cytochrome c oxidase subunit 6B COX6B
-COX7	Cytochrome c oxidase polypeptide VII
-COX7A	subunit VIIa of cytochrome c oxidase
-COX7A_2	cytochrome c oxidase subunit 7A COX9
+COT1	Cobalt uptake protein COT1
+COX1	Cytochrome c oxidase subunit 1
+COX2	Cytochrome c oxidase subunit 2
+COX3	Cytochrome c oxidase subunit 3
+COX4	Cytochrome c oxidase subunit 4
+COX4_2	Cytochrome c oxidase subunit 4
+COX5	Cytochrome c oxidase subunit 5
+COX5A	Cytochrome c oxidase subunit 5A
+COX5B	Cytochrome c oxidase subunit 5B
+COX5a	Cytochrome-c oxidase subunit 5A
+COX6	Cytochrome c oxidase subunit 6
+COX6A	Cytochrome c oxidase subunit 6A
+COX6A_2	Cytochrome c oxidase subunit 6A
+COX6B	Cytochrome c oxidase subunit 6B
+COX6B_2	Cytochrome c oxidase subunit 6B
+COX7	Cytochrome c oxidase subunit 7
+COX7A	Cytochrome c oxidase subunit 7A
+COX7A_2	Cytochrome c oxidase subunit 7A
 COX7C	Cytochrome c oxidase subunit 7C, mitochondrial
-COX8	cytochrome c oxidase subunit VIII
+COX8	Cytochrome c oxidase subunit 8A, mitochondrial
 COX9	Cytochrome c oxidase subunit 7A
-COX9_2	cytochrome c oxidase subunit 7A COX9
-COX10	heme O synthase
-COX11	cytochrome C oxidase
-COX12	Cytochrome c oxidase polypeptide vib
-COX13	Cytochrome c oxidase subunit 6A
-COX14	cytochrome C oxidase
-COX15	protein required for the hydroxylation of heme O to form heme A, COX15
+COX9_2	Cytochrome c oxidase subunit 7A
+COX10	Protoheme IX farnesyltransferase, mitochondrial
+COX11	Cytochrome c oxidase assembly protein COX11, mitochondrial
+COX12	Cytochrome c oxidase subunit 6B
+COX13	Cytochrome c oxidase subunit 6A, mitochondrial
+COX14	Cytochrome c oxidase assembly protein COX14
+COX15	Cytochrome c oxidase assembly protein COX15
 COX16	Cytochrome oxidase assembly
-COX17	copper metallochaperone COX17
-COX18	membrane insertase COX18
+COX17	Cytochrome c oxidase copper chaperone
+COX18	Cytochrome c oxidase assembly protein COX18, mitochondrial
 COX19	Cytochrome c oxidase assembly protein COX19
-COX20	COX: cytochrome oxidase, 20
+COX20	Cytochrome c oxidase assembly protein COX20, mitochondrial
 COX23	Mitochondrial copper homeostasis protein
-COXI	cytochrome c oxidase subunit I
-COXII	cytochrome c oxidase subunit II
+COXI	Cytochrome c oxidase subunit I
+COXII	Cytochrome c oxidase subunit II
 COY1	Putative protein with role in Golgi function
 CP51	Cytochrome P450 51 (CYPLI) (P450-LIA1)
 CP52C	Cytochrome P450 52A6 (CYPLIIA6) (Alkane-inducible P450-ALK3)
@@ -2915,7 +2915,7 @@ Cyp51a1	Lanosterol 14-alpha demethylase
 CypX	Cytochrome P450 monooxygenase-like cypX
 CytC	Cytochrome c-1
 CytC2	Cytochrome c-2
-D2_0	cAMP-regulated D2 protein
+D2_0	Carboxylic ester hydrolase
 D25	Carbohydrate esterase 4 protein
 DAAM1	Disheveled-associated activator of morphogenesis 1
 DAAM2	Dishevelled associated activator of morphoproteinsis 2
