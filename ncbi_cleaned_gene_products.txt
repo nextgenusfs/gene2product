@@ -1,5 +1,5 @@
-#version 1.15
-#Date 07-10-2018
+#version 1.16
+#Date 07-11-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -907,6 +907,7 @@ ASN40014	urea amidolyase
 ASN40264	glucose oxidase
 ASN50297	alpha-amylase
 ASN215015	polyketide synthase
+ASNA1	ATPase ASNA1
 ASND1	Asparagine synthetase domain-containing protein
 ASNSD1	Asparagine synthetase domain-containing protein 1
 ASO	L-ascorbate oxidase
@@ -1012,6 +1013,7 @@ ATP3	ATP3 gamma subunit of the F1 sector of mitochondrial F1F0 ATP synthase
 ATP4	ATP4 subunit B of the stator stalk of mitochondrial F1F0 ATP synthase
 ATP4_2	ATP synthase F0 subcomplex subunit B ATP4
 ATP5	ATP synthase F0 subcomplex subunit OSCP ATP5
+ATP5A1	ATP synthase subunit alpha, mitochondrial
 ATP5D	ATP synthase subunit delta, mitochondrial
 ATP5E	ATP synthase subunit epsilon, mitochondrial
 ATP5F1A	ATP synthase subunit alpha, mitochondrial
@@ -2179,6 +2181,7 @@ CLPP2	ATP-dependent Clp protease proteolytic subunit 2, mitochondrial
 CLPTM1	Cleft lip and palate transmembrane protein 1 like protein
 CLU1	Intracellular distribution of mitochondria
 CLYBL	Citrate lyase subunit beta-like protein, mitochondrial
+CM1	Chorismate mutase 1-like protein
 CMC1	Mitochondrial aspartate/glutamate carrier protein
 CMC2	Respiratory chain complex assembly or maintenance protein
 CMC3	Endoglucanase 3
@@ -4695,6 +4698,7 @@ GIN1	Gypsy retrotransposon integrase-like protein 1
 GIN4	serine/threonine-protein kinase GIN4
 GIN4_0	Serine/threonine-protein kinase GIN4
 GIN4_1	Serine/threonine-protein kinase GIN4
+GINS1	DNA replication complex GINS protein PSF1
 GINS2	DNA replication complex GINS protein PSF2
 GIP	Copia protein
 GIP1	Glc7p regulatory subunit
@@ -5665,6 +5669,8 @@ HSP90	Heat shock protein 90
 HSP90B1	Endoplasmin
 HSP101	Heat shock protein 101
 HSP150	heat shock protein HSP150
+HSPA1L	Heat shock 70 kDa protein 1-like
+HSPA6	Heat shock 70 kDa protein 6
 HSPA12A	Heat shock 70 kDa protein 12A
 HSPA12A_0	Heat shock protein 12A
 HSPA12A_1	Heat shock protein 12A
@@ -8154,6 +8160,7 @@ KLHL13	kelch-like
 KLP1	Kinesin heavy chain
 KLP7	Kinesin family
 KMHB	Myosin heavy chain kinase B
+KMT1	Histone H3-K9 methyltransferase KMT1
 KMT2E	Histone-lysine N-methyltransferase 2E
 KNG1	kininogen 1
 KNH1	cell wall synthesis protein KNH1
@@ -8163,6 +8170,7 @@ KOG1	Target of rapamycin complex 1 subunit KOG1
 KPAR	ketopantoate reductase
 KPC1	Protein kinase C-like protein
 KPCZ	Protein kinase C zeta type
+KPNA5	Importin subunit alpha-6
 KPR1	2-dehydropantoate 2-reductase (Ketopantoate reductase) (KPA reductase) (KPR)
 KPR4	Ribose-phosphate pyrophosphokinase
 KPYK	Pyruvate kinase
@@ -10997,6 +11005,7 @@ PEBP4	Phosphatidylethanolamine-binding protein 4
 PECS-2.1	Pectinesterase 2
 PEDD	Pediocin PA-1 transport/processing ATP-binding protein pedD
 PEF1	peflin or Penta-EF hand domain-containing protein 1
+PEG10	Retrotransposon-derived protein PEG10
 PEG10_0	Retrotransposon-derived protein PEG10
 PEG10_1	Retrotransposon-derived protein PEG10
 PEL1	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
@@ -11937,6 +11946,7 @@ PSMA1	Proteasome subunit alpha 1
 PSMA6	Proteasome subunit alpha type-6
 PSMA7L	Proteasome subunit alpha type-7-like
 PSMB1	Proteasome subunit beta type-1
+PSMB3	Proteasome subunit beta type-3
 PSMB4	Proteasome subunit beta type-4
 PSMB5	Proteasome subunit beta type-5
 PSMB6	Proteasome subunit beta type-6
@@ -14711,6 +14721,7 @@ STX18	Syntaxin-18
 STXB3	Syntaxin-binding protein 3
 STY2942	Putative glycoporin
 STYX	Serine/threonine/tyrosine-interacting protein
+SU(VAR)3-9	   Histone H3-K9 methyltransferase KMT1
 SUA7	transcription initiation factor IIB
 SUA71	transcription factor TFIIB
 SUB1	Transcriptional coactivator
@@ -16008,6 +16019,7 @@ UBI4	Ubiquitin
 UBI5	methyltransferase
 UBI::CRP6	Ubiquitin-40S ribosomal protein S27a
 UBIQ	Ubiquitin
+UBL3	Ubiquitin-like protein 3
 UBL5	Ubiquitin-like 5
 UBLCP1	Ubiquitin-like domain-containing CTD phosphatase 1
 UBP1	ubiquitin-specific protease UBP1
