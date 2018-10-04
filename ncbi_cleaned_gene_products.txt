@@ -1,5 +1,5 @@
-#version 1.18
-#Date 10-02-2018
+#version 1.19
+#Date 10-03-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -131,7 +131,7 @@ ABP140	AdoMet-dependent tRNA methyltransferase and actin binding protein
 ABQ6	A-beta Q6, HD1 mating type protein
 ABR6	homeodomain mating type protein, HD2 homeodomain
 ABS6	A-beta-S6, HD1 mating-type protein
-ABT1	Chromatin structure and dynamics, TranscriptionActivator of basal transcription 1
+ABT1	Activator of basal transcription 1
 ABT6	A-beta-T6, HD1 mating type protein
 ABTB1	Ankyrin repeat and BTB/POZ domain-containing protein 1
 ABT_0	ADP,ATP carrier protein
@@ -22348,7 +22348,7 @@ ordA_47	O-methylsterigmatocystin oxidoreductase
 ordA_48	O-methylsterigmatocystin oxidoreductase
 ordA_49	O-methylsterigmatocystin oxidoreductase
 ordB	dehydrogenase-like protein
-orf1	ORF1
+orf1	Anucleate primary sterigmata protein B	
 orf2	ORF2
 orn	Oligoribonuclease
 orp1	opsin related protein
