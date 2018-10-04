@@ -1,4 +1,4 @@
-#version 1.19
+#version 1.20
 #Date 10-03-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
@@ -18,7 +18,7 @@
 4CLL7_1	4-coumarate--CoA ligase-like 7
 4CLL7_2	4-coumarate--CoA ligase-like 7
 4CLL9	4-coumarate--CoA ligase-like 9
-4EHP	Initiation factor
+4EHP	Eukaryotic translation initiation factor 4E type 2
 6-PGD	6-phosphogluconate dehydrogenase, decarboxylating
 6GAL	Endo-beta-1 6-galactanase
 6HN3M	6-hydroxynicotinate 3-monooxygenase
@@ -9876,7 +9876,7 @@ MYO5	myosin I
 MYO12	Myosin class V heavy chain
 MYSM1	Myb-like, SWIRM and MPN domains 1
 MYST4	Histone acetyltransferase MYST4
-MZM1	mitochondrion
+MZM1	Mitochondrial zinc maintenance protein 1, mitochondrial	
 Mad2l2	Mitotic spindle assembly checkpoint protein MAD2B
 MadA	GATA-type zinc finger transcription factor
 MadB	GATA-type zinc finger transcription factor
