@@ -1,5 +1,5 @@
-#version 1.20
-#Date 10-03-2018
+#version 1.21
+#Date 10-06-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -460,6 +460,7 @@ AIMP1	Aminoacyl tRNA synthase complex-interacting multifunctional protein 1
 AIP1	WD40 repeat-like protein
 AIP2	D-lactate dehydrogenase
 AIR1	TRAMP complex RNA-binding subunit
+AKD1	adenylate kinase
 AKHSDH2	Homoserine dehydrogenase
 AKL1	Ark-family serine/threonine protein kinase
 AKR1	palmitoyltransferase AKR1
@@ -595,6 +596,7 @@ AMPM2	Methionine aminopeptidase 2
 AMRD1	multiple RNA-binding domain-containing protein
 AMS1	Glycoside hydrolase, family 38 vacuolar alpha mannosidase
 AMT6	Glucan 1,4-alpha-maltohexaosidase
+AMT16	Phospho-2-dehydro-3-deoxyheptonate aldolase amt16
 AMYG	Glucoamylase 1
 AMZ1	Archaemetzincin-1
 ANAPC1	Anaphase-promoting complex subunit 1
@@ -3164,6 +3166,7 @@ DENND6A	Protein DENND6A
 DEP1	Transcriptional regulatory protein
 DEP2	FAD-dependent monooxygenase dep2
 DEP3	Efflux pump dep3
+DEP4	FAD-dependent monooxygenase dep4
 DEP6	Depudecin biosynthesis cluster-specific transcription activator dep6
 DEPDC5	GATOR complex protein DEPDC5
 DER1	ER-associated protein degradation protein
@@ -9200,7 +9203,10 @@ MEP2	ammonium transporter
 MEP3	ammonium permease MEP3
 MEP4	Extracellular metalloproteinase 4
 MEP5	Fungalysin/Thermolysin Extracellular metalloproteinase 5
+MEP6	Neutral protease 2 mep6
+MEP7	Neutral protease 2 mep7
 MEP8	Neutral protease 2 MEP8
+MEP9	Extracellular metalloproteinase 9
 MEP10	Extracellular metalloproteinase 10
 MEP10_0	Extracellular metalloproteinase 10
 MEP10_1	Extracellular metalloproteinase 10
@@ -9288,6 +9294,7 @@ MFM1	Mitochondrial inner membrane magnesium transporter
 MFP-1	multifunctional beta-oxidation protein
 MFP-2	multifunctional beta-oxidation protein
 MFR1	Meiotic fizzy-related protein 1
+MFS2	MFS siderochrome iron transporter 1
 MFS5	hexose transporter
 MFS41	MFS transporter
 MFS42	MFS transporter
@@ -9876,7 +9883,7 @@ MYO5	myosin I
 MYO12	Myosin class V heavy chain
 MYSM1	Myb-like, SWIRM and MPN domains 1
 MYST4	Histone acetyltransferase MYST4
-MZM1	Mitochondrial zinc maintenance protein 1, mitochondrial	
+MZM1	Mitochondrial zinc maintenance protein 1, mitochondrial
 Mad2l2	Mitotic spindle assembly checkpoint protein MAD2B
 MadA	GATA-type zinc finger transcription factor
 MadB	GATA-type zinc finger transcription factor
@@ -13703,6 +13710,7 @@ RXT3	transcriptional regulatory protein RXT3
 RYL2	Ras-like GTP-binding protein RYL2
 RYL2_0	Ras-like GTP-binding protein RYL2
 RYL2_1	Ras-like GTP-binding protein RYL2
+RYP2	Spore development regulator ryp2
 RYP3	Velvet complex subunit ryp3
 RZ1B	Glycine-rich RNA-binding protein RZ1B
 Rab2a	Ras-related protein Rab-2A
@@ -14250,6 +14258,7 @@ SHU2	suppressor of hydroxyurea sensitivity
 SHY1	surf-like protein
 SIA1	purple acid phosphatase
 SIC1	cyclin-dependent protein serine/threonine kinase inhibiting protein SIC1
+SID3	Hydroxyornithine transacylase sid3
 SIF2	SIR4-interacting protein SIF2
 SIK1	pre- rRNA processing protein
 SIK3	SIK kinase 3
@@ -22348,7 +22357,7 @@ ordA_47	O-methylsterigmatocystin oxidoreductase
 ordA_48	O-methylsterigmatocystin oxidoreductase
 ordA_49	O-methylsterigmatocystin oxidoreductase
 ordB	dehydrogenase-like protein
-orf1	Anucleate primary sterigmata protein B	
+orf1	Anucleate primary sterigmata protein B
 orf2	ORF2
 orn	Oligoribonuclease
 orp1	opsin related protein
