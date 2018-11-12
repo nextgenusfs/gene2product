@@ -1,5 +1,5 @@
-#version 1.21
-#Date 10-06-2018
+#version 1.22
+#Date 11-12-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -1731,10 +1731,12 @@ CBC2	nuclear cap binding complex subunit
 CBF1	basic helix-loop-helix protein
 CBF2	centromere binding factor CBF3 subunit
 CBF5	centromere/microtubule-binding protein CBF5
+CBH1	Exoglucanase 1
 CBH1_0	Exoglucanase 1
 CBH1_1	Exoglucanase 1
 CBH1_2	Exoglucanase 1
 CBH1_3	Exoglucanase 1
+CBH2	Exoglucanase 2
 CBK1	Serine/threonine-protein kinase
 CBK1_0	Serine/threonine-protein kinase CBK1
 CBK1_1	Serine/threonine-protein kinase CBK1
@@ -4568,6 +4570,7 @@ Fpmco1	multicopper oxidase
 Frq1	Frequenin-1
 Fuca2	Plasma alpha-L-fucosidase
 Fundc1	FUN14 domain-containing protein 1
+FUS8	Cytochrome P450 monooxygenase fus8
 Fuz7	Dual specificity protein kinase Fuz7
 Fzr1	Fizzy-related protein like protein
 G3BP2	GTPase activating protein (SH3 domain) binding protein
@@ -8166,6 +8169,7 @@ K6PF	6-phosphofructokinase
 K1456	Putative methyltransferase KIAA1456 like protein
 KAD	Adenylate kinase
 KAD6	Adenylate kinase isoenzyme 6
+KANK1	KN motif and ankyrin repeat domains
 KAP1	Adenylyl-sulfate kinase (APS kinase)
 KAP95	karyopherin beta
 KAP104	karyopherin beta 2
@@ -8449,6 +8453,7 @@ LACS7_1	Long chain acyl-CoA synthetase 7, peroxisomal
 LACTBL1	Putative beta-lactamase-like 1
 LAC_0	Laccase
 LAC_1	Laccase
+LAE1	Secondary metabolism regulator lae1
 LAF1	Sphingosine N-acyltransferase
 LAG1	sphingosine N-acyltransferase LAG1
 LAG1.1	Acyl-CoA-dependent ceramide synthase
@@ -14586,6 +14591,9 @@ SOR2	L-iditol 2-dehydrogenase SOR2
 SOR3	Sorbitol dehydrogenase (L-iditol 2-dehydrogenase)
 SOR4	sorbitol dehydrogenase
 SOR5	Sorbitol dehydrogenase
+SOR6	Major facilitator-type transporter sor6
+SOR7	Short chain dehydrogenase sor7
+SOR8	FAD-linked oxidoreductase sor8
 SORBS2	Sorbin and SH3 domain-containing protein 2
 SORD_0	Sorbitol dehydrogenase
 SORD_1	Sorbitol dehydrogenase
