@@ -1,4 +1,4 @@
-#version 1.22
+#version 1.23
 #Date 11-12-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
@@ -117,8 +117,6 @@ ABCE1	ATP-binding cassette sub-family E member 1
 ABCE2	ABC transporter E family member 2
 ABCF3	ATP-binding cassette sub-family F member 3
 ABCG1	ATP-binding cassette sub-family G member 1
-ABF1	DNA-binding protein ABF1
-ABF2	DNA-binding protein ABF2
 ABFa	ABFa alfa-L-arabinofuranosidase-A
 ABHD4	Alpha/beta hydrolase domain-containing protein 4
 ABHD6	Alpha beta hydrolase
