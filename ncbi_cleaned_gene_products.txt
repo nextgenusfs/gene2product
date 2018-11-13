@@ -1,4 +1,4 @@
-#version 1.24
+#version 1.25
 #Date 11-13-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
@@ -863,10 +863,10 @@ ARO10-2	Phenylpyruvate decarboxylase
 ARO80	zinc finger transcriptional activator
 AROC	Chorismate synthase
 ARP1	centractin- actin-related protein of the dynactin complex
-ARP2	Actin-related protein
-ARP3	Actin-related protein
+ARP2	Arp2/3 complex subunit, actin nucleation center required for the motility and integrity of actin patches
+ARP3	Arp2/3 complex subunit, actin nucleation center required for the motility and integrity of actin patches
 ARP4	NuA4 histone acetyltransferase subunit
-ARP5	Actin-related protein 5
+ARP5	Nuclear actin-protein involved in chromatin remodeling
 ARP6	Actin-related protein 6
 ARP7	general RNA polymerase II transcription factor
 ARP8	actin-like protein ARP8
@@ -1683,9 +1683,9 @@ CAP100	Putative transcriptional coactivator
 CAPN7	calpain 7
 CAPZA1	F-actin-capping protein subunit alpha-1
 CAPZA2	F-actin-capping protein
-CAR1	arginase
-CAR1-1	Arginase
-CAR1-2	Arginase
+CAR1	Arginase, catabolizes arginine to ornithine and urea
+CAR1-1	Arginase, catabolizes arginine to ornithine and urea
+CAR1-2	Arginase, catabolizes arginine to ornithine and urea
 CAR2	ornithine aminotransferase
 CAR12	arginase
 CAR71	arginase
@@ -1891,7 +1891,7 @@ CDC25_5	Cell division control protein 25
 CDC26	anaphase promoting complex subunit CDC26
 CDC27	anaphase-promoting complex subunit CDC27
 CDC28	Cyclin-dependent kinase catalytic subunit
-CDC31	centrin
+CDC31	Calcium-binding component of the spindle pole body (SPB) half-bridge
 CDC33	Translation initiation factor eIF4E
 CDC34	Ubiquitin-conjugating enzyme subunit
 CDC35	adenylate cyclase (ATP pyrophosphate-lyase) (Adenylyl cyclase)
@@ -2622,7 +2622,7 @@ CUE4	coupling of ubiquitin conjugation to ER degradation
 CUE5	ubiquitin-binding protein CUE5
 CUL1	Cullin-1
 CUL2	Cullin-2
-CUL3	cullin-3
+CUL3	Cullin-3, ubiquitin-protein ligase complex with Elc1p that ubiquitylates RNA polymerase II for proteolysis
 CUL3B	Cullin-3B
 CUL4	Cullin-4
 CUL4A	Cullin-4A
@@ -3799,11 +3799,11 @@ ENP2	Small ribosomal subunit biogenesis
 ENPEP	Glutamyl aminopeptidase
 ENPL	endoplasmin
 ENPP1	ectonucleotide pyrophosphatase phosphodiesterase
-ENT1	Epsin-1
-ENT2	Epsin-2
-ENT3	Epsin-3
-ENT4	Epsin-4
-ENT5	Epsin-5
+ENT1	Epsin-1, required for endocytosis and actin patch assembly
+ENT2	Epsin-2, required for endocytosis and actin patch assembly
+ENT3	Epsin-3, clathrin recruitment and traffic between the Golgi and endosomes
+ENT4	Epsin-4, uknown function
+ENT5	Epsin-5, clathrin recruitment and traffic between the Golgi and endosomes
 ENTHD2	AP-4 complex accessory subunit Tepsin
 ENV7	Serine/threonine-protein kinase ENV7
 ENV9	vacuolar protein
@@ -4829,7 +4829,7 @@ GIP_4	Copia protease
 GIS1	gig1-2 suppressor
 GIS2	gig suppressor
 GIS3	gig1-2 suppressor
-GIT1	permease
+GIT1	Plasma membrane permease, mediates uptake of glycerophosphoinositol and glycerophosphocholine 
 GIT2	glycerophosphoinositol permease
 GIT3	glycerophosphoinositol permease
 GK	glycerol kinase
@@ -4859,7 +4859,7 @@ GLN4	Glutaminyl-tRNA synthetase
 GLN32	zinc finger transcription factor
 GLO1	Lactoylglutathione lyase
 GLO2	Cytoplasmic glyoxalase II
-GLO3	glyoxalase
+GLO3	ADP-ribosylation factor GTPase activating protein, ER-Golgi transport
 GLO4	hydroxyacylglutathione hydrolase GLO4
 GLO5	Peroxisomal (S)-2-hydroxy-acid oxidase GLO5
 GLP1	Glycerophosphodiester phosphodiesterase
@@ -5687,11 +5687,11 @@ HMX1	heme oxygenase
 HNM1	choline transporter
 HNRDL	Heterogeneous nuclear ribonucleoprotein D-like protein
 HNRNPA2B1	heteroproteinous nuclear ribonucleoprotein
-HNT1	hit family protein 1
-HNT1_0	Hit family protein 1
-HNT1_1	Hit family protein 1
-HNT2	histidine triad nucleotide-binding protein
-HNT3	aprataxin-like protein
+HNT1	Adenosine 5'-monophosphoramidase, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
+HNT1_0	Adenosine 5'-monophosphoramidase, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
+HNT1_1	Adenosine 5'-monophosphoramidase, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
+HNT2	Dinucleoside triphosphate hydrolase, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
+HNT3	aprataxin-like protein, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
 HOC1	alpha-1,6-mannosyltransferase
 HOF1	formin-binding protein
 HOG1	MAPK protein HOG1
@@ -5717,6 +5717,7 @@ HORM1	HORMA domain-containing protein 1
 HOS1	histone deacetylase HOS1
 HOS2	histone deacetylase
 HOS3	histone deacetylase
+HOS4  Set3 complex subunit with deacetylase activity, meiotic-specific repressor of sporulation genes
 HOT1	Transcription factor
 HOT13	helper of tim
 HOY1	Homeobox protein HOY1
@@ -5795,7 +5796,7 @@ HSP33	glutathione-independent methylglyoxalase family protein
 HSP42	heat shock protein HSP42
 HSP60	chaperonin
 HSP68	Heat shock protein 68
-HSP70	Hsp70 family chaperone
+HSP70	70-kilodalton heat shock protein
 HSP70-17	Heat shock protein 17
 HSP70.1	heat shock protein HSP70
 HSP70.2	heat shock protein 70
@@ -9742,7 +9743,7 @@ MSS1	mitochondrial splicing system relatd protein
 MSS4	Phosphatidylinositol-4-phosphate 5-kinase
 MSS11	multicopy suppressor of sta genes
 MSS18	mitochondrial splicing system relatd protein
-MSS51	Protein MSS51, mitochondrial
+MSS51	translational activator for mitochondrial COX1
 MSS116	ATP-dependent RNA helicase
 MST1	threonyl-tRNA synthetase
 MST4	Sugar transport protein MST4
@@ -9764,8 +9765,8 @@ MTF1	Mitochondrial transcription factor 1
 MTF1_0	Mitochondrial transcription factor 1
 MTF2	mitochondrial transcription factor 2
 MTFMT	Methionyl-tRNA formyltransferase, mitochondrial
-MTG1	Putative mitochondrial GTPase
-MTG2	Putative GTPase
+MTG1	Mitochondrial GTPase
+MTG2	GTPase of the mitochondrial inner membrane that associates with the large ribosomal subunit
 MTH1	Msn3-like protein
 MTHFD1	C-1-tetrahydrofolate synthase, cytoplasmic
 MTHFR2	Methylenetetrahydrofolate reductase 2
@@ -11376,10 +11377,10 @@ PH2M_0	Phenol 2-monooxygenase
 PH2M_1	Phenol 2-monooxygenase
 PH2M_2	Phenol 2-monooxygenase
 PHA2	prephenate dehydratase
-PHB1	prohibitin-1
-PHB1_0	Prohibitin-1
-PHB1_1	Prohibitin-1
-PHB2	prohibitin subunit
+PHB1	Prohibitin-1, subunit of the prohibitin complex (Phb1p-Phb2p)
+PHB1_0	Prohibitin-1, subunit of the prohibitin complex (Phb1p-Phb2p)
+PHB1_1	Prohibitin-1, subunit of the prohibitin complex (Phb1p-Phb2p)
+PHB2	Prohibitin-2, subunit of the prohibitin complex (Phb1p-Phb2p)
 PHD1	transcriptional activator that enhances pseudohyphal growth
 PHD2	zinc finger FYVE/PHD-type
 PHEX	Phosphate-regulating neutral endopeptidase
@@ -12891,7 +12892,7 @@ RGS3	Regulator of G-protein signaling 3
 RGS13	regulator of G-protein signaling
 RGS16	Regulator of G-protein signaling 16
 RGS-4	Regulator of G-protein signaling
-RGT1	transcriptional activator
+RGT1	Glucose-responsive transcription factor
 RGT2	High-affinity glucose transporter RGT2
 RH24	DEAD-box ATP-dependent RNA helicase 24
 RH35	DEAD-box ATP-dependent RNA helicase 35
@@ -12936,7 +12937,7 @@ RIM1	ssDNA-binding protein, mitochondrial
 RIM2	Pyrimidine nucleotide transporter, mitochondrial
 RIM4	regulator of ime2
 RIM8	ph-response sensor protein
-RIM9	regulator of ime2
+RIM9	regulator of ime2, proteolytic activation of Rim101p in response to alkaline pH
 RIM11	regulator of ime2
 RIM13	cysteine protease
 RIM15	RIM15, signal transduction response regulator
@@ -14048,9 +14049,9 @@ SDS	L-serine dehydratase/L-threonine deaminase
 SDS2	regulatory subunit for the mitotic function of type I protein phosphatase
 SDS3	histone deacetylase and transcriptional regulator
 SDS22	Protein phosphatase 1 regulatory subunit SDS22
-SDS23	Protein SDS23
-SDS23_0	Protein SDS23
-SDS23_1	Protein SDS23
+SDS23	cell separation during budding
+SDS23_0	cell separation during budding
+SDS23_1	cell separation during budding
 SDT1	suppressor of deletion of TFIIS
 SE1L1	sel1-like protein
 SEA4	SEA (Seh1-associated) complex subunit
@@ -14069,7 +14070,7 @@ SEC11	Signal peptidase complex catalytic subunit
 SEC11A	Signal peptidase complex catalytic subunit S11A
 SEC11C	Signal peptidase complex catalytic subunit S11C
 SEC13	GTPase-activating protein SEC13
-SEC14	SEC14 cytosolic factor
+SEC14	cytosolic factor, phosphatidylinositol/phosphatidylcholine transfer protein
 SEC15	Rab GTPase-binding exocyst subunit SEC15
 SEC16	vesicle coat component
 SEC16B	Protein transport protein Sec16B
@@ -14164,8 +14165,9 @@ SETD3	Histone-lysine N-methyltransferase setd3
 SETD4	SET domain-containing protein 4
 SETD6	N-lysine methyltransferase SETD6
 SETD9	SET domain-containing protein 9
-SEY1_0	Protein SEY1
-SEY1_1	Protein SEY1
+SEY1  Dynamin-like GTPase that mediates homotypic ER fusion
+SEY1_0	Dynamin-like GTPase that mediates homotypic ER fusion
+SEY1_1	Dynamin-like GTPase that mediates homotypic ER fusion
 SF1	         Splicing factor 1
 SF3A1	splicing factor 3a, subunit 1
 SF3A2	Splicing factor 3A subunit 2
@@ -14186,7 +14188,7 @@ SFH1	Chromatin structure remodeling complex protein SFH1
 SFH5	Non-classical phosphatidylinositol transfer protein (PITP)
 SFH11	Phosphatidylinositol/phosphatidylcholine transfer protein SFH11
 SFM1	SPOUT methyltransferase
-SFP1	split finger protein
+SFP1	Regulates transcription of ribosomal protein and biogenesis genes
 SFT1	v-SNARE
 SFT2	protein transport protein SFT2
 SFT2-1	Tetra-spanning membrane protein
@@ -14395,7 +14397,7 @@ SLM3	tRNA-specific 2-thiouridylase, mitochondrial
 SLM5	asparaginyl-tRNA synthetase
 SLN1	Histidine kinase osmosensor
 SLO1	Arl3p interacting protein
-SLP1	sad1_UNC super family
+SLP1	Glycosylated integral ER membrane protein
 SLS1	Protein that coordinates expression of mitochondrially-encoded genes
 SLT2	Mitogen-activated protein kinase SLT2/MPK1
 SLT2_0	Mitogen-activated protein kinase SLT2/MPK1
@@ -14892,8 +14894,8 @@ SSN3	cyclin-dependent protein kinase
 SSN6	glucose repression mediator protein
 SSN7	transcription factor which mediates glucose repression
 SSN8	RNA polymerase II holoenzyme cyclin-like subunit
-SSO1	t-SNARE
-SSO2	syntaxin
+SSO1	Plasma membrane t-SNARE, secretory vesicle fusion
+SSO2	Plasma membrane t-SNARE, secretory vesicle fusion
 SSP1	protein kinase SSP1 related
 SSP2	Sporulation specific protein
 SSQ1	Hsp70 family ATPase SSQ1
@@ -14908,7 +14910,7 @@ SSU81	osmosensor
 SSY1	SPS-sensor component SSY1
 SSY1.5	transcriptional regulator of multiple amino acid permeases
 SSY5	SPS-sensor serine protease component SSY5
-SSZ1	regulator protein
+SSZ1	Hsp70 protein that interacts with Zuo1p
 SSk1	SSK1 signal transduction response regulator
 ST1	Solute carrier 26
 STAB1	stabilin 1
@@ -16301,6 +16303,7 @@ UBC6	Ubiquitin-conjugating enzyme E2 6
 UBC7	Ubiquitin-conjugating enzyme E2 7
 UBC8	Ubiquitin-conjugating enzyme E2 8
 UBC9	E2 SUMO-conjugating protein UBC9
+UBC11 Ubiquitin-conjugating enzyme E2 11
 UBC12	NEDD8-conjugating protein UBC12
 UBC13	Ubiquitin-conjugating enzyme 13
 UBC14	Ubiquitin-conjugating enzyme E2 14
@@ -16497,7 +16500,7 @@ URM12	ubiquitin-like protein
 URN1	pre-mRNA-splicing factor URN1
 URO1	Putative urate oxidase
 USA1	U1-Snp1 Associating
-USB1	nuclease
+USB1	poly(U)-specific 3'-to-5' RNA exonuclease
 USE1	SNAP receptor USE1
 USF1	Upstream stimulatory factor 1
 USO1	Vesicle-mediated ER to Golgi transport protein
