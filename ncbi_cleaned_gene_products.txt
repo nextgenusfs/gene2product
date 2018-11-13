@@ -1,5 +1,5 @@
-#version 1.23
-#Date 11-12-2018
+#version 1.24
+#Date 11-13-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -10902,7 +10902,7 @@ OV16_0	OV-16 antigen
 OV16_1	OV-16 antigen
 OVCH1	Ovochymase-1
 OVGP1	Oviduct-specific glycoprotein
-OXA1	Flags: Precursor
+OXA1	Mitochondrial inner membrane protein OXA1
 OXA1L	Mitochondrial inner membrane protein OXA1L
 OXCT1	Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial
 OXCT1_0	Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial
