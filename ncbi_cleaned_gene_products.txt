@@ -1,5 +1,5 @@
-#version 1.25
-#Date 11-13-2018
+#version 1.26
+#Date 11-14-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -1000,13 +1000,13 @@ ATG12_2	Ubiquitin-like protein ATG12
 ATG13	autophagy-related protein 13
 ATG14	autophagy-related protein 14
 ATG15	Putative lipase atg15
-ATG16	ATG16-like protein
+ATG16	autophagy-related protein 16, interacts with Atg12p-Atg5p to bind to membranes
 ATG17	autophagy-related protein 17
 ATG18	autophagy-related protein
 ATG18-1	Autophagy-related protein 18
 ATG18-2	Autophagy-related protein 18
 ATG19	receptor for biosynthetic cytoplasm to vacuole targeting
-ATG20	Autophagy-related protein 20
+ATG20	Sorting nexin, cytoplasm-to-vacuole targeting pathway/endosomal sorting
 ATG21	Autophagy-related protein 21
 ATG22	Autophagy-related protein 22
 ATG23	autophagy-related protein
@@ -3276,6 +3276,7 @@ DMA2_0	E3 ubiquitin-protein ligase DMA2
 DMA2_1	E3 ubiquitin-protein ligase DMA2
 DMAP1	DNA methyltransferase 1-associated protein 1
 DMC1	Meiotic recombination protein DMC1
+DML1  mtDNA inheritance, partitioning of the mitochondrial organelle
 DNA2	Tripartite DNA replication factor
 DNA43	required for S-phase initiation or completion (MCM10)
 DNAI1	cytoplasmic dynein with WD40 domain
@@ -4466,7 +4467,7 @@ FUN12	eukaryotic translation initiation factor 5B
 FUN26	nucleoside transmembrane transporter FUN26
 FUN30	DNA-dependent ATPase FUN30
 FUN31	serine/threonine protein kinase
-FUR1	UPRTase
+FUR1	Uracil phosphoribosyltransferase, synthesizes UMP from uracil
 FUR4	Uracil permease
 FUS1	FUS1 actin binding activity
 FUS2	cell fusion-related protein
@@ -8684,7 +8685,7 @@ LSC1	ligase of succinyl-coa
 LSC2	succinate--CoA ligase beta chain
 LSG1	large subunit GTPase 1
 LSK1	serine/threonine protein kinase, CMGC family, CDC2/CDK subfamily
-LSM1	Sm-like protein
+LSM1	SM-like, degradation of cytoplasmic mRNAs and positively regulates transcription initiation
 LSM2	U6 snRNA-associated Sm-like protein LSm2
 LSM3	U4/U6-U5 snRNP complex subunit LSM3
 LSM3B	Sm-like protein LSM3B
@@ -9586,7 +9587,7 @@ MPPED1	metallophosphoesterase domain-containing protein 1
 MPPED1_0	Metallophosphoesterase domain-containing protein 1
 MPPED1_1	Metallophosphoesterase domain-containing protein 1
 MPRL16	mitochondrial 54S ribosomal protein YmL47
-MPS1	Protein kinase
+MPS1	Dual-specificity kinase, spindle pole body (SPB) duplication and spindle checkpoint function
 MPS2	monopolar spindle
 MPS3	monopolar spindle
 MPST	3-mercaptopyruvate sulfurtransferase
@@ -9739,7 +9740,7 @@ MSR1	arginine--tRNA ligase MSR1
 MSRB2	Peptide methionine sulfoxide reductase B2, chloroplastic
 MSRB3	Peptide methionine sulfoxide reductase B3
 MSRB5	Peptide methionine sulfoxide reductase B5
-MSS1	mitochondrial splicing system relatd protein
+MSS1	mitochondrial splicing system protein
 MSS4	Phosphatidylinositol-4-phosphate 5-kinase
 MSS11	multicopy suppressor of sta genes
 MSS18	mitochondrial splicing system relatd protein
@@ -11702,7 +11703,7 @@ PNO1	pre-rRNA-processing protein PNO1
 PNP	Purine nucleoside phosphorylase
 PNP1	Purine nucleoside phosphorylase
 PNPLA8	Calcium-independent phospholipase A2-gamma
-PNS1	Protein PNS1
+PNS1	Putative choline transporter, neither null mutation nor overexpression affects choline transport
 PNT1	pentamidine resistance factor
 PNU1	Mitochondrial nuclease
 PNUT	Protein peanut
@@ -11791,7 +11792,7 @@ POP5	RNA-binding protein POP5
 POP6	ribonuclease P/MRP protein subunit POP6
 POP7	ribonucleases P/MRP protein subunit POP7
 POP8	ribonuclease P
-POR1	porin POR1
+POR1	Mitochondrial porin, outer membrane protein required for maintenance of mitochondrial osmotic stability and mitochondrial membrane permeability
 PORB	Protochlorophyllide reductase B, chloroplastic
 POS5	NADH kinase POS5
 POSTN	Periostin
@@ -12688,8 +12689,9 @@ RAG2	glucose-6-phosphate isomerase protein RAG2
 RAG5	hexokinase isoenzyme protein RAG5
 RAG8	casein kinase I RAG8
 RAGP1	Ran GTPase-activating protein 1
-RAI1_0	Decapping nuclease RAI1
-RAI1_1	Decapping nuclease RAI1
+RAI1  decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
+RAI1_0	decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
+RAI1_1	decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
 RALGAPA1	Ral GTPase-activating protein subunit alpha-1
 RALGAPA2	Ral GTPase-activating protein subunit alpha-2
 RALGPS1	Ras-specific guanine nucleotide-releasing factor RalGPS1
@@ -13861,7 +13863,7 @@ SAAL1	Protein SAAL1
 SAC1	Phosphoinositide phosphatase SAC1
 SAC2	suppressor of actin mutation
 SAC3	actin cytoskeleton and mitosis protein
-SAC6	fimbrin
+SAC6	Fimbrin, actin-bundling protein cooperates with Scp1p in organization and maintenance of the actin cytoskeleton
 SAC7	GTPase activating protein (GAP) for Rho1p
 SACM1L	Phosphatidylinositide phosphatase SAC1
 SAD1	secondary alcohol dehydrogenase (SADH1)
@@ -14493,6 +14495,7 @@ SNC1	SNAP receptor SNC1
 SNC2	Vesicle membrane receptor protein (v-SNARE)
 SND1	nuclease domain-containing protein
 SNDH	L-sorbosone dehydrogenase
+SNF1  Protein kinase, glucose-repressed gene transcription/heat shock/sporulation/peroxisome biogenesis
 SNF1A	5-AMP-activated protein kinase, catalytic
 SNF2	transcriptional regulator
 SNF3	Plasma membrane low glucose sensor
@@ -14875,6 +14878,7 @@ SSE1	adenyl-nucleotide exchange factor SSE1
 SSE2	adenyl-nucleotide exchange factor SSE2
 SSF1	rRNA-binding ribosome biosynthesis protein
 SSF2	rRNA-binding ribosome biosynthesis protein
+SSH4  Rsp5p-dependent ubiquitination, sorting of cargo proteins at the multivesicular body
 SSI1_0	Subtilisin inhibitor-like protein 1
 SSI1_1	Subtilisin inhibitor-like protein 1
 SSI5	Subtilisin inhibitor-like protein 5
@@ -14901,10 +14905,10 @@ SSP2	Sporulation specific protein
 SSQ1	Hsp70 family ATPase SSQ1
 SSRP1	FACT complex subunit SSRP1
 SSS1	Sec61p translocation complex subunit
-SSU1	transporter
-SSU1_0	Sulfite efflux pump SSU1
-SSU1_1	Sulfite efflux pump SSU1
-SSU1_2	Sulfite efflux pump SSU1
+SSU1	Plasma membrane sulfite pump involved in sulfite metabolism
+SSU1_0	Plasma membrane sulfite pump involved in sulfite metabolism
+SSU1_1	Plasma membrane sulfite pump involved in sulfite metabolism
+SSU1_2	Plasma membrane sulfite pump involved in sulfite metabolism
 SSU72	RNA polymerase II subunit A C-terminal domain phosphatase
 SSU81	osmosensor
 SSY1	SPS-sensor component SSY1
@@ -14942,7 +14946,7 @@ STE20_0	Serine/threonine-protein kinase STE20
 STE20_1	Serine/threonine-protein kinase STE20
 STE23	metalloprotease
 STE24	zinc metalloprotease
-STE50	Protein STE50
+STE50	Adaptor for various signaling pathways; mating response, invasive/filamentous growth, osmotolerance
 STF1	ATPase-binding protein
 STF2	ATPase stabilizing factor 15 kDa protein
 STH1	RSC chromatin remodeling complex ATPase component
@@ -14992,10 +14996,11 @@ STRAP	Serine-threonine kinase receptor-associated protein
 STRIP1	Striatin-interacting protein 1
 STRN3	Striatin-3
 STRN4	Striatin-4
-STS1	protein DBF8
+STS1	Tethering factor for nuclear proteasome STS1
 STT3	oligosaccharyl transferase STT3 subunit
 STT4	phosphatidylinositol-4- kinase
 STU1	suppressor of tub2 mutation
+STU2  Microtubule-associated protein (MAP) of the XMAP215/Dis1 family, microtubule dynamics during spindle orientation
 STU1_0	Protein STU1
 STU1_1	Protein STU1
 STUB1	STIP1 y and U box-containing protein 1
@@ -15059,7 +15064,7 @@ SUP35	translation termination factor GTPase eRF3
 SUP35_0	Eukaryotic peptide chain release factor GTP-binding subunit
 SUP35_1	Eukaryotic peptide chain release factor GTP-binding subunit
 SUP35_2	Eukaryotic peptide chain release factor GTP-binding subunit
-SUP45	eRF1
+SUP45	Polypeptide release factor (eRF1) in translation termination
 SUPT5H	Transcription elongation factor SPT5
 SUR1	zinc-finger protein
 SUR2	Sphingolipid C4-hydroxylase SUR2
