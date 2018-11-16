@@ -3276,7 +3276,7 @@ DMA2_0	E3 ubiquitin-protein ligase DMA2
 DMA2_1	E3 ubiquitin-protein ligase DMA2
 DMAP1	DNA methyltransferase 1-associated protein 1
 DMC1	Meiotic recombination protein DMC1
-DML1  mtDNA inheritance, partitioning of the mitochondrial organelle
+DML1	mtDNA inheritance, partitioning of the mitochondrial organelle
 DNA2	Tripartite DNA replication factor
 DNA43	required for S-phase initiation or completion (MCM10)
 DNAI1	cytoplasmic dynein with WD40 domain
@@ -5718,7 +5718,7 @@ HORM1	HORMA domain-containing protein 1
 HOS1	histone deacetylase HOS1
 HOS2	histone deacetylase
 HOS3	histone deacetylase
-HOS4  Set3 complex subunit with deacetylase activity, meiotic-specific repressor of sporulation genes
+HOS4	Set3 complex subunit with deacetylase activity, meiotic-specific repressor of sporulation genes
 HOT1	Transcription factor
 HOT13	helper of tim
 HOY1	Homeobox protein HOY1
@@ -12689,7 +12689,7 @@ RAG2	glucose-6-phosphate isomerase protein RAG2
 RAG5	hexokinase isoenzyme protein RAG5
 RAG8	casein kinase I RAG8
 RAGP1	Ran GTPase-activating protein 1
-RAI1  decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
+RAI1	decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
 RAI1_0	decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
 RAI1_1	decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
 RALGAPA1	Ral GTPase-activating protein subunit alpha-1
@@ -14167,7 +14167,7 @@ SETD3	Histone-lysine N-methyltransferase setd3
 SETD4	SET domain-containing protein 4
 SETD6	N-lysine methyltransferase SETD6
 SETD9	SET domain-containing protein 9
-SEY1  Dynamin-like GTPase that mediates homotypic ER fusion
+SEY1	Dynamin-like GTPase that mediates homotypic ER fusion
 SEY1_0	Dynamin-like GTPase that mediates homotypic ER fusion
 SEY1_1	Dynamin-like GTPase that mediates homotypic ER fusion
 SF1	         Splicing factor 1
@@ -14495,7 +14495,7 @@ SNC1	SNAP receptor SNC1
 SNC2	Vesicle membrane receptor protein (v-SNARE)
 SND1	nuclease domain-containing protein
 SNDH	L-sorbosone dehydrogenase
-SNF1  Protein kinase, glucose-repressed gene transcription/heat shock/sporulation/peroxisome biogenesis
+SNF1	Protein kinase, glucose-repressed gene transcription/heat shock/sporulation/peroxisome biogenesis
 SNF1A	5-AMP-activated protein kinase, catalytic
 SNF2	transcriptional regulator
 SNF3	Plasma membrane low glucose sensor
@@ -14878,7 +14878,7 @@ SSE1	adenyl-nucleotide exchange factor SSE1
 SSE2	adenyl-nucleotide exchange factor SSE2
 SSF1	rRNA-binding ribosome biosynthesis protein
 SSF2	rRNA-binding ribosome biosynthesis protein
-SSH4  Rsp5p-dependent ubiquitination, sorting of cargo proteins at the multivesicular body
+SSH4	Rsp5p-dependent ubiquitination, sorting of cargo proteins at the multivesicular body
 SSI1_0	Subtilisin inhibitor-like protein 1
 SSI1_1	Subtilisin inhibitor-like protein 1
 SSI5	Subtilisin inhibitor-like protein 5
@@ -15000,9 +15000,9 @@ STS1	Tethering factor for nuclear proteasome STS1
 STT3	oligosaccharyl transferase STT3 subunit
 STT4	phosphatidylinositol-4- kinase
 STU1	suppressor of tub2 mutation
-STU2  Microtubule-associated protein (MAP) of the XMAP215/Dis1 family, microtubule dynamics during spindle orientation
 STU1_0	Protein STU1
 STU1_1	Protein STU1
+STU2	Microtubule-associated protein, microtubule dynamics during spindle orientation
 STUB1	STIP1 y and U box-containing protein 1
 STV1	H(+)-transporting V0 sector ATPase subunit a
 STX5	Syntaxin-5
@@ -16308,7 +16308,7 @@ UBC6	Ubiquitin-conjugating enzyme E2 6
 UBC7	Ubiquitin-conjugating enzyme E2 7
 UBC8	Ubiquitin-conjugating enzyme E2 8
 UBC9	E2 SUMO-conjugating protein UBC9
-UBC11 Ubiquitin-conjugating enzyme E2 11
+UBC11	Ubiquitin-conjugating enzyme E2 11
 UBC12	NEDD8-conjugating protein UBC12
 UBC13	Ubiquitin-conjugating enzyme 13
 UBC14	Ubiquitin-conjugating enzyme E2 14
