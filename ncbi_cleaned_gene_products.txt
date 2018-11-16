@@ -1,5 +1,5 @@
-#version 1.26
-#Date 11-14-2018
+#version 1.27
+#Date 11-16-2018
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -863,8 +863,8 @@ ARO10-2	Phenylpyruvate decarboxylase
 ARO80	zinc finger transcriptional activator
 AROC	Chorismate synthase
 ARP1	centractin- actin-related protein of the dynactin complex
-ARP2	Arp2/3 complex subunit, actin nucleation center required for the motility and integrity of actin patches
-ARP3	Arp2/3 complex subunit, actin nucleation center required for the motility and integrity of actin patches
+ARP2	Arp2/3 complex subunit, actin nucleation center
+ARP3	Arp2/3 complex subunit, actin nucleation center
 ARP4	NuA4 histone acetyltransferase subunit
 ARP5	Nuclear actin-protein involved in chromatin remodeling
 ARP6	Actin-related protein 6
@@ -987,40 +987,40 @@ ATG4	Cysteine protease ATG4
 ATG4C	Cysteine protease ATG4C
 ATG5	autophagy protein 5
 ATG6	autophagy protein 6
-ATG7	Autophagy-related protein 7 (Autophagy-related E1-like activating enzyme ATG7)
+ATG7	Autophagy protein 7
 ATG8	ubiquitin-like protein ATG8
-ATG8_0	Autophagy-related protein 8
-ATG8_1	Autophagy-related protein 8
+ATG8_0	Autophagy protein 8
+ATG8_1	Autophagy protein 8
 ATG9	autophagy protein ATG9
 ATG10	E2-like conjugating enzyme ATG10
 ATG11	oligomeric, coiled-coil, peripheral membrane protein
 ATG12_0	Ubiquitin-like protein ATG12
 ATG12_1	Ubiquitin-like protein ATG12
 ATG12_2	Ubiquitin-like protein ATG12
-ATG13	autophagy-related protein 13
-ATG14	autophagy-related protein 14
+ATG13	autophagy protein 13
+ATG14	autophagy protein 14
 ATG15	Putative lipase atg15
-ATG16	autophagy-related protein 16, interacts with Atg12p-Atg5p to bind to membranes
-ATG17	autophagy-related protein 17
-ATG18	autophagy-related protein
-ATG18-1	Autophagy-related protein 18
-ATG18-2	Autophagy-related protein 18
+ATG16	autophagy protein 16, interacts with Atg12p-Atg5p
+ATG17	autophagy protein 17
+ATG18	autophagy protein
+ATG18-1	Autophagy protein 18
+ATG18-2	Autophagy protein 18
 ATG19	receptor for biosynthetic cytoplasm to vacuole targeting
 ATG20	Sorting nexin, cytoplasm-to-vacuole targeting pathway/endosomal sorting
-ATG21	Autophagy-related protein 21
-ATG22	Autophagy-related protein 22
-ATG23	autophagy-related protein
+ATG21	Autophagy protein 21
+ATG22	Autophagy protein 22
+ATG23	Autophagy protein
 ATG24	Sorting nexin-4
 ATG26_0	Sterol 3-beta-glucosyltransferase
 ATG26_1	Sterol 3-beta-glucosyltransferase
 ATG27	type II membrane protein
-ATG27_0	Autophagy-related protein 27
-ATG27_1	Autophagy-related protein 27
-ATG28	Autophagy related protein
-ATG29	autophagy-related protein
+ATG27_0	Autophagy protein 27
+ATG27_1	Autophagy protein 27
+ATG28	Autophagy protein 28
+ATG29	Autophagy protein 29
 ATG30	Malonyl-CoA decarboxylase
 ATG32	mitophagy protein ATG32
-ATG37	Autophagy-related protein 37
+ATG37	Autophagy protein 37
 ATH1	alpha,alpha-trehalase ATH1
 ATK2	Kinesin-2
 ATL2	Putative RING-H2 finger protein
@@ -1460,7 +1460,7 @@ BNA2	tryptophan 2,3- dioxygenase
 BNA2_0	Indoleamine 2,3-dioxygenase
 BNA2_1	Indoleamine 2,3-dioxygenase
 BNA3	arylformamidase
-BNA4	kynurenine 3-monooxygenase, mitochondrial precursor (Biosynthesis of nicotinic acid protein 4)
+BNA4	kynurenine 3-monooxygenase, mitochondrial precursor
 BNA4_0	Kynurenine 3-monooxygenase
 BNA4_1	Kynurenine 3-monooxygenase
 BNA5	Kynureninase (L-kynurenine hydrolase)
@@ -2622,7 +2622,7 @@ CUE4	coupling of ubiquitin conjugation to ER degradation
 CUE5	ubiquitin-binding protein CUE5
 CUL1	Cullin-1
 CUL2	Cullin-2
-CUL3	Cullin-3, ubiquitin-protein ligase complex with Elc1p that ubiquitylates RNA polymerase II for proteolysis
+CUL3	Cullin-3
 CUL3B	Cullin-3B
 CUL4	Cullin-4
 CUL4A	Cullin-4A
@@ -3802,9 +3802,9 @@ ENPL	endoplasmin
 ENPP1	ectonucleotide pyrophosphatase phosphodiesterase
 ENT1	Epsin-1, required for endocytosis and actin patch assembly
 ENT2	Epsin-2, required for endocytosis and actin patch assembly
-ENT3	Epsin-3, clathrin recruitment and traffic between the Golgi and endosomes
+ENT3	Epsin-3, clathrin recruitment and traffic between the Golgi and endosome
 ENT4	Epsin-4, uknown function
-ENT5	Epsin-5, clathrin recruitment and traffic between the Golgi and endosomes
+ENT5	Epsin-5, clathrin recruitment and traffic between the Golgi and endosome
 ENTHD2	AP-4 complex accessory subunit Tepsin
 ENV7	Serine/threonine-protein kinase ENV7
 ENV9	vacuolar protein
@@ -5688,11 +5688,11 @@ HMX1	heme oxygenase
 HNM1	choline transporter
 HNRDL	Heterogeneous nuclear ribonucleoprotein D-like protein
 HNRNPA2B1	heteroproteinous nuclear ribonucleoprotein
-HNT1	Adenosine 5'-monophosphoramidase, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
-HNT1_0	Adenosine 5'-monophosphoramidase, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
-HNT1_1	Adenosine 5'-monophosphoramidase, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
-HNT2	Dinucleoside triphosphate hydrolase, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
-HNT3	aprataxin-like protein, member of histidine triad (HIT) superfamily of nucleotide-binding proteins
+HNT1	Adenosine 5'-monophosphoramidase
+HNT1_0	Adenosine 5'-monophosphoramidase
+HNT1_1	Adenosine 5'-monophosphoramidase
+HNT2	Dinucleoside triphosphate hydrolase
+HNT3	aprataxin-like protein
 HOC1	alpha-1,6-mannosyltransferase
 HOF1	formin-binding protein
 HOG1	MAPK protein HOG1
@@ -8169,7 +8169,7 @@ K6PF	6-phosphofructokinase
 K1456	Putative methyltransferase KIAA1456 like protein
 KAD	Adenylate kinase
 KAD6	Adenylate kinase isoenzyme 6
-KANK1	KN motif and ankyrin repeat domains
+KANK1	KN motif and ankyrin repeat domain
 KAP1	Adenylyl-sulfate kinase (APS kinase)
 KAP95	karyopherin beta
 KAP104	karyopherin beta 2
@@ -11792,7 +11792,7 @@ POP5	RNA-binding protein POP5
 POP6	ribonuclease P/MRP protein subunit POP6
 POP7	ribonucleases P/MRP protein subunit POP7
 POP8	ribonuclease P
-POR1	Mitochondrial porin, outer membrane protein required for maintenance of mitochondrial osmotic stability and mitochondrial membrane permeability
+POR1	Mitochondrial porin
 PORB	Protochlorophyllide reductase B, chloroplastic
 POS5	NADH kinase POS5
 POSTN	Periostin
@@ -12689,9 +12689,9 @@ RAG2	glucose-6-phosphate isomerase protein RAG2
 RAG5	hexokinase isoenzyme protein RAG5
 RAG8	casein kinase I RAG8
 RAGP1	Ran GTPase-activating protein 1
-RAI1	decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
-RAI1_0	decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
-RAI1_1	decapping endonuclease, targets mRNAs with unmethylated 7-methylguanosine cap structures and 5'-triphosphates
+RAI1	decapping endonuclease targeting mRNA
+RAI1_0	decapping endonuclease targeting mRNA
+RAI1_1	decapping endonuclease targeting mRNA
 RALGAPA1	Ral GTPase-activating protein subunit alpha-1
 RALGAPA2	Ral GTPase-activating protein subunit alpha-2
 RALGPS1	Ras-specific guanine nucleotide-releasing factor RalGPS1
@@ -12939,7 +12939,7 @@ RIM1	ssDNA-binding protein, mitochondrial
 RIM2	Pyrimidine nucleotide transporter, mitochondrial
 RIM4	regulator of ime2
 RIM8	ph-response sensor protein
-RIM9	regulator of ime2, proteolytic activation of Rim101p in response to alkaline pH
+RIM9	regulator of ime2
 RIM11	regulator of ime2
 RIM13	cysteine protease
 RIM15	RIM15, signal transduction response regulator
@@ -13863,7 +13863,7 @@ SAAL1	Protein SAAL1
 SAC1	Phosphoinositide phosphatase SAC1
 SAC2	suppressor of actin mutation
 SAC3	actin cytoskeleton and mitosis protein
-SAC6	Fimbrin, actin-bundling protein cooperates with Scp1p in organization and maintenance of the actin cytoskeleton
+SAC6	Fimbrin, actin-bundling protein
 SAC7	GTPase activating protein (GAP) for Rho1p
 SACM1L	Phosphatidylinositide phosphatase SAC1
 SAD1	secondary alcohol dehydrogenase (SADH1)
@@ -14190,7 +14190,7 @@ SFH1	Chromatin structure remodeling complex protein SFH1
 SFH5	Non-classical phosphatidylinositol transfer protein (PITP)
 SFH11	Phosphatidylinositol/phosphatidylcholine transfer protein SFH11
 SFM1	SPOUT methyltransferase
-SFP1	Regulates transcription of ribosomal protein and biogenesis genes
+SFP1	Transcriptional regulator of ribosomal biogenesis genes
 SFT1	v-SNARE
 SFT2	protein transport protein SFT2
 SFT2-1	Tetra-spanning membrane protein
@@ -14495,7 +14495,7 @@ SNC1	SNAP receptor SNC1
 SNC2	Vesicle membrane receptor protein (v-SNARE)
 SND1	nuclease domain-containing protein
 SNDH	L-sorbosone dehydrogenase
-SNF1	Protein kinase, glucose-repressed gene transcription/heat shock/sporulation/peroxisome biogenesis
+SNF1	Protein kinase
 SNF1A	5-AMP-activated protein kinase, catalytic
 SNF2	transcriptional regulator
 SNF3	Plasma membrane low glucose sensor
@@ -14946,7 +14946,7 @@ STE20_0	Serine/threonine-protein kinase STE20
 STE20_1	Serine/threonine-protein kinase STE20
 STE23	metalloprotease
 STE24	zinc metalloprotease
-STE50	Adaptor for various signaling pathways; mating response, invasive/filamentous growth, osmotolerance
+STE50	Adaptor for signal transduction
 STF1	ATPase-binding protein
 STF2	ATPase stabilizing factor 15 kDa protein
 STH1	RSC chromatin remodeling complex ATPase component
