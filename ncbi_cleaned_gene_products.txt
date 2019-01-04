@@ -1,5 +1,5 @@
-#version 1.29
-#Date 01-02-2019
+#version 1.30
+#Date 01-03-2019
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -117,6 +117,7 @@ ABCE1	ATP-binding cassette sub-family E member 1
 ABCE2	ABC transporter E family member 2
 ABCF3	ATP-binding cassette sub-family F member 3
 ABCG1	ATP-binding cassette sub-family G member 1
+ABFB	Alpha-L-arabinofuranosidase
 ABFa	ABFa alfa-L-arabinofuranosidase-A
 ABHD4	Alpha/beta hydrolase domain-containing protein 4
 ABHD6	Alpha beta hydrolase
@@ -618,10 +619,13 @@ ANKDD1A	Ankyrin repeat and death domain-containing protein 1A
 ANKDD1B	Ankyrin repeat and death domain-containing protein 1B
 ANKFY1	Ankyrin repeat and FYVE domain-containing protein 1
 ANKHD1	Ankyrin repeat and KH domain-containing protein 1
+ANKRA2	Ankyrin repeat family A protein 2
+ANKRD6	Ankyrin repeat domain-containing protein 6
 ANKRD11	Ankyrin repeat domain-containing protein 11
 ANKRD13C	Ankyrin repeat domain-containing protein 13C
 ANKRD16	Ankyrin repeat domain-containing protein 16
 ANKRD17	Ankyrin repeat domain-containing protein 17
+ANKRD26	Ankyrin repeat domain-containing protein 26
 ANKRD27	Ankyrin repeat domain-containing protein 27
 ANKRD28	Serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A
 ANKRD34B	Ankyrin repeat domain-containing protein 34B
@@ -634,6 +638,7 @@ ANKRD53	Ankyrin repeat domain-containing protein 53
 ANKRD54_0	Ankyrin repeat domain-containing protein 54
 ANKRD54_1	Ankyrin repeat domain-containing protein 54
 ANKRD54_2	Ankyrin repeat domain-containing protein 54
+ANKRD55	Ankyrin repeat domain-containing protein 55
 ANKRD60	Ankyrin repeat domain-containing protein 60
 ANKZF1	Ankyrin repeat and zinc finger domain-containing protein 1
 ANP1	Mannan polymerase II complex ANP1 subunit
@@ -708,6 +713,7 @@ APE3.2	leucyl aminopeptidase precursor
 APE4	aspartyl aminopeptidase
 APEX2	DNA-(apurinic or apyrimidinic site) lyase 2
 APG	GDSL esterase/lipase APG
+APG6	Vacuolar protein sorting-associated protein 30
 APH1B	anterior pharynx defective 1
 APH-1	gamma secretase complex protein
 API	Protease 1
@@ -912,6 +918,7 @@ ARV1	sterol homeostasis protein
 ARY100	D-arabinitol 2-dehydrogenase
 ASA1	ASTRA complex subunit
 ASADH	aspartate semialdehyde dehydrogenase
+ASB2	Ankyrin repeat and SOCS box protein 2
 ASB3	Ankyrin repeat and SOCS box protein 3
 ASB7	Ankyrin repeat and SOCS box protein 7
 ASC1	G-protein beta subunit and guanine dissociation inhibitor for Gpa2p
@@ -2794,6 +2801,7 @@ CYPH	Peptidyl-prolyl cis-trans isomerase
 CYR1	cysteinyl-tRNA synthetase
 CYS3	cystathionine gamma-lyase CYS3
 CYS4	cystathionine beta-synthase
+CYS9	Thioredoxin reductase
 CYS17	Cysteine synthase 1
 CYT1	cytochrome c1
 CYT1_0	Cytochrome c1, heme protein, mitochondrial
@@ -3714,6 +3722,7 @@ EGS1	Eugenol synthase 1
 EGT1	Ergothioneine biosynthesis protein 1
 EGT2	Glycosylphosphatidylinositol (GPI)-anchored cell wall endoglucanase
 EHD3	3-hydroxyisobutyryl-CoA hydrolase
+EHMT2	Histone-lysine N-methyltransferase EHMT2
 EHO3	enoyl-CoA hydratase, mitochondrial
 EHT1	medium-chain fatty acid ethyl ester synthase/esterase 2
 EI2BE	Translation initiation factor eIF-2B subunit epsilon
@@ -8107,6 +8116,7 @@ ISW2	chromatin remodeling complex Adenosinetriphosphatase
 ISW2_0	ISWI chromatin-remodeling complex ATPase ISW2
 ISW2_1	ISWI chromatin-remodeling complex ATPase ISW2
 ISY1	NineTeen Complex (NTC) component
+ISYNA1B	Inositol-3-phosphate synthase 1-B
 ITC1	ATP-dependent Isw2p-Itc1p chromatin remodeling complex subunit
 ITFG2	integrin alpha FG-GAP repeat-containing protein 2
 ITGA8	integrin subunit alpha 8
@@ -8333,6 +8343,7 @@ KIP3-3	Kinesin-related motor protein
 KIP3-4	Kinesin-related motor protein
 KITH	Thymidine kinase
 KKR1	Ca2+/calmodulin-dependent protein kinase
+KLC3	Kinesin light chain 3
 KLF15	Krueppel-like factor 15
 KLHDC1	kelch domain-containing protein 1
 KLHDC2	Kelch domain-containing protein 2
@@ -8413,6 +8424,7 @@ KUP1	Putative potassium transport system protein kup 1
 KUP3	Probable potassium transport system protein kup 3
 KYE1	enoate reductase 1
 KYN1	Kynureninase 1
+KYN2	Kynureninase 2
 KYNU	kynureninase
 Kat7	Histone acetyltransferase KAT7
 Kat8	Histone acetyltransferase KAT8
@@ -9878,6 +9890,8 @@ MUP3-2	Low-affinity methionine permease
 MUQ1	choline phosphate cytidylyltransferase
 MURQ	N-acetylmuramic acid 6-phosphate etherase
 MUS18	UV-damage endonuclease
+MUS23	Double-strand break repair protein mus-23
+MUS51	ATP-dependent DNA helicase II subunit 1
 MUS81	Crossover junction endonuclease MUS81
 MUTS	DNA mismatch repair protein mutS
 MVB12	ubiquitin-binding ESCRT-I subunit protein MVB12
@@ -10332,6 +10346,7 @@ NFS1	cysteine desulfurase
 NFU1	nifu-like protein
 NFU1-1	iron metabolism in mitochondria protein
 NFU1-2	iron metabolism in mitochondria protein
+NFX1	Transcriptional repressor NF-X1
 NFYA	Nuclear transcription factor Y subunit alpha
 NFYB1	Nuclear transcription factor Y subunit B-1
 NFYB2	Nuclear transcription factor Y subunit B-2
@@ -12154,6 +12169,7 @@ PRP45	mRNA splicing protein
 PRP46	pre-mRNA-splicing factor PRP46
 PRPF3	U4/U6 small nuclear ribonucleoprotein Prp3
 PRPF4	U4/U6 small nuclear ribonucleoprotein Prp4
+PRPF4B	Serine/threonine-protein kinase PRP4 homolog
 PRPF6	Pre-mRNA-processing factor 6
 PRPF8	Pre-mRNA-processing-splicing factor 8
 PRPF19	Pre-mRNA-processing factor 19
@@ -12240,6 +12256,7 @@ PSMC1	26S proteasome regulatory subunit 4
 PSMC2	26S protease regulatory subunit 7
 PSMC3	26S proteasome regulatory subunit 6A
 PSMC3IP	PSMC3 interacting protein
+PSMC4	26S proteasome regulatory subunit 6B
 PSMC5	26S protease regulatory subunit 8
 PSMC6	26S protease regulatory subunit 10B
 PSMD1	26S proteasome non-ATPase regulatory subunit 1
@@ -15125,6 +15142,7 @@ SUR4	elongation of fatty acids protein 3
 SUR7	Eisosomes component
 SURA	Chaperone surA
 SURF1	Surfeit locus protein 1
+SURF4	Surfeit locus protein 4
 SURF6	surfeit locus protein
 SUS1	SAGA histone acetylase and TREX-2 complexes component
 SUT1	general substrate transporter
@@ -15581,6 +15599,8 @@ TF2B	Transcription initiation factor IIB
 TF2H3	General transcription factor IIH subunit 3
 TF2H4	General transcription factor IIH subunit 4
 TF3B	Transcription factor IIIB 90 kDa subunit
+TF22	Trichosetin biosynthesis cluster transcription factor TF22
+TF23	Trichosetin biosynthesis cluster transcription factor TF23
 TFA1	transcription factor TFIIE subunit TFA1
 TFA2	transcription factor TFIIE subunit
 TFAM	Transcription factor A, mitochondrial
