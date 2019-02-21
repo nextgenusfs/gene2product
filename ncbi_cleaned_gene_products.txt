@@ -1,5 +1,5 @@
-#version 1.30
-#Date 01-03-2019
+#version 1.31
+#Date 02-20-2019
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -550,6 +550,7 @@ ALP2	Alkaline phosphatase
 ALP14	Spindle pole body component alp14
 ALP100	Putative amino acids permease
 ALPHATUB84B	Tubulin alpha-1 chain
+ALPK2	Alpha-protein kinase 2
 ALR1	Mg(2+) transporter
 ALR2	Putative Mg(2+) transporter
 ALS1	Agglutinin-like protein 1 precursor
@@ -851,6 +852,7 @@ ARMC7	Armadillo repeat-containing protein 7
 ARMC8	Armadillo repeat-containing protein 8
 ARMC8_0	Armadillo repeat-containing protein 8
 ARMC8_1	Armadillo repeat-containing protein 8
+ARMH5	Flavin-dependent halogenase armH5
 ARN1	Siderophore transporter
 ARN2	Siderophore Iron Transport
 ARN5	ARN family transporter for siderophore-iron chelates
@@ -1689,8 +1691,10 @@ CAO2	copper-amine-oxidase superfamily
 CAO3	copper-amine-oxidase superfamily
 CAP1	F-actin-capping protein subunit alpha
 CAP2	F-actin-capping protein subunit beta
+CAP3	Glycosyltransferase Family 90 domain containing protein
 CAP10	capsule-associated protein CAP1
 CAP59	capsular associated protein
+CAP60	Cryptococcal mannosyltransferase 1
 CAP100	Putative transcriptional coactivator
 CAPN7	calpain 7
 CAPZA1	F-actin-capping protein subunit alpha-1
@@ -1713,6 +1717,7 @@ CARP_6	Polyporopepsin
 CARP_7	Polyporopepsin
 CARP_8	Polyporopepsin
 CAS1	CRISPR-associated protein 1
+CAS9	Putative O-acetyl transferase
 CAS41	solute carrier 35 member
 CAS42	Triose-phosphate Transporter family
 CAS91	Maltose acetyltransferase
@@ -1913,6 +1918,7 @@ CDC39	CCR4-NOT core subunit CDC39
 CDC40	pre-mRNA-processing factor 17
 CDC42	Rho family GTPase
 CDC42BPA	Serine/threonine-protein kinase MRCK alpha
+CDC42BPG	Serine/threonine-protein kinase MRCK gamma
 CDC43	geranylgeranyl transferase type-1 subunit beta
 CDC45	DNA replication initiation factor CDC45
 CDC46	MCM DNA helicase complex subunit
@@ -1980,6 +1986,7 @@ CEFD1	Isopenicillin N epimerase component 1
 CEFD2	Isopenicillin N epimerase component 2
 CEG1	Dcp1p-Dcp2p decapping enzyme complex alpha subunit
 CEK1	mitogen-activated serine/threonine-protein kinase
+CEL3	Beta-glucosidase cel3A
 CEL6A	1,4-beta-D-glucan cellobiohydrolase cel6a
 CEL6B	1,4-beta-D-glucan cellobiohydrolase cel6b
 CEL6C	1,4-beta-D-glucan cellobiohydrolase CEL6C
@@ -2335,6 +2342,7 @@ COL21A1_1	Collagen alpha-1(XXI) chain
 COM1	catechol o- methyltransferase
 CON7	C2H2 finger domain transcription factor con7
 COP1	coatomer subunit alpha
+COP3	Alpha-muurolene synthase
 COP3_0	Alpha-muurolene synthase
 COP3_1	Alpha-muurolene synthase
 COP3_2	Alpha-muurolene synthase
@@ -2720,6 +2728,7 @@ CYM_1	Chymosin
 CYN1	Cyanate hydratase
 CYP1	heme binding
 CYP1A2	cytochrome P450 family 1 subfamily A member 2
+CYP1B1	cytochrome P450 1B1
 CYP2R1	Cytochrome P450 family 2 subfamily R member 1
 CYP2U1	cytochrome P450 family 2 subfamily U member 1
 CYP3	Peptidyl-prolyl cis-trans isomerase H
@@ -3362,6 +3371,7 @@ DOLPP1	Dolichyldiphosphatase 1
 DOM3Z	Dom-3 Z
 DOM34	Translation factor pelota
 DOP1	Endosome to Golgi transport protein
+DOR14	6-phosphogluconate dehydrogenase, decarboxylating
 DOT1	Nucleosomal histone H3-Lys79 methylase
 DOT4	ubiquitin-specific protease
 DOT5	thioredoxin peroxidase DOT5
@@ -3678,6 +3688,7 @@ EEB1	Medium-chain fatty acid ethyl ester synthase/esterase 1
 EEF1G	Elongation factor 1-gamma
 EEF1G_0	Elongation factor 1-gamma
 EEF1G_1	Elongation factor 1-gamma
+EEF2K	Eukaryotic elongation factor 2 kinase
 EEF2KMT	Protein-lysine N-methyltransferase EEF2KMT
 EEF2KMT_0	Protein-lysine N-methyltransferase EEF2KMT
 EEF2KMT_1	Protein-lysine N-methyltransferase EEF2KMT
@@ -3711,6 +3722,7 @@ EFT3	elongation factor EF-3
 EFTUD1	Elongation factor-like GTPase 1
 EFTUD2	U5 small nuclear ribonucleoprotein component
 EG1	Endoglucanase EG-1
+EG5A	Manganese dependent endoglucanase Eg5A
 EG7A	Endoglucanase 7a
 EGC1	endo-1,4-beta-glucanase
 EGC2	endo-1,4-beta-glucanase
@@ -4791,6 +4803,7 @@ GFD2_1	Good for full DBP5 activity protein 2
 GFM1	elongation factor EF-G
 GFM2	G elongation factor, mitochondrial 2
 GFPT1	Glucosamine--fructose-6-phosphate aminotransferase 1
+GG1	Guanine nucleotide-binding protein subunit gamma 1
 GGA1	ARF-binding protein
 GGA2	ARF-binding protein
 GGA3	gamma adaptin ear containing, arf binding protein
@@ -4927,6 +4940,7 @@ GMFG	Glia maturation factor gamma
 GMH1	gea1-6 membrane-associated high-copy suppressor
 GMT	GDP-mannose transporter
 GNA1	Glucosamine-phosphate N-acetyltransferase-like protein
+GNA12	Guanine nucleotide-binding protein subunit alpha-12
 GNAT	YJM-GNAT
 GNAT3	Guanine nucleotide-binding protein G(t) subunit alpha-3
 GNB1	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1
@@ -8406,6 +8420,7 @@ KSH1	Essential protein suggested to function early in the secretory pathway
 KSP1	serine/threonine protein kinase
 KSP2	serine/threonine protein kinase
 KSR1	3-dehydrosphinganine reductase
+KSR2	kinase suppressor of Ras 2
 KSS1	mitogen-activated protein kinase KSS1
 KTHY	Thymidylate kinase
 KTI11	toxin-insensitive protein
@@ -10872,6 +10887,7 @@ OLE1_2	Acyl-CoA desaturase
 OLE1_3	Acyl-CoA desaturase
 OLE2	stearoyl-CoA desaturase
 OLI1	F0 ATP synthase subunit c
+OLYA6	Ostreolysin A6
 OM45	mitochondrial outer membrane protein
 OMA1	metalloendopeptidase
 OPI1	transcriptional regulator OPI1
@@ -11770,6 +11786,7 @@ POA3	20S proteasome subunit alpha 3
 POB3	FACT complex subunit
 POB3_0	FACT complex subunit POB3
 POB3_1	FACT complex subunit POB3
+POC1A	POC1 centriolar protein homolog A
 POF1	nicotinamide-nucleotide adenylyltransferase
 POGK	Pogo transposable element with KRAB domain
 POL1	DNA-directed DNA polymerase alpha catalytic subunit POL1
@@ -13264,6 +13281,7 @@ RPL5	60S ribosomal protein L5
 RPL6	60S ribosomal protein L6
 RPL6A	60S ribosomal protein L6A
 RPL6B	60S ribosomal protein L6B
+RPL6C	60S ribosomal protein L6-3
 RPL6_0	60S ribosomal protein L6_0
 RPL6_1	60S ribosomal protein L6_1
 RPL7	60S ribosomal protein L7
@@ -16810,6 +16828,7 @@ VPH1A	V-type H+-transporting ATPase subunit I
 VPH1B	V-type H+-transporting ATPase subunit I
 VPH2	Vacuolar ATPase assembly integral membrane protein
 VPH3	vacuolar ATPase V0 domain subunit a
+VPL2	Versatile peroxidase vpl2
 VPQ	Presumed portal vertex protein
 VPR	Tail completion protein R
 VPS	Tail completion protein S
@@ -17072,6 +17091,7 @@ XYL2	Endo-1,4-beta-xylanase 2
 XYL2.1	xylitol dehydrogenase
 XYL2.2	xylitol dehydrogenase
 XYL4	Endo-1,4-beta-xylanase 4
+XYL5	Endo-1,4-beta-xylanase 5
 XYL6	Endo-1,4-beta-xylanase 6
 XYLB	Xylulose kinase
 XYLD	Endo-1,4-beta-xylanase D
