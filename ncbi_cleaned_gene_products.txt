@@ -1,5 +1,5 @@
-#version 1.32
-#Date 03-27-2019
+#version 1.33
+#Date 06-04-2019
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -9221,18 +9221,19 @@ MDN18	Midasin
 MDN19	Midasin
 MDP1	Magnesium-dependent phosphatase 1
 MDR1	GTPase-activating protein
-MDR2	multidrug-resistance transporte
-MDR5	multidrug-resistance transporter
-MDR6	multidrug-resistance transporter
-MDR7	Multidrug resistance protein 7
-MDR11	multidrug resistance
-MDR12	multidrug resistance protein 2
-MDR13	multidrug resistance protein 3
-MDR14	multidrug resistance protein 4
-MDR16	multidrug resistance protein 6 benomyl/methotrexate resistance protein
-MDR17	multidrug resistance protein 7
+MDR2	multidrug-resistance transporter MDR2
+MDR4	ABC multidrug transporter MDR4
+MDR5	multidrug-resistance transporter MDR5
+MDR6	ABC transporter B family member 6
+MDR7	ABC transporter B family member 7
+MDR11	ABC transporter B family member 19
+MDR12	ABC transporter B family member 14
+MDR13	ABC transporter B family member 15
+MDR14	ABC transporter B family member 20
+MDR16	ABC transporter B family member 12
+MDR17	ABC transporter B family member 21
 MDR18	Polyamine transport protein (TPO4)
-MDR19	spermidine exporter, MDR-type pump
+MDR19	ABC transporter B family member 17
 MDR110	multidrug resistance protein 10
 MDR111	Putative transporter C530
 MDR112	Putative transporter
