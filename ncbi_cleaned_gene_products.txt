@@ -1,5 +1,5 @@
-#version 1.42
-#Date 06-25-2019
+#version 1.43
+#Date 07-04-2019
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -106,7 +106,6 @@ ABCB6	ATP-binding cassette sub-family B member 6, mitochondrial
 ABCB7	ATP-binding cassette sub-family B member 7, mitochondrial
 ABCB8	ATP-binding cassette, sub-B (MDR TAP), member 8
 ABCB10	ATP-binding cassette sub-family B member 10, mitochondrial
-ABCB11	Bile salt export pump
 ABCB11	ABC transporter B member 11
 ABCB21	ABC transporter B member 21
 ABCB25	ABC transporter B member 25
@@ -131,14 +130,12 @@ ABCE2	ABC transporter E family member 2
 ABCF1	ATP-binding cassette sub- F member 1
 ABCF2	ATP-binding cassette sub- F member 2
 ABCF3	ATP-binding cassette sub-family F member 3
-ABCF3	ATP-binding cassette sub-family F member 3
-ABCG1	ATP-binding cassette sub-family G member 1
-ABCG37	ABC transporter G member 37
 ABCG1	ATP-binding cassette sub-family G member 1
 ABCG2	ATP-binding cassette sub- G member 2
 ABCG4	ATP-binding cassette sub- G member 4
 ABCG5	ATP-binding cassette sub- G member 5
 ABCG8	ATP-binding cassette sub- G member 8
+ABCG37	ABC transporter G member 37
 ABFB	Alpha-L-arabinofuranosidase
 ABFa	ABFa alfa-L-arabinofuranosidase-A
 ABHD2A	Monoacylglycerol lipase ABHD2-A
@@ -1358,8 +1355,8 @@ ATOX1	ATX1 antioxidant protein 1
 ATP1	Alpha subunit of the F1 sector of mitochondrial F1F0 ATP synthase
 ATP1A1	Sodium/potassium-transporting ATPase subunit alpha-1
 ATP1A2	Sodium/potassium-transporting ATPase subunit alpha-2
-ATP1A4	Sodium/potassium-transporting ATPase subunit alpha-4
 ATP1A3	Sodium/potassium-transporting ATPase subunit alpha-3
+ATP1A4	Sodium/potassium-transporting ATPase subunit alpha-4
 ATP1B2	Sodium/potassium-transporting ATPase subunit beta-2
 ATP1_0	ATP synthase subunit alpha, mitochondrial
 ATP1_1	ATP synthase subunit alpha, mitochondrial
@@ -1720,9 +1717,9 @@ BBP	Branchpoint-bridging protein
 BBR	E3 ubiquitin ligase BIG BROTHER-related protein
 BBR1_0	Pheromone B beta 1 receptor
 BBR1_1	Pheromone B beta 1 receptor
-BBS5	Bardet-Biedl syndrome 5 protein
 BBS1	Bardet-Biedl syndrome 1 protein
 BBS2	Bardet-Biedl syndrome 2 protein
+BBS5	Bardet-Biedl syndrome 5 protein
 BBS7	Bardet-Biedl syndrome 7 protein
 BBS9	Protein PTHB1
 BCAP31	b-cell receptor-associated protein
@@ -2533,11 +2530,11 @@ CDK8	Cyclin-dependent kinase 8
 CDK10	Cyclin-dependent kinase 10
 CDK11A	Cyclin-dependent kinase 11A
 CDK12	Cyclin-dependent kinase 12
-CDKA1	Cyclin-dependent kinase A-1
 CDK14	Cyclin-dependent kinase 14
 CDK15	Cyclin-dependent kinase 15
 CDK17	Cyclin-dependent kinase 17
 CDK18	Cyclin-dependent kinase 18
+CDKA1	Cyclin-dependent kinase A-1
 CDKA-1	Cyclin-dependent kinase A-1
 CDKAL1	Threonylcarbamoyladenosine tRNA methylthiotransferase
 CDKB2-1	Cyclin-dependent kinase B2-1
@@ -2606,9 +2603,9 @@ CETN2	centrin, EF-hand protein
 CETN3	Centrin-3
 CEX1	Nuclear aminoacylation-dependent tRNA export pathway component
 CFAP20	Cilia- and flagella-associated protein 20
-CFAP58	Cilia- and flagella-associated protein 58
 CFAP36	Cilia- and flagella-associated protein 36
 CFAP52	Cilia- and flagella-associated protein 52
+CFAP58	Cilia- and flagella-associated protein 58
 CFBP	Fructose-1,6-bisphosphatase, cytosolic
 CFD1	cytosolic Fe-S cluster assembly factor CFD1
 CFDP1	Craniofacial development protein 1
@@ -3198,14 +3195,14 @@ CPH2401	chromosome condensation complex Condensin, subunit H
 CPIN1	Anamorsin
 CPK1	Mitogen-activated protein kinase CPK1
 CPL4	RNA polymerase II C-terminal domain phosphatase-like 4
-CPN60	Chaperonin cpn60, mitochondrial
-CPN60II	Chaperonin CPN60-2, mitochondrial
-CPNA2	Copine protein 2
 CPLANE2	Cilioproteinsis and planar polarity effector 2
 CPLX1	Complexin-1
 CPLX3	Complexin-3
 CPLX4	Complexin-4
 CPN1	Carboxypeptidase N catalytic chain
+CPN60	Chaperonin cpn60, mitochondrial
+CPN60II	Chaperonin CPN60-2, mitochondrial
+CPNA2	Copine protein 2
 CPNE2	Copine-2
 CPNE3	Copine-3
 CPNE4	Copine-4
@@ -3213,7 +3210,6 @@ CPNE5	Copine-5
 CPNE7	Copine-7
 CPNE8	Copine-8
 CPNE9	Copine-9
->>>>>>> 34a59dcb76eac1d407ea1ebe11aae053876a8335
 CPO	Vanadium chloroperoxidase
 CPOX	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial
 CPP1	tyrosine/serine/threonine protein phosphatase
@@ -5519,10 +5515,10 @@ FKBP2	FK506-binding protein 2A
 FKBP3	FK506-binding protein 2B
 FKBP4	Peptidyl-prolyl cis-trans isomerase fkbp4
 FKBP5	FK506-binding protein 5
-FKBP12	Peptidyl-prolyl cis-trans isomerase fkbp12
 FKBP8	Peptidyl-prolyl cis-trans isomerase fkbp8
 FKBP9	Peptidyl-prolyl cis-trans isomerase fkbp9
 FKBP10	Peptidyl-prolyl cis-trans isomerase fkbp10
+FKBP12	Peptidyl-prolyl cis-trans isomerase fkbp12
 FKBP14	Peptidyl-prolyl cis-trans isomerase fkbp14
 FKBP53	Peptidyl-prolyl cis-trans isomerase FKBP53
 FKF1	Adagio protein 3
@@ -7565,7 +7561,6 @@ HTP13	heme-thiolate peroxidase
 HTP14	heme-thiolate peroxidase
 HTP15	heme-thiolate peroxidase
 HTPG	Chaperone protein htpG
-HTR4	Histone H3.3
 HTR1AA	5-hydroxytryptamine receptor 1A-alpha
 HTR1AB	5-hydroxytryptamine receptor 1A-beta
 HTR1B	5-hydroxytryptamine receptor 1B
@@ -7576,7 +7571,6 @@ HTR3A	5-hydroxytryptamine receptor 3A
 HTR4	5-hydroxytryptamine receptor 4
 HTR5A	5-hydroxytryptamine receptor 5A
 HTR7	5-hydroxytryptamine receptor 7
->>>>>>> 34a59dcb76eac1d407ea1ebe11aae053876a8335
 HTR2101	histone H3
 HTR2401	histone H3
 HTR2402	histone H3
@@ -9526,8 +9520,8 @@ IARS2	Isoleucine--tRNA ligase, mitochondrial
 IBA57	Iron-sulfur clusters incorporation protein
 IBD2	inhibition of bud division 2
 IBR3	Putative acyl-CoA dehydrogenase ibr3
-ICD1	Transcription factor BTF3
 ICA1	Islet cell autoantigen 1
+ICD1	Transcription factor BTF3
 ICE2	ER membrane protein with type-III transmembrane domains
 ICH1	ich1-like protein
 ICL1	isocitrate lyase 1
@@ -9549,8 +9543,8 @@ ICP55_0	Intermediate cleaving peptidase 55
 ICP55_1	Intermediate cleaving peptidase 55
 ICT1	Peptidyl-tRNA hydrolase ICT1, mitochondrial
 ICY1	cytoskeleton interacting protein
-IDA4	28 kDa inner dynein arm light chain, axonemal
 ID2	DNA-binding protein inhibitor ID-2
+IDA4	28 kDa inner dynein arm light chain, axonemal
 IDE	Insulin-degrading enzyme
 IDE1	Insulinase (Peptidase family M16)
 IDH1	isocitrate dehydrogenase (NAD(+)) IDH1
@@ -9600,7 +9594,6 @@ IFP3	sphingomyelin phosphodiesterase
 IFR1	Zinc-binding oxidoreductase alcohol dehydrogenase
 IFRD1	Interferon-related developmental regulator 1
 IFRD2	Interferon-related developmental regulator 2
-IFT46	Intraflagellar transport protein 46
 IFT20	Intraflagellar transport protein 20
 IFT22	Intraflagellar transport protein 22
 IFT43B	Intraflagellar transport protein 43 B
@@ -10141,8 +10134,8 @@ KIC1	kinase that interacts with cdc31p
 KIF1A	Kinesin-like protein kif1a
 KIF1B	Kinesin-like protein KIF1B
 KIF1C	Kinesin-like protein KIF1C
-KIF3	Kinesin- protein 3
 KIF2A	Kinesin-like protein kif2a
+KIF3	Kinesin- protein 3
 KIF3A	Kinesin-like protein kif3a
 KIF3B	Kinesin-like protein kif3b
 KIF3C	Kinesin-like protein kif3c
@@ -10263,8 +10256,8 @@ KRE33_0	UPF0202 protein KRE33
 KRE33_1	UPF0202 protein KRE33
 KREMEN1	Kremen protein 1
 KRI1	KRRI-Interacting protein 1
-KRP95	Kinesin-II 95 kDa subunit
 KRIT1	Krev interaction trapped protein 1
+KRP95	Kinesin-II 95 kDa subunit
 KRR1	ribosomal RNA assembly protein KRR1
 KRS1	lysyl-tRNA synthetase
 KRT8	Keratin, type II cytoskeletal 8
@@ -10967,8 +10960,8 @@ MAK3	N-alpha-acetyltransferase MAK3
 MAK5	ATP-dependent RNA helicase
 MAK10	N-alpha-acetyltransferase, non-catalitic subunit
 MAK16	ribosome biosynthesis protein
-MAK16L	Protein MAK16
 MAK16A	Protein MAK16 A
+MAK16L	Protein MAK16
 MAK21	RNA-binding ribosome biosynthesis protein MAK21
 MAK31	maintenance of killer
 MAK32	Double-stranded RNA-containing particles stability
@@ -11655,8 +11648,8 @@ MLS1	malate synthase 1
 MLS1.1	Malate synthase, glyoxysomal (MASY)
 MLS1.2	Malate synthase 1, glyoxysomal (MAS) (DAL7)
 MLS2	malate synthase
-MLT1	Multiple drug resistance-associated protein-like transporter 1
 MLST8	Target of rapamycin complex subunit lst8
+MLT1	Multiple drug resistance-associated protein-like transporter 1
 MMCM3	Maternal DNA replication licensing factor mcm3
 MMCM6	Maternal DNA replication licensing factor mcm6
 MMD1	isoleucine biosynthesis protein
@@ -12669,8 +12662,8 @@ NFU1	nifu-like protein
 NFU1-1	iron metabolism in mitochondria protein
 NFU1-2	iron metabolism in mitochondria protein
 NFX1	Transcriptional repressor NF-X1
-NFY2	Nuclear transcription factor Y subunit B
 NFXL1	NF-X1-type zinc finger protein nfxl1
+NFY2	Nuclear transcription factor Y subunit B
 NFYA	Nuclear transcription factor Y subunit alpha
 NFYB1	Nuclear transcription factor Y subunit B-1
 NFYB2	Nuclear transcription factor Y subunit B-2
@@ -17032,7 +17025,6 @@ SAP185	sit4 associated protein
 SAP190	SIT4-associating protein SAP190
 SAR1	COPII coat GTPase
 SAR1A	GTP-binding protein SAR1a
-SAR1B	GTP-binding protein sar1b
 SAR1B	GTP-binding protein SAR1b
 SAR2	GTP-binding protein SAR2
 SARM1	Sterile alpha and TIR motif-containing protein 1
@@ -19054,9 +19046,9 @@ TCRP	4-hydroxyphenylpyruvate dioxygenase
 TCT1	Translationally controlled tumor-like protein
 TCTE1	T-complex-associated testis-expressed protein 1
 TCTEX1	Dynein molecular motor protein light chain 1
-TD1	Threonine dehydratase 1 biosynthetic, chloroplastic
 TCTEX1D1A	Tctex1 domain-containing protein 1-A
 TCTEX1D2	Tctex1 domain-containing protein 2
+TD1	Threonine dehydratase 1 biosynthetic, chloroplastic
 TDA1	protein kinase TDA1
 TDA9	zinc finger protein YML081W
 TDA10	Putative ATP-dependent kinase
@@ -19802,7 +19794,6 @@ TTF2	transcription termination factor, RNA polymerase II
 TTI1	TEL2-interacting protein 1
 TTI2	TEL2-interacting protein 2
 TTK	Dual specificity protein kinase Ttk
-TTLL9	Probable tubulin polyglutamylase ttll9
 TTLL1	Probable tubulin polyglutamylase ttll1
 TTLL3	Tubulin monoglycylase ttll3
 TTLL4	Tubulin polyglutamylase ttll4
@@ -19811,7 +19802,6 @@ TTLL7	Tubulin polyglutamylase ttll7
 TTLL9	Probable tubulin polyglutamylase ttll9
 TTLL11	Tubulin polyglutamylase ttll11
 TTLL12	Tubulin--tyrosine ligase-like protein 12
->>>>>>> 34a59dcb76eac1d407ea1ebe11aae053876a8335
 TTP	Tristetraproline
 TTR1	Glutaredoxin
 TTYH2L	Protein tweety 2-like
@@ -19840,7 +19830,6 @@ TUBB4	Tubulin beta-4 chain
 TUBB4B	Tubulin beta-4B chain
 TUBB5	Tubulin beta-5 chain
 TUBB6	Tubulin beta-6 chain
-TUBG1	Tubulin gamma chain
 TUBD1	Tubulin delta chain
 TUBE1	Tubulin epsilon chain
 TUBG1	Tubulin gamma-1 chain
@@ -20451,8 +20440,8 @@ UTR1_1	NAD(+) kinase
 UTR1_2	NAD(+) kinase
 UTR2	putative glycosidase CRH2
 UTR4	enolase-phosphatase E1
-UVH3	DNA repair protein uvh3
 UTS2R	Urotensin-2 receptor
+UVH3	DNA repair protein uvh3
 UVH3_0	DNA repair protein UVH3
 UVH3_1	DNA repair protein UVH3
 UVR3	(6-4)DNA photolyase
