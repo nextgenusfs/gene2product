@@ -1,5 +1,5 @@
-#version 1.43
-#Date 07-04-2019
+#version 1.44
+#Date 07-05-2019
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -4081,6 +4081,7 @@ DEP1	Transcriptional regulatory protein
 DEP2	FAD-dependent monooxygenase dep2
 DEP3	Efflux pump dep3
 DEP4	FAD-dependent monooxygenase dep4
+DEP5	Reducing polyketide synthase DEP5`
 DEP6	Depudecin biosynthesis cluster-specific transcription activator dep6
 DEPDC5	GATOR complex protein DEPDC5
 DEPDC7	DEP domain-containing protein 7
@@ -11096,7 +11097,8 @@ MBLAC2	Metallo-beta-lactamase domain-containing protein 2
 MBNL1	Muscleblind-like protein 1
 MBNL2A	Muscleblind-like protein 2a
 MBNL3	Muscleblind-like protein 3
-MBOAT2	Membrane-bound O-acyltransferase domain-containing protein 2
+MBOAT1	Lysophospholipid acyltransferase 1
+MBOAT2	Lysophospholipid acyltransferase 2
 MBOAT7	Lysophospholipid acyltransferase 7
 MBP1	Transcription factor MBP1 (MBF subunit p120)
 MBR1	mitochondrial functions and stress response protein
