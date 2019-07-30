@@ -1,5 +1,5 @@
-#version 1.44
-#Date 07-05-2019
+#version 1.45
+#Date 07-31-2019
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -777,6 +777,7 @@ AMPM2	Methionine aminopeptidase 2
 AMRD1	multiple RNA-binding domain-containing protein
 AMS1	Glycoside hydrolase, family 38 vacuolar alpha mannosidase
 AMT6	Glucan 1,4-alpha-maltohexaosidase
+AMT13	Thioredoxin amt13
 AMT16	Phospho-2-dehydro-3-deoxyheptonate aldolase amt16
 AMYG	Glucoamylase 1
 AMZ1	Archaemetzincin-1
@@ -1895,6 +1896,7 @@ BOB1	transcriptional coactivator
 BOD1	Biorientation of chromosomes in cell division protein 1
 BOI1	bem1 interacting protein
 BOI2	polar growth protein
+BOL3	BolA-like protein 3
 BOLA2	BolA-like protein 2
 BOLA3	BolA-like protein 3
 BOP1	Ribosome bioproteinsis protein 1
@@ -4780,6 +4782,7 @@ EHT1	medium-chain fatty acid ethyl ester synthase/esterase 2
 EI2BE	Translation initiation factor eIF-2B subunit epsilon
 EI24	Etoposide induced 2.4 mRNA
 EID3	EP300-interacting inhibitor of differentiation 3
+EIF1A	Eukaryotic translation initiation factor 1A
 EIF1AD	Putative RNA-binding protein EIF1AD
 EIF1AX	Eukaryotic translation initiation factor 1A, X-chromosomal
 EIF1AY	Eukaryotic translation initiation factor 1A, Y-chromosomal
@@ -6327,6 +6330,7 @@ GLY	Lactoylglutathione lyase
 GLY1	Threonine aldolase
 GLY2	threonine aldolase
 GLYCERALDEHYDE3PHOSPHATE	Glyceraldehyde-3-phosphate dehydrogenase
+GLYCEROL3PHOSPHATE	Glycerol-3-phosphate dehydrogenase [NAD(+)]
 GLYDH	glycine dehydrogenase
 GLYR1	Putative oxidoreductase glyr1
 GLY_0	Lactoylglutathione lyase
@@ -7172,6 +7176,7 @@ HGT2	Glucose sensor or transporter
 HGT4	glucose sensor
 HGT6	hexose transporter
 HGT10	glucose-inactivated glycerol proton symporter
+HH3V	Histone H3-like centromeric protein hH3v
 HHF1	Histone H4
 HHF2	histone H4
 HHF22	histone
@@ -11225,6 +11230,7 @@ MDM12	Mitochondrial distribution and morphology protein 12
 MDM12_0	Mitochondrial distribution and morphology protein 12
 MDM12_1	Mitochondrial distribution and morphology protein 12
 MDM20	mitochondrial distribution and morphology
+MDM28	LETM1 domain-containing protein mdm28, mitochondrial
 MDM30	SCF ubiquitin ligase complex subunit MDM30
 MDM31	Mitochondrial distribution and morphology protein 31, mitochondrial precursor
 MDM32	mitochondrial distribution and morphology
@@ -12744,6 +12750,7 @@ NIT4	Nitrogen assimilation transcription factor nit-4
 NIT4B	Bifunctional nitrilase/nitrile hydratase NIT4B
 NIT5	nitrilase
 NIT6	Nitrite reductase [NAD(P)H]
+NIT8	Molybdopterin synthase catalytic subunit
 NKAIN2	Sodium/potassium-transporting ATPase subunit beta-1-interacting protein 2
 NKAIN4	Sodium/potassium-transporting ATPase subunit beta-1-interacting protein 4
 NKD1	Protein naked cuticle 1
