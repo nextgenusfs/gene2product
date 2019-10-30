@@ -1,4 +1,4 @@
-#version 1.46
+#version 1.47
 #Date 10-30-2019
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
@@ -857,6 +857,7 @@ ANR32	Ankyrin repeat domain-containing protein 32
 ANT1	ADP/ATP carrier protein
 ANT1_0	Peroxisomal adenine nucleotide transporter 1
 ANT1_1	Peroxisomal adenine nucleotide transporter 1
+ANTG1	ADP,ATP carrier protein 1, mitochondrial
 ANTXR1	Anthrax toxin receptor 1
 ANTXR2	Anthrax toxin receptor 2
 ANXA1	Annexin A1
@@ -12968,6 +12969,7 @@ NOP14	nucleolar complex protein 14
 NOP15	nucleolar protein
 NOP16	Nucleolar protein 16
 NOP19	Ribosome biogenesis factor
+NOP51	Probable nucleolar protein 5-1
 NOP53	nucleolar protein
 NOP56	snoRNP complex protein NOP56
 NOP58	Nucleolar protein 58
