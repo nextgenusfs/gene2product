@@ -1,5 +1,5 @@
-#version 1.49
-#Date 11-12-2019
+#version 1.50
+#Date 12-11-2019
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -123,6 +123,7 @@ ABCC5	Multidrug resistance-associated protein 5
 ABCC6	Multidrug resistance-associated protein 6
 ABCC8	ATP-binding cassette sub- C member 8
 ABCC9	ATP-binding cassette, sub-C (CFTR MRP), member 9
+ABCC11	ATP-binding cassette sub-family C member 11
 ABCC12	Multidrug resistance-associated protein 9
 ABCD1	ATP-binding cassette sub-family D member 1
 ABCD2	ATP-binding cassette sub-family D member 2
@@ -638,6 +639,7 @@ AK7	Adenylate kinase 7
 AK8	Adenylate kinase 8
 AKAP10	A-kinase anchor protein 10, mitochondrial
 AKD1	adenylate kinase
+AKHSDH1	Bifunctional aspartokinase/homoserine dehydrogenase 1, chloroplastic
 AKHSDH2	Homoserine dehydrogenase
 AKIRIN1	Akirin-1
 AKIRIN2	Akirin-2
@@ -1209,6 +1211,7 @@ ARP16203	actin-related protein Arp6
 ARP16204	actin-related protein Arp5p
 ARP16207	fungal specific actin related protein
 ARPC1A	protein 2 3 complex subunit
+ARPC1AA	Actin-protein 2/3 complex subunit 1A-A
 ARPC1BB	Actin- protein 2/3 complex subunit 1B-B
 ARPC2	Actin-related protein 2/3 complex subunit 2
 ARPC2B	Actin- protein 2/3 complex subunit 2-B
@@ -2249,6 +2252,7 @@ CAP3	Glycosyltransferase Family 90 domain containing protein
 CAP10	capsule-associated protein CAP1
 CAP59	capsular associated protein
 CAP60	Cryptococcal mannosyltransferase 1
+CAP64	CAP64-like protein
 CAP100	Putative transcriptional coactivator
 CAPN1	Calpain-1 catalytic subunit
 CAPN2	Calpain-2 catalytic subunit
@@ -2627,6 +2631,7 @@ CDK18	Cyclin-dependent kinase 18
 CDKA1	Cyclin-dependent kinase A-1
 CDKA-1	Cyclin-dependent kinase A-1
 CDKAL1	Threonylcarbamoyladenosine tRNA methylthiotransferase
+CDKB1	Cyclin-dependent kinase B1-1
 CDKB2-1	Cyclin-dependent kinase B2-1
 CDKC2	Cyclin-dependent kinase C-2
 CDKG2	Cyclin-dependent kinase G-2
@@ -5492,6 +5497,7 @@ FAM45A	Protein fam45a
 FAM49A	Protein FAM49A
 FAM49B	Protein fam49b
 FAM50A	Protein fam50a
+FAM50AA	Protein FAM50A-A
 FAM57B	Protein fam57b
 FAM58A	Cyclin-related protein FAM58A
 FAM63A	Ubiquitin carboxyl-terminal hydrolase MINDY-1
@@ -5717,7 +5723,8 @@ FKBP9	Peptidyl-prolyl cis-trans isomerase fkbp9
 FKBP10	Peptidyl-prolyl cis-trans isomerase fkbp10
 FKBP12	Peptidyl-prolyl cis-trans isomerase fkbp12
 FKBP13	Peptidyl-prolyl cis-trans isomerase FKBP13, chloroplastic
-FKBP14	Peptidyl-prolyl cis-trans isomerase fkbp14
+FKBP14	Peptidyl-prolyl cis-trans isomerase FKBP14
+FKBP15	FK506-binding protein 15
 FKBP53	Peptidyl-prolyl cis-trans isomerase FKBP53
 FKBP59	Peptidyl-prolyl cis-trans isomerase FKBP4
 FKF1	Adagio protein 3
@@ -5843,6 +5850,7 @@ FOXD3	Forkhead box protein D3-A
 FOXD3A	Forkhead box protein D3-A
 FOXD4L1	Forkhead box protein D4-like 1
 FOXE1	Forkhead box protein E1
+FOXE3	Forkhead box E3
 FOXE4	Forkhead box protein E4
 FOXF1	Forkhead box protein F1
 FOXF2	Forkhead box protein F2
@@ -10229,6 +10237,8 @@ KAR5	karyogamy protein
 KAR9	karyogamy protein KAR9
 KARS	lysyl-tRNA synthetase, class II
 KAS	3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial
+KAT1	3-ketoacyl-CoA thiolase 1, peroxisomal
+KAT1_1	3-ketoacyl-CoA thiolase 1, peroxisomal
 KAT2A	Histone acetyltransferase kat2a
 KAT2B	Histone acetyltransferase kat2b
 KAT5	3-ketoacyl-CoA thiolase 5, peroxisomal
@@ -13169,6 +13179,7 @@ NOP56	snoRNP complex protein NOP56
 NOP58	Nucleolar protein 58
 NOS1	Nitric oxide synthase, brain
 NOS1AP	Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein
+NOS2	Nitric oxide synthase, inducible
 NOSIP	Nitric oxide synthase-interacting protein
 NOT3	CCR4-NOT core subunit
 NOT4	transcriptional repressor general negative regulator of transcription subunit 4
@@ -14717,6 +14728,7 @@ PLK1	Serine/threonine-protein kinase PLK1
 PLK2	Serine/threonine-protein kinase PLK2
 PLK3	polo-like kinase 3
 PLK4	Serine/threonine-protein kinase PLK4
+PLK-1	Serine/threonine-protein kinase PLK1
 PLM2	plasmid maintenance
 PLO2	Structural maintenance of chromosome protein 3
 PLOD1	Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1
@@ -15582,6 +15594,7 @@ PUT4	Proline-specific permease
 PUT4-1	Proline permease
 PUT4-2	Proline permease
 PUT4.1	Proline-specific permease (Proline transport protein)
+PUX4	Plant UBX domain-containing protein 4
 PV42A	SNF1-related protein kinase regulatory subunit gamma-like PV42a
 PV42B	SNF1-related protein kinase regulatory subunit gamma-like PV42b
 PVALB7	Parvalbumin-7
@@ -16559,6 +16572,7 @@ RNase_P_4	RNase P
 RNase_P_5	RNase P
 RNase_P_6	RNase P
 RO1	Dynein heavy chain, cytoplasmic
+RO3	Dynactin, 150 kDa isoform
 RO4	Actin-like protein
 ROBO1	Roundabout 1
 ROBO2	Roundabout 2
@@ -16568,6 +16582,7 @@ ROC4	Homeobox-leucine zipper protein ROC4
 ROCK1	CDC42 binding protein kinase
 ROCK2	Rho-associated protein kinase 2
 ROCO4	Probable serine/threonine-protein kinase roco4
+ROCO6	Probable serine/threonine-protein kinase roco6
 ROD1	resistance to o-dinitrobenzene
 ROG1	revertant of glycogen synthase kinase mutation
 ROG3	revertant of glycogen synthase kinase mutation
@@ -17662,6 +17677,7 @@ SEC13	GTPase-activating protein SEC13
 SEC14	cytosolic factor, phosphatidylinositol/phosphatidylcholine transfer protein
 SEC15	Rab GTPase-binding exocyst subunit SEC15
 SEC16	vesicle coat component
+SEC16A	Protein transport protein Sec16A
 SEC16B	Protein transport protein Sec16B
 SEC17	vesicular-fusion protein SEC17
 SEC18	transport between ER and Golgi ATPase protein
@@ -18646,6 +18662,7 @@ SR1A	Spherulin-1A
 SR4	Spherulin-4
 SR4_0	Spherulin-4
 SR4_1	Spherulin-4
+SR30	Serine/arginine-rich splicing factor SR30
 SR45A	Serine/arginine-rich splicing factor SR45a
 SRB1	mannose-1-phosphate guanylyltransferase
 SRB2	mediator of RNA polymerase II transcription subunit
@@ -20798,6 +20815,7 @@ UIP3	DUP240 family protein UIP3
 UIP4	Ulp1 interacting protein
 UIP5	Ulp1 interacting protein
 ULA1	ubiquitin-like protein activation
+ULK1	Serine/threonine-protein kinase ULK1
 ULK2	Serine/threonine-protein kinase ULK2
 ULP1	Smt3-specific protease
 ULP1A	Ubiquitin-like-specific protease 1A
@@ -21203,6 +21221,7 @@ VPS24	Vacuolar protein-sorting-associated protein 24
 VPS25	Vacuolar protein-sorting-associated protein 25
 VPS26A	Vacuolar protein sorting-associated protein 26A
 VPS26B	Vacuolar protein sorting-associated protein 26B
+VPS26BA	Vacuolar protein sorting-associated protein 26B-A
 VPS26BB	Vacuolar protein sorting-associated protein 26
 VPS27	Vacuolar protein-sorting-associated protein 27
 VPS28	Vacuolar protein-sorting-associated protein 28
@@ -21385,6 +21404,7 @@ WDR83	WD repeat-containing protein 83
 WDR83OS	Protein Asterix
 WDR87	WD repeat-containing protein 87
 WDR88	WD repeat-containing protein 88
+WDR90	WD repeat-containing protein 90
 WDR91	WD repeat-containing protein 91
 WDR92	WD repeat-containing protein 92
 WDR95	WD40 repeat domain 95
@@ -21947,6 +21967,7 @@ ZFYVE19	Abscission/NoCut checkpoint regulator
 ZFYVE20	Rabenosyn-5
 ZFYVE21	Zinc finger FYVE domain-containing protein 21
 ZFYVE28	Lateral signaling target protein 2
+ZG16	Zymogen granule membrane protein 16
 ZG16B	Zymogen granule protein 16 homolog B
 ZIC1	Zinc finger protein ZIC 1
 ZIC2	Zinc finger protein ZIC 2
