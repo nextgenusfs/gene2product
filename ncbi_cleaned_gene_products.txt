@@ -1,4 +1,4 @@
-#version 1.51
+#version 1.52
 #Date 12-15-2019
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
@@ -19410,6 +19410,7 @@ SUB8	serine protease
 SUB8_0	Subtilisin-like protease 8
 SUB8_1	Subtilisin-like protease 8
 SUB9	Secreted subtilisin-like serine protease sub9
+SUB10	Subtilisin-like protease 10
 SUB11	Secreted subtilisin-like serine protease sub11
 SUC1	transcription factor
 SUC1.1	zinc finger protein
