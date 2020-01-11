@@ -1,5 +1,5 @@
-#version 1.52
-#Date 12-15-2019
+#version 1.53
+#Date 01-11-2020
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -543,6 +543,7 @@ AGO2_1	argonaute-2
 AGO4	Protein argonaute-4
 AGO5	argonaute 5
 AGO10	Protein argonaute 10
+AGO12	Protein argonaute 12
 AGO14	Protein argonaute 14
 AGO16201	argonaute-like protein
 AGO16202	argonaute-like protein
@@ -777,6 +778,7 @@ ALR2	Putative Mg(2+) transporter
 ALS1	Agglutinin-like protein 1 precursor
 ALS1.2	Agglutinin-like protein 1 precursor
 ALS2	agglutinin-like protein 2
+ALS2CR8	Calcium-responsive transcription factor
 ALS3	Agglutinin-like protein 3
 ALS6	agglutinin-like protein 6 serine rich
 ALS9	flocculin
@@ -1148,6 +1150,7 @@ ARHGAP42	Rho GTPase-activating protein 42
 ARHGAP44	Rho GTPase-activating protein 44
 ARHGEF3	Rho guanine nucleotide exchange factor 3
 ARHGEF4	Rho guanine nucleotide exchange factor 4
+ARHGEF6	Rho guanine nucleotide exchange factor 6
 ARHGEF7	Rho guanine nucleotide exchange factor 7
 ARHGEF9	guanine nucleotide exchange factor 9
 ARHGEF10L	guanine nucleotide exchange factor 10-like protein
@@ -1189,6 +1192,7 @@ ARL6IP5	PRA1 protein 3
 ARL8A	ADP-ribosylation factor-like protein 8A
 ARL8B	ADP-ribosylation factor-like protein 8B
 ARL8BA	ADP-ribosylation factor-like protein 8B-A
+ARL11	ADP-ribosylation factor-like protein 11
 ARL13B	ADP-ribosylation factor-like protein 13B
 ARL15	ADP-ribosylation factor-like protein 15
 ARL16	ADP-ribosylation factor-like protein 16
@@ -1279,6 +1283,7 @@ ARS	Arylsulfatase
 ARS1	Arylsulfatase (AS) (Aryl-sulfate sulphohydrolase)
 ART2	T-cell ecto-ADP-ribosyltransferase 1
 ART3	Putative putative protein art3
+ART4	Ecto-ADP-ribosyltransferase 4
 ART5	Arrestin-related trafficking adapter 5
 ARV1	sterol homeostasis protein
 ARX1	Probable metalloprotease ARX1
@@ -1487,6 +1492,7 @@ ATP5F1B	ATP synthase subunit beta, mitochondrial
 ATP5F1C	ATP synthase subunit gamma, mitochondrial
 ATP5F1D	ATP synthase subunit delta, mitochondrial
 ATP5G2	ATP synthase F(0) complex subunit C2, mitochondrial
+ATP5L	ATP synthase subunit g, mitochondrial
 ATP5MC2	ATP synthase F(0) complex subunit C2, mitochondrial
 ATP5MC3	ATP synthase F(0) complex subunit C3, mitochondrial
 ATP5MD	Up-regulated during skeletal muscle growth protein 5
@@ -2517,6 +2523,7 @@ CCMA2	Putative bifunctional cytochrome c-type biogenesis protein CcmAE
 CCMB	Heme exporter protein B
 CCN1	G1/S-specific cyclin CCN1
 CCN3	CCN member 3
+CCNA1	Cyclin-A1
 CCNA2	Cyclin-A2
 CCNB1	G2/mitotic-specific cyclin-B1
 CCNB1IP1	cyclin B1 interacting protein 1, E3 ubiquitin protein ligase
@@ -2710,6 +2717,7 @@ CDK10	Cyclin-dependent kinase 10
 CDK11A	Cyclin-dependent kinase 11A
 CDK11B	Cyclin-dependent kinase 11B
 CDK12	Cyclin-dependent kinase 12
+CDK13	Cyclin-dependent kinase 13
 CDK14	Cyclin-dependent kinase 14
 CDK15	Cyclin-dependent kinase 15
 CDK17	Cyclin-dependent kinase 17
@@ -3687,6 +3695,7 @@ CUL4	Cullin-4
 CUL4A	Cullin-4A
 CUL4B	Cullin-4B
 CUL5	Cullin-5
+CULLIN-3	Cullin-3
 CUP1	metallothionein CUP1
 CUP1-1	metallothionein CUP1
 CUP1-2	metallothionein CUP1
@@ -4289,6 +4298,7 @@ DDX20	DEAD (Asp-Glu-Ala-Asp) box polypeptide 20
 DDX21	Nucleolar RNA helicase 2
 DDX23	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23
 DDX24	ATP-dependent RNA helicase DDX24
+DDX25	ATP-dependent RNA helicase DDX25
 DDX26B	Integrator complex subunit 6-like
 DDX27	Probable ATP-dependent RNA helicase ddx27
 DDX28	Probable ATP-dependent RNA helicase DDX28
@@ -4534,6 +4544,7 @@ DNAJB1	DnaJ subfamily B member 1
 DNAJB2	DnaJ subfamily B member 2
 DNAJB4	DnaJ subfamily B member 4
 DNAJB5	DnaJ sub B member 5
+DNAJB7	DnaJ homolog subfamily B member 7
 DNAJB8	DnaJ homolog subfamily B member 8
 DNAJB9	DnaJ sub B member 9
 DNAJB11	DnaJ sub B member 11
@@ -5001,6 +5012,7 @@ EDRF1	Erythroid differentiation- factor 1
 EEA1	early endosome antigen 1
 EEB1	Medium-chain fatty acid ethyl ester synthase/esterase 1
 EEF1A	Elongation factor 1-alpha
+EEF1A1	Elongation factor 1-alpha 1
 EEF1AKNMT	eEF1A lysine and N-terminal methyltransferase
 EEF1AS	Elongation factor 1-alpha, somatic form
 EEF1B2	Elongation factor 1-beta
@@ -5109,6 +5121,7 @@ EIF2S1	Eukaryotic translation initiation factor 2 subunit 1
 EIF2S2	eukaryotic translation initiation factor 2
 EIF2S3	Eukaryotic translation initiation factor 2 subunit 3
 EIF3A	Eukaryotic translation initiation factor 3 subunit A
+EIF3C	Eukaryotic translation initiation factor 3 subunit C
 EIF3D	Eukaryotic translation initiation factor 3 subunit D
 EIF3E	Eukaryotic translation initiation factor 3 subunit E
 EIF3EB	Eukaryotic translation initiation factor 3 subunit E-B
@@ -5444,6 +5457,7 @@ EWSR1	RNA-binding protein EWS
 EXBD1	Biopolymer transport protein exbD1
 EXBD2	Biopolymer transport protein exbD2
 EXBD3	Tol-Pal system protein TolR
+EXC-7	Uncharacterized protein
 EXD2	Exonuclease 3'-5' domain-containing protein 2
 EXD3	Exonuclease mut-7
 EXG	Glucan 1,3-beta-glucosidase
@@ -5675,6 +5689,7 @@ FAO2_1	Long-chain-alcohol oxidase FAO2
 FAO4A	Long-chain-alcohol oxidase FAO4A
 FAP1	FKBP12-associated protein
 FAP7	factor activating pos9
+FAP50	Dynein regulatory complex subunit 7
 FAR1	cyclin-dependent kinase inhibitor FAR1
 FAR2	Fatty acyl-CoA reductase 2
 FAR3	factor arrest protein 3
@@ -5803,6 +5818,7 @@ FET34	ferroxidase
 FEX1	Fluoride export protein
 FEX2	fluoride transporter
 FEZF2	Fez zinc finger protein 2
+FFT2	ATP-dependent helicase fft2
 FGAOX3	Chanoclavine-I aldehyde reductase fgaOx3
 FGD1	FYVE, RhoGEF and PH domain-containing protein 1
 FGF1	Putative fibroblast growth factor 1
@@ -5839,6 +5855,7 @@ FHDC1	FH2 domain-containing protein 1
 FHL1	Pre-rRNA-processing protein FHL1
 FHL2	Four and a half LIM domains protein 2
 FHL3	Four and a half LIM domains protein 3
+FHL5	Four and a half LIM domains protein 5
 FHOD3	FH1/FH2 domain-containing protein 3
 FHY3	Protein FAR-RED ELONGATED HYPOCOTYL 3
 FIBCD1	Fibrinogen C domain-containing protein 1
@@ -6969,6 +6986,7 @@ GREB1	Protein greb1
 GREB1L	GREB1-like protein
 GREM1	Gremlin-1
 GRF7	Growth-regulating factor 7
+GRF12	Growth-regulating factor 12
 GRH1	GRASP65-like protein 1
 GRHL1	grainyhead-like
 GRHL3	Grainyhead-like protein 3 homolog
@@ -7086,6 +7104,7 @@ GST16	Glutathione S-transferase 16
 GST17	Glutathione S-transferase 17
 GSTA	Glutathione S-transferase A
 GSTA4	Glutathione S-transferase A4
+GSTCH1	Glutathione S-transferase protein
 GSTCH3	Glutathione S-transferase protein
 GSTCH7	Glutathione S-transferase protein
 GSTF1_0	Glutathione S-transferase F1_0
@@ -7096,6 +7115,7 @@ GSTO1_0	Glutathione S-transferase omega-1
 GSTO1_1	Glutathione S-transferase omega-1
 GSTO2	Glutathione S-transferase omega-2
 GSTS1	Glutathione S-transferase S1
+GSTS2	Cytochrome c oxidase subunit 1
 GSTT3	Glutathione S-transferase T3
 GSTU1	Glutathione S-transferase U1
 GSTU8	Glutathione S-transferase U8
@@ -7129,6 +7149,7 @@ GTF2H3	General transcription factor IIH subunit 3
 GTF2H4	General transcription factor IIH subunit 4
 GTF2H5	General transcription factor IIH subunit 5
 GTF3A	Transcription factor IIIA
+GTF3C1	General transcription factor 3C polypeptide 1
 GTF3C2	General transcription factor 3C polypeptide 2
 GTF3C3	General transcription factor IIIC, polypeptide 3
 GTF3C5	General transcription factor 3C polypeptide 5
@@ -7417,6 +7438,7 @@ HCA4	helicase CA
 HCCS	Cytochrome c-type heme lyase
 HCD-1	3-hydroxy-acyl-CoA-dehydrogenase
 HCD-2	3-hydroxyacyl-CoA-dehydrogenase, mitochondrial
+HCFC1	Host cell factor 1
 HCFC2	Host cell factor 2
 HCH1	high-copy hsp90 suppressor
 HCM1	Forkhead transcription factor
@@ -10578,6 +10600,7 @@ KDELR3	ER lumen protein-retaining receptor 3
 KDM1A	Lysine-specific histone demethylase 1A
 KDM1B	Lysine-specific histone demethylase 1B
 KDM2B	Lysine-specific demethylase 2B
+KDM3A	Lysine-specific demethylase 3A
 KDM3B	Lysine-specific demethylase 3B
 KDM4B	Lysine-specific demethylase 4B
 KDM4C	Lysine-specific demethylase 4C
@@ -10708,6 +10731,7 @@ KLHDC3_2	Kelch domain-containing protein 3
 KLHDC4	kelch domain containing 4
 KLHDC8A	Kelch domain-containing protein 8A
 KLHDC10	Kelch domain-containing protein 10
+KLHL2	Kelch-like protein 2
 KLHL5	Kelch-like protein 5
 KLHL10	Kelch-like protein 10
 KLHL13	kelch-like
@@ -11547,6 +11571,7 @@ MAN5	Mannan endo-1,4-beta-mannosidase 5
 MAN26A	Mannan endo-1,4-beta-mannosidase man26A
 MANA1	mannan endo-1,4-beta-mannosidase A-1
 MANA2	mannan endo-1,4-beta-mannosidase A-2
+MANB2	Mannan endo-1,4-beta-mannosidase
 MAOA	Amine oxidase [flavin-containing] A
 MAOH_0	Malic enzyme, hydrogenosomal
 MAOH_1	Malic enzyme, hydrogenosomal
@@ -11891,6 +11916,7 @@ MEH1	Multicopy suppressor of ers1 hygromycin b sensitivity
 MEI2	Meiosis protein mei2
 MEI4	Meiosis-specific protein MEI4
 MEI5	Meiosis-specific protein MEI5
+MEI-W68	Meiotic recombination protein W68
 MEIS1	Homeobox protein Meis1
 MEIS2	Homeobox protein Meis2
 MEIS3	Homeobox protein Meis3
@@ -11972,6 +11998,7 @@ METAP1D	Methionine aminopeptidase 1D, mitochondrial
 METAP2	Methionine aminopeptidase 2
 METF-2	Methylenetetrahydrofolate reductase
 METK2	S-adenosylmethionine synthetase isoform type-2
+METL1	N6-adenosine-methyltransferase non-catalytic subunit MTB
 METL5	Methyltransferase-like protein 5
 METN1	Methionine import ATP-binding protein MetN 1
 METTL1	tRNA (guanine-N(7)-)-methyltransferase
@@ -12061,6 +12088,7 @@ MGAT5	Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase A
 MGAT5B	Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase B
 MGE1	Mitochondrial matrix cochaperone
 MGH3	histone H3-like 2
+MGL-3	Transcription factor unc-86
 MGM1	dynamin-like GTPase MGM1
 MGM101	Mitochondrial DNA recombinational repair protein
 MGR1	mitochondrial inner membrane i-AAA protease complex subunit
@@ -12350,6 +12378,7 @@ MOT1_1	Molybdate transporter 1
 MOT1_2	TATA-binding protein-associated factor MOT1
 MOT2	CCR4-NOT core ubiquitin-protein ligase subunit MOT2
 MOT3	modifier of transcription
+MOV10	Helicase MOV-10
 MP3	Bifunctional protein GlmU
 MP20	Muscle-specific protein 20
 MP65_0	Cell surface mannoprotein MP65
@@ -13156,6 +13185,7 @@ NDE2	NDE2, mitochondrial external NADH dehydrogenase
 NDE2_2	NDE2, mitochondrial external NADH dehydrogenase
 NDE3	alternative NADP(H) dehydrogenase
 NDE4	alternative NADP(H) dehydrogenase
+NDEL1	Nuclear distribution protein nudE-like 1
 NDEL1B	Nuclear distribution protein nudE-like 1-B
 NDFIP1L	NEDD4 -interacting protein 1-like
 NDFIP2	Nedd4 interacting protein
@@ -13417,6 +13447,7 @@ NME9	thioredoxin domain-containing protein 6
 NME12	Nucleoside diphosphate kinase A 2
 NMNAT1	Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 1
 NMNAT2	Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 2
+NMNAT3	Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 3
 NMRAL1	NmrA-like family domain-containing protein 1
 NMRAL1_0	NmrA-like family domain-containing protein 1
 NMRAL1_1	NmrA-like family domain-containing protein 1
@@ -14151,6 +14182,7 @@ P4HA2	Prolyl 4-hydroxylase, alpha polypeptide
 P4HA3	Prolyl 4-hydroxylase subunit alpha-3
 P4HB	Protein disulfide-isomerase
 P5CR	Pyrroline-5-carboxylate reductase
+P19	Interleukin-23 subunit alpha
 P23FY	Translationally-controlled tumor protein homolog
 P65C	Synaptotagmin-C
 P450_CYP52-1	cytochrome P450
@@ -14342,6 +14374,7 @@ PCBD1	Putative pterin-4-alpha-carbinolamine dehydratase
 PCBD2	Pterin-4-alpha-carbinolamine dehydratase 2
 PCBP2	Poly(rC)-binding protein 2
 PCBP3	Poly(rC)-binding protein 3
+PCBP4	Poly(rC)-binding protein 4
 PCC1	EKC/KEOPS complex subunit
 PCCA	Propionyl-CoA carboxylase alpha chain, mitochondrial
 PCCA1	Propionyl-CoA carboxylase alpha chain, mitochondrial
@@ -14485,6 +14518,7 @@ PDI	protein disulfide isomerase
 PDI1	protein disulfide-isomerase precursor
 PDIA	protein disulfide isomerase
 PDIA3	Protein disulfide-isomerase A3
+PDIA4	Protein disulfide-isomerase A4
 PDIA5	Protein disulfide-isomerase A5
 PDIA6	Protein disulfide-isomerase A6
 PDIK1L	Serine/threonine-protein kinase pdik1l
@@ -14735,6 +14769,7 @@ PHF8	PHD finger protein 8
 PHF10	PHD finger protein 10
 PHF14	PHD finger protein 14
 PHF15	PHD finger protein 15
+PHF16	Protein Jade-3
 PHF17	Protein Jade-1
 PHF20	PHD finger protein 20
 PHH2	phenol 2-monooxygenase
@@ -15008,6 +15043,7 @@ PLA2G4A	Cytosolic phospholipase A2
 PLA2G4F	Cytosolic phospholipase A2 zeta
 PLA2G7	Platelet-activating factor acetylhydrolase
 PLAA	Phospholipase A-2-activating protein
+PLAG1	Zinc finger protein PLAG1
 PLAGL2	Zinc finger protein PLAGL2
 PLB	lysophospholipase
 PLB1	Lysophospholipase 1
@@ -15056,6 +15092,7 @@ PLEKHH1	Pleckstrin y domain-containing H member 1
 PLEKHJ1	Pleckstrin y domain-containing J member 1
 PLEKHO1	Pleckstrin y domain-containing O member 1
 PLGG1	Plastidal glycolate/glycerate translocator 1, chloroplastic
+PLIN5	Perilipin-5
 PLK1	Serine/threonine-protein kinase PLK1
 PLK2	Serine/threonine-protein kinase PLK2
 PLK3	polo-like kinase 3
@@ -15102,6 +15139,7 @@ PMC1	plasma membrane calcium
 PMD1	protein with an N-terminal kelch-like domain
 PME	aspartyl esterase
 PME1	Pectinesterase 1
+PME-1	Protein phosphatase methylesterase 1
 PMEU1_0	Pectinesterase/pectinesterase inhibitor U1
 PMEU1_1	Pectinesterase/pectinesterase inhibitor U1
 PMI40	mannose-6-phosphate isomerase PMI40
@@ -15643,6 +15681,7 @@ PRORSD1	Prolyl-tRNA synthetase associated domain-containing protein 1
 PROR_0	Proteinase R
 PROR_1	Proteinase R
 PROSALPHA3	Proteasome subunit alpha type-4
+PROSALPHA7	Proteasome subunit alpha type-3
 PROX1	Prospero homeobox protein 1
 PRP1	Pre-mRNA splicing factor prp1
 PRP2	DEAH-box RNA-dependent ATPase PRP2
@@ -15847,6 +15886,7 @@ PTC4	Protein phosphatase 2C 4
 PTC5	[Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 1, mitochondrial
 PTC6	Protein phosphatase 2C 6
 PTC7	Protein phosphatase 2C 7
+PTCD1	Pentatricopeptide repeat-containing protein 1, mitochondrial
 PTCH1	Protein patched 1
 PTCHD1	Patched domain-containing protein 1
 PTCHD2	hedgehog receptor activity
@@ -15895,6 +15935,7 @@ PTPN13	Tyrosine-protein phosphatase non-receptor type 13
 PTPN14	Tyrosine-protein phosphatase non-receptor type 14
 PTPN18	Tyrosine-protein phosphatase non-receptor type 18
 PTPN21	Tyrosine-protein phosphatase non-receptor type 21
+PTPN22	Tyrosine-protein phosphatase non-receptor type 22
 PTPN23	Tyrosine-protein phosphatase non-receptor type 23
 PTPRG	Receptor-type tyrosine-protein phosphatase gamma
 PTPRN2	Receptor-type tyrosine-protein phosphatase N2
@@ -16223,6 +16264,7 @@ QRICH2	Glutamine-rich protein 2
 QRS1	Probable glutamine--tRNA ligase
 QRSL1	Glu-AdT subunit A
 QSEC	Sensor protein qseC
+QSOX1	Sulfhydryl oxidase 1
 QTRT1	Queuine tRNA-ribosyltransferase catalytic subunit 1
 QTRT2	Queuine tRNA-ribosyltransferase accessory subunit 2
 QUP1	quinate permease
@@ -16317,6 +16359,7 @@ RAB39B	Ras- protein Rab-39B
 RAB40B	Ras- protein Rab-40B
 RAB40C	Ras- protein Rab-40C
 RABA1B	Ras-related protein RABA1b
+RABA1E	Ras-related protein RABA1e
 RABAC1	Prenylated Rab acceptor protein 1
 RABB1B	Ras-related protein RABB1b
 RABB1C	Ras-related protein RABB1c
@@ -16706,6 +16749,7 @@ RHCG2	Ammonium transporter Rh type C 2
 RHD1	phosphoenolpyruvate-dependent sugar phosphotransferase
 RHIZOPUSPEPSIN2	Rhizopuspepsin-2
 RHK1	Dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase
+RHL2	DNA topoisomerase 6 subunit A
 RHLE2	ATP-dependent RNA helicase RhlE
 RHM3	Trifunctional UDP-glucose 4,6-dehydratase
 RHM52	DNA repair and recombination protein rhm52
@@ -16858,6 +16902,7 @@ RMI1	recQ-mediated genome instability protein 1
 RML2	mitochondrial 54S ribosomal protein RML2
 RMLA2	Glucose-1-phosphate thymidylyltransferase 2
 RMND1	Required for meiotic nuclear division protein 1
+RMND5A	E3 ubiquitin-protein transferase RMND5A
 RMND5B	E3 ubiquitin-protein transferase rmnd5b
 RMP1	RNase MRP subunit
 RMR1_0	Receptor y region, transmembrane domain- and RING domain-containing protein 2
@@ -16889,12 +16934,14 @@ RNF2	E3 ubiquitin-protein ligase RING2
 RNF2A	E3 ubiquitin-protein ligase RING2-A
 RNF4	E3 ubiquitin-protein ligase RNF4
 RNF5	E3 ubiquitin-protein ligase rnf5
+RNF6	E3 ubiquitin-protein ligase RNF6
 RNF7	RING-box protein 2
 RNF10	RING finger protein 10
 RNF11	RING finger protein 11
 RNF13	E3 ubiquitin-protein ligase RNF13
 RNF14	E3 ubiquitin-protein ligase RNF14
 RNF19A	E3 ubiquitin-protein ligase rnf19a
+RNF19B	E3 ubiquitin-protein ligase RNF19B
 RNF24	RING finger protein 24
 RNF32	RING finger protein 32
 RNF34	RING finger protein 34
@@ -17877,6 +17924,7 @@ SAW1	DNA-binding protein SAW1
 SAY1	Steryl acetyl hydrolase 1
 SB62	60S ribosomal protein L15-2
 SBA1	co-chaperone
+SBCC3	Nuclease SbcCD subunit C
 SBDS	Ribosome maturation protein SBDS
 SBE22	Bud growth protein
 SBF1	ARS-binding factor 1
@@ -18033,6 +18081,7 @@ SDO1	guanine nucleotide exchange factor SDO1
 SDP1	mitogen-activated protein kinase tyrosine protein phosphatase SDP1
 SDR1_0	Short-chain type dehydrogenase/reductase
 SDR1_1	Short-chain type dehydrogenase/reductase
+SDR2	Short-chain dehydrogenase/reductase 2b
 SDR2a	Short-chain dehydrogenase reductase 2a
 SDR3b	Short-chain dehydrogenase reductase 3b
 SDR16C6	Short-chain dehydrogenase/reductase family 16C member 6
@@ -18318,6 +18367,7 @@ SHE3	mother-specific HO expression
 SHE4	SWI5-dependent HO expression protein 4
 SHE9	sensitivity to high expression protein she9
 SHE10	sensitivity to high expression protein she10
+SHFM1	26S proteasome complex subunit SEM1
 SHG1	COMPASS (complex proteins associated with Set1p) component
 SHISAL1A	Protein shisa-like-1a
 SHKBP1	SH3KBP1-binding protein 1
@@ -18696,6 +18746,7 @@ SNAP25A	Synaptosomal-associated protein 25-A
 SNAP25B	Synaptosomal-associated protein 25-B
 SNAP47	Synaptosomal-associated protein 47
 SNAP91	Clathrin coat assembly protein AP180
+SNAP-1	Alpha-soluble NSF attachment protein 1
 SNAPC1	Small nuclear RNA activating complex, polypeptide 1, 43kDa
 SNAPC3	small nuclear RNA activating complex, polypeptide 3
 SNAPC4	Myblike DNAbinding domain-containing protein
@@ -19402,6 +19453,7 @@ SUA7	transcription initiation factor IIB
 SUA71	transcription factor TFIIB
 SUB1	Transcriptional coactivator
 SUB2	Suppressor of the cold-sensitive snRNP biogenesis mutant brr1-1
+SUB3	Subtilisin-like protease 3
 SUB4	Secreted subtilisin-like serine protease sub4
 SUB5	Secreted subtilisin-like serine protease sub5
 SUB6	subtilisin-like serine protease
@@ -19555,6 +19607,7 @@ SYNDIG1L	Synapse differentiation-inducing protein protein 1-like
 SYNE1	Nesprin-1
 SYNGR1	Synaptogyrin-1
 SYNGR3	Synaptogyrin-3
+SYNJ1	Synaptojanin-1
 SYNJ2	Synaptojanin-2
 SYO1	Transport adaptor or symportin
 SYP1	Suppressor of Yeast Profilin deletion
@@ -19576,6 +19629,7 @@ SYT4	Synaptotagmin-4
 SYT5_0	Synaptotagmin-5
 SYT5_1	Synaptotagmin-5
 SYT6	Synaptotagmin-6
+SYT7	Synaptotagmin-7
 SYT9	Synaptotagmin-9
 SYT12	Synaptotagmin-12
 SYT17	Synaptotagmin-17
@@ -19849,6 +19903,7 @@ TAPT1	Transmembrane anterior posterior transformation protein 1
 TARBP1	Tar (HIV-1) RNA binding protein 1
 TARBP2	RISC-loading complex subunit tarbp2
 TARSL2	Threonine--tRNA ligase 2, cytoplasmic
+TAS1R2	Taste receptor type 1 member 2
 TAS1R3	Taste receptor type 1 member 3
 TASP1	taspase, threonine aspartase, 1
 TAT1	amino acid transporter TAT1
@@ -19918,6 +19973,7 @@ TBXAS1	Thromboxane-A synthase
 TCA8	Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial
 TCA9	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial
 TCA17	TRAPII complex subunit
+TCAC1	Insecticidal toxin complex protein TcaC1
 TCB1	tricalbin
 TCB1_0	Transposable element Tcb1 transposase
 TCB1_1	Transposable element Tcb1 transposase
@@ -20019,6 +20075,7 @@ TENT4B	Terminal nucleotidyltransferase 4A
 TENT5A	Terminal nucleotidyltransferase 5A
 TENT5C	Terminal nucleotidyltransferase 5C
 TEP1	Telomerase protein component 1
+TER94	Transitional endoplasmic reticulum ATPase TER94
 TERA	Transitional endoplasmic reticulum ATPase TER94
 TES1	acyl-CoA thioesterase
 TESB	Acyl-CoA thioesterase 2
@@ -20350,6 +20407,7 @@ TMLHE	Trimethyllysine dioxygenase, mitochondrial
 TMN3	Cellular adhesion and filamentous growth protein
 TMN6	Transmembrane 9 superfamily member 6
 TMN7	Transmembrane 9 superfamily member 7
+TMN8	Transmembrane 9 superfamily member 8
 TMOD1	Tropomodulin-1
 TMOD2	Tropomodulin-2
 TMOD3	Tropomodulin-3
@@ -20399,6 +20457,7 @@ TOB1	transducer of ERBB2
 TOB2	Protein Tob2
 TOC34	Translocase of chloroplast
 TOE1	Target of EGR1, member 1 (Nuclear)
+TOE-4	Cytochrome c oxidase subunit 1
 TOF1	Topoisomerase 1-associated factor 1
 TOF2	Topoisomerase 1-interacting factor 2
 TOH1	GPI-anchored cell wall protein
@@ -20512,6 +20571,7 @@ TRA2A	Transformer-2 protein homolog alpha
 TRA2B	transformer 2 beta
 TRA12	Histone acetyltransferase SAGA, TRRAP/TRA1 component, PI-3 kinase superfamily TRA1
 TRABD2A	Metalloprotease TIKI1
+TRAF3	TNF receptor-associated factor 3
 TRAF3IP1	TRAF3-interacting protein 1
 TRAF4	TNF receptor-associated factor 4
 TRAF6	TNF receptor-associated factor 6
@@ -20564,6 +20624,7 @@ TRIAP1	TP53-regulated inhibitor of apoptosis 1
 TRIM2	Tripartite motif-containing protein 2
 TRIM3	Tripartite motif-containing protein 3
 TRIM9	E3 ubiquitin-protein ligase trim9
+TRIM10	Tripartite motif-containing protein 10
 TRIM23	E3 ubiquitin-protein ligase trim23
 TRIM36	E3 ubiquitin-protein ligase trim36
 TRIM37	Tripartite motif containing 37
@@ -20717,6 +20778,7 @@ TSN	Translin
 TSNAX	Translin-associated protein X
 TSP42ED	Tetraspanin
 TSP42EE	Tetraspanin
+TSPAN2	Tetraspanin-2
 TSPAN3	Tetraspanin-3
 TSPAN4	Tetraspanin-4
 TSPAN5	Tetraspanin-5
@@ -21104,6 +21166,7 @@ UBA3	NEDD8-activating protein UBA3
 UBA4	Urmylation protein
 UBA5	Ubiquitin-like modifier-activating enzyme 5
 UBA6	Ubiquitin-like modifier-activating enzyme 6
+UBA52	Ubiquitin-60S ribosomal protein L40
 UBAC1	Ubiquitin-associated domain-containing protein 1
 UBALD1	UBA-like domain-containing protein 1
 UBASH3B	Ubiquitin-associated and SH3 domain-containing protein B
@@ -21121,6 +21184,7 @@ UBC11	Ubiquitin-conjugating enzyme E2 11
 UBC12	NEDD8-conjugating protein UBC12
 UBC13	Ubiquitin-conjugating enzyme 13
 UBC14	Ubiquitin-conjugating enzyme E2 14
+UBC23	Probable ubiquitin-conjugating enzyme E2 23
 UBC27	Ubiquitin-conjugating enzyme E2 27
 UBC32	Ubiquitin-conjugating enzyme E2 32
 UBC34	Ubiquitin-conjugating enzyme E2 34
@@ -21431,6 +21495,7 @@ USP45	Ubiquitin carboxyl-terminal hydrolase 45
 USP46	Ubiquitin carboxyl-terminal hydrolase 46
 USP47	Ubiquitin carboxyl-terminal hydrolase 47
 USP48	Ubiquitin carboxyl-terminal hydrolase 48
+USP51	Ubiquitin carboxyl-terminal hydrolase 51
 UST1	Cell pattern formation-associated protein ust1
 USV1	Up in starvation
 USV1_0	Nutrient and stress factor 1
@@ -21851,6 +21916,7 @@ WDR17	WD repeat-containing protein 17
 WDR18	WD repeat-containing protein 18
 WDR19	WD repeat-containing protein 19
 WDR20	WD repeat-containing protein 20
+WDR25	WD repeat-containing protein 25
 WDR27	WD repeat-containing protein 27
 WDR31	WD_REPEATS_REGION domain-containing protein
 WDR33	WD repeat-containing protein 33
@@ -22440,6 +22506,7 @@ ZDHHC16A	Palmitoyltransferase zdhhc16a
 ZDHHC16B	Palmitoyltransferase zdhhc16b
 ZDHHC17	Palmitoyltransferase zdhhc17
 ZDHHC18	Palmitoyltransferase zdhhc18
+ZDHHC20	Palmitoyltransferase ZDHHC20
 ZDHHC21	Palmitoyltransferase zdhhc21
 ZDS1	zillion different screens protein
 ZEB1	Zinc finger E-box-binding homeobox 1
