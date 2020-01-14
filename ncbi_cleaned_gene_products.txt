@@ -1,5 +1,5 @@
-#version 1.53
-#Date 01-11-2020
+#version 1.54
+#Date 01-13-2020
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -13638,9 +13638,9 @@ NRXN2	Neurexin-2
 NRXN3	Neurexin-3-beta
 NRXN3A	Neurexin-3a
 NRXN3B	Neurexin-3b-beta
-NS2	Genome polyprotein
-NS3	Genome polyprotein [Cleaved into: Capsid protein C
-NS4	Ferrous iron transport protein B
+NS2	Viral Genome polyprotein
+NS3	Viral Genome polyprotein
+NS4	Viral Genome polyprotein
 NS.00478	Putative 4a-hydroxytetrahydrobiopterin dehydratase
 NS.00668	Putative methyltransferase
 NS.01516	Putative ABC transporter
