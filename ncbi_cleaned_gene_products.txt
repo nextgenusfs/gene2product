@@ -5607,22 +5607,22 @@ FABP7	Fatty acid-binding protein, brain
 FAC1	F-actin-capping protein subunit alpha
 FACE1	CAAX prenyl protease 1
 FAD1	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase
-FAD2	linoleoyl-CoA desaturase activity
+FAD2	Delta(12)-fatty-acid desaturase
 FAD3	fatty acid desaturase (DSD1)
 FAD12	Delta(12) fatty acid desaturase
-FAD12-1	delta-12 fatty acid desaturase protein
-FAD12-3	delta-12 fatty acid desaturase protein
-FAD12-5	delta-12 fatty acid desaturase protein
-FAD12_0	Delta(12) fatty acid desaturase
-FAD12_1	Delta(12) fatty acid desaturase
-FAD12_2	Delta(12) fatty acid desaturase
-FAD12_3	Delta(12) fatty acid desaturase
-FAD12_4	Delta(12) fatty acid desaturase
-FAD12_5	Delta(12) fatty acid desaturase
-FAD12_6	Delta(12) fatty acid desaturase
-FAD12_7	Delta(12) fatty acid desaturase
-FAD12_8	Delta(12) fatty acid desaturase
-FAD12_9	Delta(12) fatty acid desaturase
+FAD12-1	Delta(12)-fatty-acid desaturase
+FAD12-3	Delta(12)-fatty-acid desaturase
+FAD12-5	Delta(12)-fatty-acid desaturase
+FAD12_0	Delta(12)-fatty-acid desaturase
+FAD12_1	Delta(12)-fatty-acid desaturase
+FAD12_2	Delta(12)-fatty-acid desaturase
+FAD12_3	Delta(12)-fatty-acid desaturase
+FAD12_4	Delta(12)-fatty-acid desaturase
+FAD12_5	Delta(12)-fatty-acid desaturase
+FAD12_6	Delta(12)-fatty-acid desaturase
+FAD12_7	Delta(12)-fatty-acid desaturase
+FAD12_8	Delta(12)-fatty-acid desaturase
+FAD12_9	Delta(12)-fatty-acid desaturase
 FAD12_10	Delta(12) fatty acid dehydrogenase
 FADA2	3-ketoacyl-CoA thiolase
 FADA4	Probable acetyl-CoA acetyltransferase
