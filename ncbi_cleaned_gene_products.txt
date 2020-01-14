@@ -15452,7 +15452,7 @@ PPAPDC1A	phosphatidic acid phosphatase type
 PPCK1	Phosphoenolpyruvate carboxylase kinase 1
 PPCS	Phosphopantothenate--cysteine ligase
 PPD3	PsbP domain-containing protein 3, chloroplastic
-PPE1	Protein with carboxyl methyl esterase activity
+PPE1	Protein phosphatase methylesterase 1
 PPFIA1	Liprin-alpha-1
 PPFIA2	Liprin-alpha-2
 PPFIA3	Liprin-alpha-3
