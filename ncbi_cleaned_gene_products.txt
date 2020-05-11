@@ -1,4 +1,4 @@
-#version 1.57
+#version 1.58
 #Date 05-11-2020
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
@@ -14625,6 +14625,7 @@ NPS16	nonribosomal peptide synthetase
 NPS17	nonribosomal peptide synthetase
 NPS18	nonribosomal peptide synthetase
 NPS19	nonribosomal peptide synthetase
+NPSN11	Novel plant SNARE 11
 NPT1	nicotinate phosphoribosyltransferase
 NPTX1	Neuronal pentraxin-1
 NPTX2	Neuronal pentraxin-2
@@ -14651,6 +14652,7 @@ NRBP1	Nuclear receptor-binding protein
 NRBP2	Nuclear receptor-binding protein 2
 NRC2	serine/threonine protein kinase, AGC family
 NRD1	Nrd1 complex RNA-binding subunit
+NRD-1	Protein NRD1
 NRDE2	Protein NRDE2
 NRFG4	Formate-dependent nitrite reductase complex subunit NrfG
 NRG1	transcriptional repressor
@@ -14668,10 +14670,12 @@ NRP1A	Neuropilin-1a
 NRP2	NAP1-related protein 2
 NRPB2	DNA-directed RNA polymerase II subunit 2
 NRPB5A	DNA-directed RNA polymerases II and IV subunit 5A
+NRPB6A	DNA-directed RNA polymerases II, IV and V subunit 6A
 NRPB6B	DNA-directed RNA polymerases II and V subunit 6B
 NRPB9A	DNA-directed RNA polymerases II, IV and V subunit 9A
 NRPB10	DNA-directed RNA polymerases II, IV and V subunit 10
 NRPB10L	DNA-directed RNA polymerase subunit 10-like protein
+NRPC1	DNA-directed RNA polymerase III subunit 1
 NRPD1B	DNA-directed RNA polymerase V subunit 1
 NRPS2	Non-ribosomal peptide synthetase
 NRPS2_0	Nonribosomal peptide synthetase 2
@@ -15008,6 +15012,7 @@ OAF3	Oleate activated transcription factor 3
 OAH1	oxaloacetate acetylhydrolase
 OAR1	3-oxoacyl-[acyl-carrier-protein] reductase (NADPH)
 OARD1	ADP-ribose glycohydrolase OARD1
+OAZ1	Ornithine decarboxylase antizyme 1
 OAZ1A	Ornithine decarboxylase antizyme 1
 OAZ1B	Ornithine decarboxylase antizyme 2
 OAZ2	Ornithine decarboxylase antizyme 2
@@ -15029,6 +15034,7 @@ ODC1	Mitochondrial 2-oxoadipate and 2-oxoglutarate transporter
 ODC2	Mitochondrial 2-oxodicarboxylate carrier 2
 ODD1	oleate delta-12 desaturase
 ODE2	omega-6 fatty acid desaturase
+ODF3	Outer dense fiber protein 3
 ODF3B	Outer dense fiber protein 3B
 ODF3L2	Outer dense fiber protein 3-like protein 2
 OEP64_0	Outer envelope protein 64, chloroplastic
@@ -15067,13 +15073,16 @@ OMR1	Threonine dehydratase biosynthetic, chloroplastic
 ONECUT1	Hepatocyte nuclear factor 6
 ONECUT2	One cut domain member 2
 OPA1	Dynamin-like 120 kDa protein, mitochondrial
+OPA1-LIKE	Optic atrophy 1, isoform A
 OPA3	Optic atrophy 3 protein
 OPCL1	4-coumarate--CoA ligase-like 5
 OPHN1	Oligophrenin-1
 OPI1	transcriptional regulator OPI1
 OPI3	Phosphatidyl-N-methylethanolamine N-methyltransferase
+OPN4	Melanopsin
 OPN4A	Melanopsin-A
 OPN5	Opsin-5
+OPPA4	Oligopeptide ABC transport system substrate binding protein OppA4
 OPR1	12-oxophytodienoate reductase 1
 OPR1_0	12-oxophytodienoate reductase 1
 OPR1_1	12-oxophytodienoate reductase 1
@@ -15162,6 +15171,7 @@ OSH2	Oxysterol-binding family protein 1
 OSH3	Oxysterol-binding family protein 3
 OSH6	Oxysterol-binding family protein OBPa
 OSH7	Oxysterol-binding family protein 7
+OSHAP5C	Nuclear transcription factor Y subunit C-2
 OSKBETA1	Beta subunit 1 of SnRK1
 OSM1	Osmotic growth protein 1
 OSM2	Osmotic growth protein
@@ -15185,6 +15195,7 @@ OTU2	OTU family protein
 OTUB1	OTU domain, ubiquitin aldehyde binding
 OTUBL	Ubiquitin thioesterase otubain-like protein
 OTUD3	OTU domain-containing protein 3
+OTUD5	OTU domain-containing protein 5
 OTUD5A	OTU domain-containing protein 5-A
 OTUD6A	OTU domain-containing protein 6A
 OTUD6B	OTU domain-containing protein 6B
@@ -15288,6 +15299,7 @@ PABPC1	Polyadenylate-binding protein 1
 PABPC1L	Polyadenylate-binding protein 1-like
 PABPC3	Polyadenylate-binding protein 3
 PABPC4	Polyadenylate-binding protein 4
+PABPC4L	Polyadenylate-binding protein 4-like
 PABPN1	Polyadenylate-binding protein 2
 PABPN1L	Embryonic polyadenylate-binding protein 2-A
 PAC1	protein with possible role during mitosis
@@ -15307,12 +15319,14 @@ PACSIN1B	Protein kinase C and casein kinase substrate in neurons protein 1
 PACSIN2	Protein kinase C and casein kinase substrate in neurons protein 2
 PACTB	Acetyl-CoA acetyltransferase IB
 PAD1	phenylacrylic acid decarboxylase
+PAD4	Lipase-like PAD4
 PAE1	Proteasome subunit alpha type-5-A
 PAF1	RNA polymerase-associated factor
 PAFA1	Pup--protein ligase 1
 PAFA2401	Paf1 complex protein
 PAFA16201	RNA polymerase II-associated protein
 PAFAH1B1	Positively regulates the activity of the minus-end directed microtubule motor protein dynein
+PAFAH1B1B	Lissencephaly-1 homolog B
 PAFAH1B3	Platelet-activating factor acetylhydrolase IB subunit gamma
 PAFB16201	RNA polymerase II-associated protein
 PAFC2101	RNA polymerase II-associated protein
@@ -15495,6 +15509,7 @@ PCDP1	Cilia- and flagella-associated protein 221
 PCF11	mRNA 3' end processing factor
 PCGF1	Polycomb group RING finger protein 1
 PCGF3	Polycomb group RING finger protein 3
+PCGF5	Polycomb group RING finger protein 5
 PCGF5A	Polycomb group RING finger protein 5-A
 PCGF6	Polycomb group RING finger protein 6
 PCH2	nucleolar component of the pachytene checkpoint
@@ -15504,6 +15519,7 @@ PCID2	PCI domain-containing protein 2
 PCIF1	mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase
 PCK1_0	Phosphoenolpyruvate carboxykinase [ATP]
 PCK1_1	Phosphoenolpyruvate carboxykinase [ATP]
+PCKA2	Phosphoenolpyruvate carboxykinase
 PCKR1	Peptidyl-prolyl cis-trans isomerase
 PCL1	PHO85 cyclin-1
 PCL1_0	PHO85 cyclin-1
@@ -15595,6 +15611,7 @@ PDE2	3',5'-cyclic-nucleotide phosphodiesterase
 PDE2A	cGMP-dependent 3',5'-cyclic phosphodiesterase
 PDE3	cGMP-specific 3',5'-cGMP phosphodiesterase 3
 PDE3A	cGMP-inhibited 3',5'-cyclic phosphodiesterase A
+PDE3B	cGMP-inhibited 3',5'-cyclic phosphodiesterase B
 PDE4A	cAMP-specific 3',5'-cyclic phosphodiesterase 4A
 PDE4B	cAMP-specific 3',5'-cyclic phosphodiesterase 4B
 PDE4C	cAMP-specific 3',5'-cyclic phosphodiesterase 4C
@@ -15613,6 +15630,7 @@ PDE8B	High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiest
 PDE9A	High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 9A
 PDE10A	cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A
 PDE11A	Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A
+PDE-4	Probable 3',5'-cyclic phosphodiesterase pde-4
 PDF1A	Peptide deformylase 1A, chloroplastic/mitochondrial
 PDH1	ATP-binding cassette transporter CGR1
 PDH2	Pyruvate dehydrogenase E1 component subunit beta-1, mitochondrial
@@ -15679,6 +15697,7 @@ PDZ1	Putative signaling-associated PDZ domain-containing protein
 PDZD4	PDZ domain-containing protein 4
 PDZD8	PDZ domain-containing protein 8
 PDZD11	PDZ domain-containing protein 11
+PDZRN3	E3 ubiquitin-protein ligase PDZRN3
 PDZRN3B	E3 ubiquitin-protein ligase PDZRN3-B
 PDZRN4	PDZ domain-containing RING finger protein 4
 PEA1	Phosphatidylinositol-4-phosphate 5-kinase and related FYVE finger-containing proteins
@@ -15881,6 +15900,7 @@ PH2M_1	Phenol 2-monooxygenase
 PH2M_2	Phenol 2-monooxygenase
 PHA2	prephenate dehydratase
 PHAB2	3-oxoacyl-ACP reductase
+PHACTR4	Phosphatase and actin regulator 4
 PHB1	Prohibitin-1, subunit of the prohibitin complex (Phb1p-Phb2p)
 PHB1_0	Prohibitin-1, subunit of the prohibitin complex (Phb1p-Phb2p)
 PHB1_1	Prohibitin-1, subunit of the prohibitin complex (Phb1p-Phb2p)
@@ -16001,6 +16021,7 @@ PHO113	acid phosphatase
 PHOA	Phosphate-repressible acid phosphatase
 PHOP2	Pyridoxal phosphate phosphatase PHOSPHO2
 PHOSPHO1	Probable phosphatase phospho1
+PHOSPHO2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
 PHOT2	Phototropin-2
 PHOX2A	Paired mesoderm homeobox protein 2A
 PHOX2B	Paired mesoderm homeobox protein 2B
@@ -16021,6 +16042,7 @@ PI4KA	Phosphatidylinositol 4-kinase alpha
 PI4KB	Phosphatidylinositol 4-kinase beta
 PI15	Peptidase inhibitor 15
 PI15A	Peptidase inhibitor 15-A
+PI16	Peptidase inhibitor 16
 PIA1	Serine proteinase inhibitor IA-1
 PIA2	Serine proteinase inhibitor IA-2
 PIAS1	E3 SUMO-protein ligase pias1
@@ -16077,6 +16099,7 @@ PILY1-1	Type IV pilus biogenesis factor PilY1 homolog PD_1611
 PIM1	ATP-dependent Lon protease PIM1
 PIM1-1	ATP-dependent Lon protease
 PIM1-2	ATP-dependent Lon protease
+PIM2	Serine/threonine-protein kinase pim-2
 PIM3	Serine/threonine-protein kinase pim-3
 PIN1	Peptidyl-prolyl cis-trans isomerase NIMA-interacting protein 1
 PIN1AT	Peptidyl-prolyl cis-trans isomerase Pin1
@@ -16145,6 +16168,7 @@ PKHD1L1	Fibrocystin-L
 PKMYT1	Protein kinase, membrane associated tyrosine threonine 1
 PKN1	Serine/threonine-protein kinase N1
 PKN2	Serine/threonine-protein kinase N2
+PKN5	Serine/threonine-protein kinase pkn5
 PKN32	Putative serine/threonine protein kinase
 PKNOX1	Homeobox protein pknox1
 PKNOX1_0	Homeobox protein PKNOX1
@@ -16179,12 +16203,14 @@ PLA1	Phospholipase A I
 PLA1A	Phospholipase A1 member A
 PLA2G1B	Phospholipase A2, major isoenzyme
 PLA2G4A	Cytosolic phospholipase A2
+PLA2G4B	Cytosolic phospholipase A2 beta
 PLA2G4D	Cytosolic phospholipase A2 delta
 PLA2G4F	Cytosolic phospholipase A2 zeta
 PLA2G6	85/88 kDa calcium-independent phospholipase A2
 PLA2G7	Platelet-activating factor acetylhydrolase
 PLAA	Phospholipase A-2-activating protein
 PLAG1	Zinc finger protein PLAG1
+PLAGL1	Zinc finger protein PLAGL1
 PLAGL2	Zinc finger protein PLAGL2
 PLB	lysophospholipase
 PLB1	Lysophospholipase 1
@@ -16235,6 +16261,7 @@ PLEKHG1_0	Pleckstrin y domain-containing family G member 1
 PLEKHG1_1	Pleckstrin y domain-containing family G member 1
 PLEKHG2	Pleckstrin y domain-containing family G member 2
 PLEKHG3	Pleckstrin homology domain-containing family G member 3
+PLEKHG7	Prolactin receptor
 PLEKHH1	Pleckstrin y domain-containing H member 1
 PLEKHH2	Pleckstrin homology domain-containing family H member 2
 PLEKHJ1	Pleckstrin y domain-containing J member 1
@@ -16341,6 +16368,7 @@ PNO1	pre-rRNA-processing protein PNO1
 PNP	Purine nucleoside phosphorylase
 PNP1	Purine nucleoside phosphorylase
 PNPLA1	Patatin-like phospholipase domain-containing protein 1
+PNPLA2	Patatin-like phospholipase domain-containing protein 2
 PNPLA3	1-acylglycerol-3-phosphate O-acyltransferase PNPLA3
 PNPLA4	Patatin-like phospholipase domain-containing protein 4
 PNPLA6	Neuropathy target esterase
@@ -16400,6 +16428,7 @@ POLR1A	DNA-directed RNA polymerase I subunit RPA1
 POLR1B	DNA-directed RNA polymerase I subunit RPA2
 POLR1C	DNA-directed RNA polymerases I and III subunit RPAC1
 POLR1D	DNA-directed RNA polymerases I and III subunit RPAC2
+POLR1E	DNA-directed RNA polymerase I subunit RPA49
 POLR2A	DNA-directed RNA polymerase II subunit RPB1
 POLR2B	DNA-directed RNA polymerase II subunit RPB2
 POLR2C	DNA-directed RNA polymerase II subunit RPB3
@@ -16609,8 +16638,10 @@ PP7435_Chr4-0930	Putative esterase YMR210W
 PP7435_Chr4-1013	Putative flocculin
 PPA1	V-ATPase V0 sector subunit c''
 PPA2	inorganic pyrophosphatase
+PPAP2B	Phospholipid phosphatase 3
 PPAPDC1A	phosphatidic acid phosphatase type
 PPCK1	Phosphoenolpyruvate carboxylase kinase 1
+PPCK4	Phosphoenolpyruvate carboxylase kinase 4
 PPCS	Phosphopantothenate--cysteine ligase
 PPD3	PsbP domain-containing protein 3, chloroplastic
 PPE1	Protein phosphatase methylesterase 1
@@ -16647,6 +16678,7 @@ PPM1A	Protein phosphatase 1A
 PPM1B	Protein phosphatase 1B
 PPM1D	Protein phosphatase 1D
 PPM1E	Protein phosphatase 1E
+PPM1F	Protein phosphatase 1F
 PPM1G	Protein phosphatase 1G
 PPM1H	Protein phosphatase 1H
 PPM1K	Protein phosphatase 1K, mitochondrial
@@ -16658,6 +16690,7 @@ PPN1_0	Endopolyphosphatase
 PPN1_1	Endopolyphosphatase
 PPN1_2	Endopolyphosphatase
 PPO1	Polyphenol oxidase 1
+PPO2	Phenoloxidase 2
 PPOX	Protoporphyrinogen oxidase
 PPOX2	Pyridoxine/pyridoxamine 5'-phosphate oxidase 2
 PPP1CA	Serine/threonine-protein phosphatase PP1-alpha catalytic subunit
@@ -16782,6 +16815,7 @@ PRI1	p48 polypeptide of DNA primase
 PRI2	DNA primase subunit PRI2
 PRI3	pri3a-like protein
 PRICKLE1	Prickle-like protein 1
+PRICKLE2	Prickle-like protein 2
 PRIM1	primase, DNA, polypeptide 1 (49kDa)
 PRIM2	DNA primase large subunit
 PRIMO-1	Low molecular weight phosphotyrosine protein phosphatase 1
@@ -16831,6 +16865,7 @@ PRM10-2	Pheromone-regulated membrane protein
 PRM15	phosphoribomutase PRM15
 PRMT1	Protein arginine N-methyltransferase 1
 PRMT1A	Protein arginine N-methyltransferase 1-A
+PRMT1B	Protein arginine N-methyltransferase 1-B
 PRMT3	Protein arginine N-methyltransferase 3
 PRMT7	Protein arginine N-methyltransferase 7
 PRMT8	Protein arginine N-methyltransferase 8
@@ -17072,6 +17107,7 @@ PSSA2	tRNA1(Val)
 PST1	protoplasts-secreted
 PST2	flavodoxin-like fold family protein
 PST3	flavodoxin-like fold family protein
+PSTB3	Phosphate import ATP-binding protein PstB 3
 PSTPIP1	proline-serine-threonine phosphatase interacting protein
 PSTPIP2	Proline-serine-threonine phosphatase-interacting protein 2
 PSTS1	Phosphate-binding protein PstS 1
@@ -17563,6 +17599,7 @@ RAB23	Ras- protein Rab-23
 RAB24	Ras- protein Rab-24
 RAB25	Ras- protein Rab-25
 RAB26	Ras- protein Rab-26
+RAB27A	Ras-related protein Rab-27A
 RAB27B	Ras- protein Rab-27B
 RAB28	Ras- protein Rab-28
 RAB30	Ras- protein Rab-30
@@ -17572,6 +17609,7 @@ RAB33A	Ras- protein Rab-33A
 RAB33B	Ras- protein Rab-33B
 RAB34	Ras- protein Rab-34
 RAB35	Ras- protein Rab-35
+RAB36	Ras-related protein Rab-36
 RAB37	Ras- protein Rab-37
 RAB38	Ras- protein Rab-38
 RAB39	Ras-related protein Rab-39A
@@ -17579,6 +17617,7 @@ RAB39A	Ras- protein Rab-39A
 RAB39B	Ras- protein Rab-39B
 RAB40B	Ras- protein Rab-40B
 RAB40C	Ras- protein Rab-40C
+RAB42	Ras-related protein Rab-42
 RAB-37	Ras-related protein Rab-37
 RABA1A	Ras-related protein RABA1a
 RABA1B	Ras-related protein RABA1b
@@ -17715,6 +17754,7 @@ RAS3	Ras-like protein 3
 RASA1	Ras GTPase-activating protein 1
 RASA2	Ras GTPase-activating protein 2
 RASA3	Ras GTPase-activating protein 3
+RASA4	Ras GTPase-activating protein 4
 RASAL1	RasGAP-activating-like protein 1
 RASAL2	Ras GTPase-activating protein nGAP
 RASAL3	RAS protein activator like-3
@@ -17815,6 +17855,7 @@ RBV1	RUVB-like protein
 RBX1A	RING-box protein 1a
 RC24	Chitinase 1
 RCA1	AFG3 family protein
+RCAN1	Calcipressin-1
 RCAN3	Calcipressin-3
 RCBTB1	RCC1 and BTB domain-containing protein 1
 RCBTB2	RCC1 and BTB domain-containing protein 2
@@ -17961,6 +18002,8 @@ RGD2	GTPase-activating protein
 RGI1	Respiratory growth induced protein 1
 RGL1	Ral guanine nucleotide dissociation stimulator-like 1
 RGL2	DELLA protein RGL2
+RGL3	DELLA protein RGL3
+RGL11A	Rhamnogalacturonan lyase, rgl11A
 RGLG4	E3 ubiquitin-protein ligase rglg4
 RGN	Regucalcin
 RGP1	Golgi membrane exchange factor (Ric1p-Rgp1p) subunit
@@ -17988,6 +18031,7 @@ RGS-4	Regulator of G-protein signaling
 RGT1	Glucose-responsive transcription factor
 RGT2	High-affinity glucose transporter RGT2
 RGTB1	Geranylgeranyl transferase type-2 subunit beta 1
+RH3	DEAD-box ATP-dependent RNA helicase 3, chloroplastic
 RH5	Opsin Rh5
 RH15	DEAD-box ATP-dependent RNA helicase 15
 RH24	DEAD-box ATP-dependent RNA helicase 24
@@ -18048,7 +18092,9 @@ RIB5	Riboflavin synthase alpha chain
 RIB6	DRAP deaminase and pseudouridylate synthase
 RIB7	2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase
 RIBA1	Bifunctional riboflavin biosynthesis protein RIBA 1, chloroplastic
+RIBC1	RIB43A-like with coiled-coils protein 1
 RIBC2	Protein Tax-1
+RIBD2	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
 RIBO_T2	trascription factor NusA alpha-helical
 RIBOc	Ribonuclease 3
 RIC1	WD40 repeat protein
@@ -18208,6 +18254,7 @@ RNF4	E3 ubiquitin-protein ligase RNF4
 RNF5	E3 ubiquitin-protein ligase rnf5
 RNF6	E3 ubiquitin-protein ligase RNF6
 RNF7	RING-box protein 2
+RNF8	E3 ubiquitin-protein ligase RNF8
 RNF10	RING finger protein 10
 RNF11	RING finger protein 11
 RNF13	E3 ubiquitin-protein ligase RNF13
@@ -18289,7 +18336,9 @@ ROG3	revertant of glycogen synthase kinase mutation
 ROK1	RNA-dependent ATPase ROK1
 ROM1	Rho1-Guanine Exchange Factor-like protein
 ROM2	RHO1 GDP-GTP exchange protein 2
+ROMO1	Reactive oxygen species modulator 1
 ROP100	Methanol-and biotin-starvation-inducible zinc finger protein
+ROPN1	Ropporin-1A
 ROPN1L	Ropporin-1-like protein
 ROR1	Inactive tyrosine-protein kinase transmembrane receptor ror1
 ROR2	Tyrosine-protein kinase transmembrane receptor ror2
@@ -18537,7 +18586,10 @@ RPL42B	60S ribosomal protein L42B
 RPL43	60S ribosomal protein L43
 RPL43A	60S ribosomal protein L43A
 RPL43B	60S ribosomal protein L43B
+RPL-9	60S ribosomal protein L9
+RPL-31	60S ribosomal protein L31
 RPL-35	60S ribosomal protein L35a
+RPLK1	50S ribosomal protein L11-1
 RPLP0	60S acidic ribosomal protein P0
 RPLP1	60S acidic ribosomal protein P1
 RPLP2	60S acidic ribosomal protein P2
@@ -18879,6 +18931,7 @@ RSM27	mitochondral 37S ribosomal protein S27
 RSM28	37S ribosomal protein RSM28
 RSP3	40S ribosomal protein S1
 RSP5	NEDD4 family E3 ubiquitin-protein ligase
+RSP6	Probable splicing factor, arginine/serine-rich 6
 RSP14	40S ribosomal protein S14-B (RP59B)
 RSP27	Ubiquitin/40S ribosomal protein S27a fusion
 RSP-3	Radial spoke head protein 3 homolog
@@ -19199,6 +19252,7 @@ SAMM50	sorting and assembly machinery component 50
 SAMM50A	Sorting and assembly machinery component 50 A
 SAN1	Ubiquitin-protein ligase
 SAP	SAP peptidase
+SAP3	Candidapepsin-3
 SAP4	sit4 associated protein
 SAP7	Candidapepsin-7
 SAP7_0	Candidapepsin-7
@@ -19223,6 +19277,7 @@ SAS3	Histone acetyltransferase
 SAS4	SAS complex subunit
 SAS5	SAS complex subunit
 SAS10	something about silencing protein 10
+SAS-6	Spindle assembly abnormal protein 6 homolog
 SASB	Fatty acyl-CoA hydrolase precursor, medium chain
 SASS6	Spindle assembly abnormal protein 6 homolog
 SAT1	Diamine acetyltransferase 1
@@ -19235,6 +19290,7 @@ SAT14	Putative O-acetyltransferase sat14
 SATB2	DNA-binding protein satb2
 SAW1	DNA-binding protein SAW1
 SAY1	Steryl acetyl hydrolase 1
+SAYSD1	SAYSvFN domain-containing protein 1
 SB62	60S ribosomal protein L15-2
 SBA1	co-chaperone
 SBCC3	Nuclease SbcCD subunit C
@@ -19298,6 +19354,7 @@ SCLT1	Sodium channel and clathrin linker 1
 SCM3	Suppressor of chromosome missegregation protein 3
 SCM4	Suppressor of cdc4 mutation
 SCN2A	Sodium channel protein type 2 subunit alpha
+SCN4A	Sodium channel protein type 4 subunit alpha
 SCN4AA	Sodium channel protein type 4 subunit alpha A
 SCN4AB	Sodium channel protein type 4 subunit alpha B
 SCN5A	Sodium channel protein type 5 subunit alpha
@@ -19315,7 +19372,9 @@ SCP7	serine carboxypeptidase
 SCPA	Carboxypeptidase S1 A
 SCPB	Carboxypeptidase S1 B
 SCPEP1	Retinoid-inducible serine carboxypeptidase
+SCPL1	CTD small phosphatase-like protein 1
 SCPL21	Serine carboxypeptidase-like 21
+SCRAL1	AGAP004118-PA
 SCRASP2	AGAP006631-PA
 SCRN2	Secernin-2
 SCRN3	Secernin-3
@@ -19477,6 +19536,8 @@ SEC71	Protein transport protein sec71
 SEC72	Sec63 complex subunit
 SEC-6	Exocyst complex component SEC6
 SECA2	Protein translocase subunit SECA2, chloroplastic
+SECISBP2	Selenocysteine insertion sequence-binding protein 2
+SECISBP2L	Selenocysteine insertion sequence-binding protein 2-like
 SED1_0	Tripeptidyl-peptidase SED1
 SED1_1	Tripeptidyl-peptidase SED1
 SED1_2	Tripeptidyl-peptidase SED1
@@ -19527,6 +19588,7 @@ SEO2	Suppressor of Sulfoxyde Ethionine resistance
 SEO3	Suppressor of Sulfoxyde Ethionine resistance
 SEP2	Septin-6
 SEP7	septin
+SEPHS1	Selenide, water dikinase 1
 SEPR	Extracellular serine proteinase
 SEPR_0	Extracellular serine proteinase
 SEPR_1	Extracellular serine proteinase
@@ -19588,6 +19650,7 @@ SETD6	N-lysine methyltransferase SETD6
 SETD7	Histone-lysine N-methyltransferase SETD7
 SETD9	SET domain-containing protein 9
 SETDB1B	Histone-lysine N-methyltransferase SETDB1-B
+SETDB2	Histone-lysine N-methyltransferase SETDB2
 SEY1	Dynamin-like GTPase that mediates homotypic ER fusion
 SEY1_0	Dynamin-like GTPase that mediates homotypic ER fusion
 SEY1_1	Dynamin-like GTPase that mediates homotypic ER fusion
@@ -19684,6 +19747,9 @@ SH3KBP1	SH3-domain kinase binding protein 1
 SH3KBP1_0	SH3 domain-containing kinase-binding protein 1
 SH3KBP1_1	SH3 domain-containing kinase-binding protein 1
 SH3PXD2B	SH3 and PX domain-containing protein 2B
+SH3RF1	E3 ubiquitin-protein ligase SH3RF1
+SH3RF2	E3 ubiquitin-protein ligase SH3RF2
+SH3RF3	E3 ubiquitin-protein ligase SH3RF3
 SH3YL1	SH3 domain-containing YSC84-like protein 1
 SHANK2	SH3 and multiple ankyrin repeat domains protein 2
 SHANK3	SH3 and multiple ankyrin repeat domains protein 3
@@ -19825,6 +19891,7 @@ SLA1	cytoskeletal protein binding protein
 SLA2	SLA2 Src-like adaptor 2
 SLA2-1	Adaptor protein that links actin to clathrin and endocytosis
 SLA2-2	Adaptor protein that links actin to clathrin and endocytosis
+SLBP2	Oocyte-specific histone RNA stem-loop-binding protein 2
 SLC1	1-acylglycerol-3-phosphate O-acyltransferase
 SLC1A1	Excitatory amino acid transporter 3
 SLC1A2	Excitatory amino acid transporter 2
@@ -20018,11 +20085,13 @@ SMDT1	Essential MCU regulator, mitochondrial
 SME1	mRNA splicing protein SME1
 SMEK1	Serine/threonine-protein phosphatase 4 regulatory subunit 3
 SMEK2	SMEK 2, suppressor of mek1 (Dictyostelium)
+SMEU1	Outer membrane efflux protein
 SMEU2	Putative short-chain dehydrogenase/reductase
 SMF1	Manganese transporter SMF1
 SMF2	Manganese transporter SMF2
 SMF12	divalent metal ion transporter
 SMG1	Serine/threonine-protein kinase SMG1
+SMG5	Protein SMG5
 SMG6	Smg-6, nonsense mediated mRNA decay factor
 SMG7	Protein SMG7
 SMG8	Protein SMG8
@@ -20042,6 +20111,7 @@ SMIM36	Small integral membrane protein 36
 SMK1	mitogen-activated protein kinase SMK1
 SML1	ribonucleotide reductase inhibiting protein SML1
 SMM1	tRNA-dihydrouridine synthase 2
+SMO2-2	Methylsterol monooxygenase 2-2
 SMOC1	SPARC- modular calcium-binding protein 1
 SMOC2	SPARC- modular calcium-binding protein 2
 SMOK2A	Sperm motility kinase 2A
@@ -20165,6 +20235,7 @@ SNX5	Sorting nexin-5
 SNX6	Sorting nexin-6
 SNX7	Sorting nexin-7
 SNX8	sorting nexin
+SNX9	Sorting nexin-9
 SNX10A	Sorting nexin-10A
 SNX10B	Sorting nexin-10B
 SNX13	sorting nexin 13
@@ -20187,6 +20258,7 @@ SNZ1	Pyridoxal 5'-phosphate synthase subunit SNZ1
 SNZ2	Putative pyridoxal 5'-phosphate synthase subunit SNZ2
 SNZ3	Putative pyridoxal 5'-phosphate synthase subunit SNZ3
 SNZ5	Putative pyridoxal 5'-phosphate synthase subunit SNZ5
+SOAT1	Sterol O-acyltransferase 1
 SOCS6	Suppressor of cytokine signaling 6
 SOD	Superoxide dismutase [Mn], mitochondrial
 SOD1	Superoxide dismutase [Cu-Zn]
@@ -20347,6 +20419,7 @@ SPCC576.05	SAC3 family protein 1
 SPCC970.06	Surfeit locus protein 4
 SPCS1	Signal peptidase complex subunit 1
 SPCS3	Signal peptidase complex subunit 3
+SPDL1	Protein Spindly
 SPE1	Ornithine decarboxylase
 SPE2	spermidine resistance protein
 SPE3	putrescine aminopropyltransferase
@@ -20370,6 +20443,7 @@ SPH1	Sphingosine kinase
 SPH2	Sphingosine kinase
 SPHK1	Sphingosine kinase 1
 SPHK2	Sphingosine kinase 2
+SPHK-1	Sphingosine kinase 1
 SPI1	GPI-anchored
 SPI1.1	cytochrome c heme-binding site
 SPI1.2	repeat protein 2
@@ -20412,6 +20486,7 @@ SPOCK1	Testican-1
 SPOCK2	Testican-2
 SPON1	Spondin-1
 SPON2	Spondin-2
+SPOU2	Ribosomal RNA large subunit methyltransferase H
 SPOUT1	Putative methyltransferase C9orf114
 SPP1	COMPASS (complex proteins associated with Set1p) component
 SPP2	Pre-mRNA-splicing factor SPP2
@@ -20495,7 +20570,9 @@ SR4	Spherulin-4
 SR4_0	Spherulin-4
 SR4_1	Spherulin-4
 SR30	Serine/arginine-rich splicing factor SR30
+SR45	Serine/arginine-rich splicing factor SR45
 SR45A	Serine/arginine-rich splicing factor SR45a
+SRA-1	Cytoplasmic FMR1-interacting protein 1
 SRB1	mannose-1-phosphate guanylyltransferase
 SRB2	mediator of RNA polymerase II transcription subunit
 SRB4	RNA polymerase II mediator complex subunit
@@ -20828,6 +20905,7 @@ STXBP5L	Syntaxin-binding protein 5-like
 STXBP6	Syntaxin-binding protein 6
 STY2942	Putative glycoporin
 STYX	Serine/threonine/tyrosine-interacting protein
+STYXL1	Serine/threonine/tyrosine-interacting-like protein 1
 SU2	Eukaryotic peptide chain release factor subunit 1
 SU(VAR)3-3	Possible lysine-specific histone demethylase 1
 SU(VAR)3-9	   Histone H3-K9 methyltransferase KMT1
@@ -20900,6 +20978,7 @@ SUP35_0	Eukaryotic peptide chain release factor GTP-binding subunit
 SUP35_1	Eukaryotic peptide chain release factor GTP-binding subunit
 SUP35_2	Eukaryotic peptide chain release factor GTP-binding subunit
 SUP45	Polypeptide release factor (eRF1) in translation termination
+SUPT3H	Transcription initiation protein SPT3 homolog
 SUPT5H	Transcription elongation factor SPT5
 SUPT6H	Transcription elongation factor SPT6
 SUPT16H	FACT complex subunit SPT16
@@ -20914,6 +20993,7 @@ SURF2	Surfeit locus protein 2
 SURF4	Surfeit locus protein 4
 SURF6	surfeit locus protein
 SUS1	SAGA histone acetylase and TREX-2 complexes component
+SUSD2	Protein GPR15L
 SUT1	general substrate transporter
 SUT2	sugar transporter
 SUT3	Sugar UpTake (tentative)
@@ -20997,12 +21077,14 @@ SYNE1	Nesprin-1
 SYNE2	Nesprin-2
 SYNGAP1	Ras/Rap GTPase-activating protein SynGAP
 SYNGR1	Synaptogyrin-1
+SYNGR2	Synaptogyrin-2
 SYNGR3	Synaptogyrin-3
 SYNJ1	Synaptojanin-1
 SYNJ2	Synaptojanin-2
 SYNTAXIN-5	Syntaxin-5
 SYO1	Transport adaptor or symportin
 SYP1	Suppressor of Yeast Profilin deletion
+SYP8	Qa-SNARE, SYP8/Ufe1p/Syntaxin 18-type
 SYP22_0	Syntaxin-22
 SYP22_1	Syntaxin-22
 SYP51	Syntaxin-51
@@ -21023,6 +21105,7 @@ SYT5_1	Synaptotagmin-5
 SYT6	Synaptotagmin-6
 SYT7	Synaptotagmin-7
 SYT9	Synaptotagmin-9
+SYT10	Synaptotagmin-10
 SYT12	Synaptotagmin-12
 SYT17	Synaptotagmin-17
 SYTC	Threonyl-tRNA synthetase, cytoplasmic
@@ -21224,6 +21307,8 @@ T2EB	Transcription initiation factor IIE subunit beta
 T2FB	General transcription factor IIF subunit 2
 T111	Putative transcription initiation factor TFIID 111 kDa subunit
 T167A	transmembrane protein 167A
+TAAR8	Trace amine-associated receptor 8
+TAAR9	Trace amine-associated receptor 9
 TAB1	PHOsphatase
 TAC1	glycoside hydrolase family 18 protein
 TAC2	glycoside hydrolase family 18 protein
@@ -21238,6 +21323,7 @@ TACC2	Transforming acidic coiled-coil-containing protein 2
 TACC3	Transforming acidic coiled-coil-containing protein 3
 TACO1	Translational activator of mitochondrially encoded cytochrome c oxidase I
 TACR1	Substance-P receptor
+TACR2	Substance-K receptor
 TACR3	Neuromedin-K receptor
 TAD1	tRNA-specific adenosine deaminase 1
 TAD2	tRNA(adenine34) deaminase
@@ -21258,6 +21344,7 @@ TAF4B	Transcription initiation factor TFIID subunit 4B
 TAF5	Transcription initiation factor TFIID subunit 5
 TAF6	Transcription initiation factor TFIID subunit 6
 TAF7	transcription initiation factor TFIID subunit 7
+TAF7L	Transcription initiation factor TFIID subunit 7-like
 TAF8	transcription initiation factor TFIID subunit 8
 TAF9	Transcription initiation factor TFIID subunit 9
 TAF9B	Transcription initiation factor TFIID subunit 9B
@@ -21300,6 +21387,7 @@ TAOK1B	Serine/threonine-protein kinase TAO1-B
 TAOK3	Serine/threonine-protein kinase TAO3
 TAP42	Type 2A phosphatase-associated protein 42
 TAPT1	Transmembrane anterior posterior transformation protein 1
+TAR1A	Protein TAR1
 TARBP1	Tar (HIV-1) RNA binding protein 1
 TARBP2	RISC-loading complex subunit tarbp2
 TARS1	Threonine--tRNA ligase 1, cytoplasmic
@@ -21312,6 +21400,7 @@ TAT1	amino acid transporter TAT1
 TAT2	aromatic amino acid transmembrane transporter TAT2
 TATD1	Putative deoxyribonuclease TATDN1
 TATDN1	TatD DNase
+TATDN2	Putative deoxyribonuclease TATDN2
 TATDN3	Putative deoxyribonuclease tatdn3
 TAUB2	Taurine import ATP-binding protein TauB 2
 TAX1BP1B	Tax1-binding protein 1 B
@@ -21326,6 +21415,7 @@ TBB1	Tubulin beta-1 chain
 TBB2	Tubulin beta-2 chain
 TBB4	Tubulin beta-4 chain
 TBB-4	Tubulin beta-4 chain
+TBC1D2	TBC1 domain family member 2A
 TBC1D3B	TBC1 domain family member 3B
 TBC1D4	TBC1 domain member 4
 TBC1D5	TBC1 domain, member 5
@@ -21428,6 +21518,7 @@ TCO7	Fph type histidine kinase
 TCO89	target of rapamycin complex 1 subunit TCO89
 TCP1	Alpha subunit of chaperonin-containing T-complex
 TCP1-eta	T-complex protein 1
+TCP10B	T-complex protein 10a
 TCP11	T-complex protein 11 homolog
 TCP11L1	T-complex protein 11-like protein 1
 TCPA	T-complex protein 1 subunit alpha
@@ -21447,6 +21538,7 @@ TCTEX1D1A	Tctex1 domain-containing protein 1-A
 TCTEX1D2	Tctex1 domain-containing protein 2
 TCTEX2B	Flagellar inner arm dynein light chain
 TCTN1	Tectonic-1
+TCTN2	Tectonic-2
 TCTN3	Tectonic-3
 TD1	Threonine dehydratase 1 biosynthetic, chloroplastic
 TDA1	protein kinase TDA1
@@ -21496,6 +21588,7 @@ TENT5C	Terminal nucleotidyltransferase 5C
 TEP1	Telomerase protein component 1
 TER94	Transitional endoplasmic reticulum ATPase TER94
 TERA	Transitional endoplasmic reticulum ATPase TER94
+TERF2IP	Telomeric repeat-binding factor 2-interacting protein 1
 TES1	acyl-CoA thioesterase
 TESB	Acyl-CoA thioesterase 2
 TESK2	Dual specificity testis-specific protein kinase 2
@@ -21692,6 +21785,7 @@ TIM44	protein translocase subunit
 TIM50	mitochondrial inner membrane protein required for protein import
 TIM54	mitochondrial import inner membrane translocase subunit TIM54
 TIMM8A	Mitochondrial import inner membrane translocase subunit Tim8 A
+TIMM8B	Mitochondrial import inner membrane translocase subunit Tim8 B
 TIMM9	Mitochondrial import inner membrane translocase subunit Tim9
 TIMM10	Mitochondrial import inner membrane translocase subunit Tim10
 TIMM13	Mitochondrial import inner membrane translocase subunit Tim13
@@ -21754,6 +21848,7 @@ TLX3	T-cell leukemia homeobox protein 3
 TM2D2	TM2 domain-containing protein 2
 TM2D3	TM2 domain-containing protein 3
 TM4SF4	Transmembrane 4 L6 member 4
+TM6SF1	Transmembrane 6 superfamily member 1
 TM7SF2	Delta(14)-sterol reductase
 TM7SF3	Transmembrane 7 superfamily member 3
 TM9SF1	Transmembrane 9 super member 1
@@ -21777,6 +21872,8 @@ TMC1	AN1-type zinc finger protein TMC1
 TMC2A	Transmembrane channel-like protein 2-A
 TMC2B	Transmembrane channel-like protein 2-B
 TMC3	Transmembrane channel-like protein 3
+TMC4	Transmembrane channel-like protein 4
+TMC5	Transmembrane channel-like protein 5
 TMCC1	Transmembrane and coiled-coil domains protein 1
 TMCO1	Calcium load-activated calcium channel
 TMCO3	Transmembrane and coiled-coil domains-containing protein 3
@@ -21792,6 +21889,7 @@ TMED7	Transmembrane emp24 domain-containing protein 7
 TMED9	Transmembrane emp24 domain-containing protein 9
 TMED10	Transmembrane emp24 domain-containing protein 10
 TMEFF2	Tomoregulin-2
+TMEM2	Cell surface hyaluronidase
 TMEM8B	Transmembrane protein 8B
 TMEM9B	Transmembrane protein 9B
 TMEM11	Transmembrane protein 11, mitochondrial
@@ -21829,6 +21927,7 @@ TMEM68	Transmembrane protein 68
 TMEM69	Transmembrane protein 69
 TMEM80	Transmembrane protein 80
 TMEM86A	Lysoplasmalogenase-like protein tmem86a
+TMEM86B	Lysoplasmalogenase
 TMEM87A	Transmembrane protein 87A
 TMEM94	Transmembrane protein 94
 TMEM98	Transmembrane protein 98
@@ -21912,6 +22011,7 @@ TOK1	Potassium channel
 TOK1_0	Outward-rectifier potassium channel TOK1
 TOK1_1	Outward-rectifier potassium channel TOK1
 TOM1	E3 ubiquitin-protein ligase TOM1
+TOM1L1	TOM1-like protein 1
 TOM1L2	TOM1-like protein 2
 TOM5	translocase of the outer membrane
 TOM6	protein translocation complex component
@@ -22096,6 +22196,7 @@ TRIM26	Tripartite motif-containing protein 26
 TRIM36	E3 ubiquitin-protein ligase trim36
 TRIM37	Tripartite motif containing 37
 TRIM38	E3 ubiquitin-protein ligase TRIM38
+TRIM45	Tripartite motif-containing protein 45
 TRIM55	Tripartite motif-containing protein 55
 TRIM62	E3 ubiquitin-protein ligase trim62
 TRIM65	Tripartite motif-containing protein 65
@@ -22174,6 +22275,7 @@ TRP-1_0	Tryptophan synthase
 TRP-1_1	Tryptophan synthase
 TRPA1	Transient receptor potential cation channel subfamily A member 1
 TRPB1	Tryptophan synthase beta chain 1
+TRPB2	Tryptophan synthase beta chain 2
 TRPC	Multifunctional tryptophan biosynthesis protein
 TRPC1	Short transient receptor putative channel 1
 TRPC2	Short transient receptor putative channel 2
@@ -22188,6 +22290,7 @@ TRPM1	Transient receptor putative cation channel sub M member 1
 TRPM2	Transient receptor putative cation channel sub M member 2
 TRPM3	Transient receptor putative cation channel sub M member 3
 TRPM5	Transient receptor putative cation channel sub M member 5
+TRPM6	Transient receptor potential cation channel subfamily M member 6
 TRPM7	Transient receptor putative cation channel sub M member 7
 TRPS1	Transcription factor
 TRPV1	Transient receptor potential cation channel subfamily V member 1
@@ -22234,6 +22337,7 @@ TRYPSIN10	Trypsin-10
 TRZ1	tRNA 3' processing endoribonuclease
 TRZ4	tRNAse Z TRZ4, mitochondrial
 TSA1	cTPxI
+TSA1B	Peroxiredoxin TSA1-B
 TSA2	cTPxII
 TSC2	Tuberous sclerosis 2-like protein
 TSC3	Temperature-sensitive Csg2 suppressor
@@ -22265,6 +22369,7 @@ TSPAN3	Tetraspanin-3
 TSPAN4	Tetraspanin-4
 TSPAN5	Tetraspanin-5
 TSPAN7	Tetraspanin-7
+TSPAN8	Tetraspanin-8
 TSPAN9	Tetraspanin-9
 TSPAN11	Tetraspanin-11
 TSPAN13	Tetraspanin-13
@@ -22281,6 +22386,7 @@ TSR1	ribosome biogenesis protein TSR1
 TSR2	rRNA accumulation-related protein
 TSR3	ribosome biogenesis protein TSR3
 TSR4	20S rRNA accumulation protein
+TSSK3	Testis-specific serine/threonine-protein kinase 3
 TSSK4	Testis-specific serine/threonine-protein kinase 4
 TSSK5	Testis-specific serine/threonine-protein kinase 4
 TSSK6	Testis-specific serine/threonine-protein kinase 6
@@ -22295,6 +22401,7 @@ TTC1	Cytochrome c oxidase subunit 1
 TTC4	Tetratricopeptide repeat protein 4
 TTC5	Tetratricopeptide repeat protein 5
 TTC6	Cytochrome c oxidase subunit 1
+TTC7A	Tetratricopeptide repeat protein 7A
 TTC7B	Tetratricopeptide repeat protein 7B
 TTC8	Tetratricopeptide repeat protein 8
 TTC9	Tetratricopeptide repeat protein 9A
@@ -22322,6 +22429,7 @@ TTC39A	tetratricopeptide repeat domain 39A
 TTC39C_0	Tetratricopeptide repeat protein 39C
 TTC39C_1	Tetratricopeptide repeat protein 39C
 TTC39C_2	Tetratricopeptide repeat protein 39C
+TTC40	Cilia- and flagella-associated protein 46
 TTF1	Homeobox protein Nkx-2.1
 TTF2	transcription termination factor, RNA polymerase II
 TTG2D	Toluene tolerance protein ttg2D
@@ -22383,6 +22491,7 @@ TUBB6	Tubulin beta-6 chain
 TUBD1	Tubulin delta chain
 TUBE1	Tubulin epsilon chain
 TUBG1	Tubulin gamma-1 chain
+TUBG2	Tubulin gamma-2 chain
 TUBGCP2	Gamma-tubulin complex component 2
 TUBGCP4	Gamma-tubulin complex component 4
 TUBGCP5	Gamma-tubulin complex component 5
@@ -22416,6 +22525,7 @@ TVC12	glycoside hydrolase family 18 protein
 TVC13	glycoside hydrolase family 18 protein
 TVC14	glycoside hydrolase family 18 protein
 TVC15	glycoside hydrolase family 18 protein
+TVCHSP70	Cytoplasmic heat shock protein 70
 TVISCS1	IscS/NifS-like protein
 TVP15	Late Golgi vesicles protein
 TVP18	Golgi apparatus membrane protein TVP18
@@ -22670,6 +22780,7 @@ UBA7	Ubiquitin-like modifier-activating enzyme 7
 UBA52	Ubiquitin-60S ribosomal protein L40
 UBAC1	Ubiquitin-associated domain-containing protein 1
 UBALD1	UBA-like domain-containing protein 1
+UBAP1	Ubiquitin-associated protein 1
 UBASH3B	Ubiquitin-associated and SH3 domain-containing protein B
 UBC1	Ubiquitin-conjugating enzyme E2 1
 UBC1_0	Ubiquitin-conjugating enzyme E2 1
@@ -22779,6 +22890,7 @@ UBP22	Ubiquitin C-terminal hydrolase 22
 UBP23	Ubiquitin carboxyl-terminal hydrolase 23
 UBP25	Ubiquitin carboxyl-terminal hydrolase 25
 UBP26	Ubiquitin carboxyl-terminal hydrolase 26
+UBQ-2	Ubiquitin-60S ribosomal protein L40
 UBQLN1	Ubiquilin-1
 UBQLN3	Ubiquilin-3
 UBQLN4	Ubiquilin-4
@@ -22820,6 +22932,7 @@ UFE1	syntaxin UFE1
 UFL1	E3 UFM1-protein ligase 1
 UFM1	Ubiquitin-fold modifier 1
 UFO1	F-box ubiquitin ligase
+UFSP2	Ufm1-specific protease 2
 UGA1	4-aminobutyrate transaminase
 UGA1-1	4-aminobutyrate aminotransferase
 UGA1-2	4-aminobutyrate aminotransferase
@@ -23028,6 +23141,7 @@ USP45	Ubiquitin carboxyl-terminal hydrolase 45
 USP46	Ubiquitin carboxyl-terminal hydrolase 46
 USP47	Ubiquitin carboxyl-terminal hydrolase 47
 USP48	Ubiquitin carboxyl-terminal hydrolase 48
+USP49	Ubiquitin carboxyl-terminal hydrolase 49
 USP50	Inactive ubiquitin carboxyl-terminal hydrolase 50
 USP51	Ubiquitin carboxyl-terminal hydrolase 51
 USPA1	Carcinoembryonic antigen-related cell adhesion molecule 1
@@ -23144,10 +23258,12 @@ VAM3	SNAP receptor
 VAM6	Vacuolar morphogenesis protein 6
 VAM7	Vacuolar morphogenesis protein 7
 VAM10	vacuolar morphogenesis protein
+VAMP1	Vesicle-associated membrane protein 1
 VAMP2	Vesicle-associated membrane protein 2
 VAMP4	Vesicle-associated membrane protein 4
 VAMP7	Vesicle-associated membrane protein
 VAMP714	Vesicle-associated membrane protein 714
+VAMP-7	Vesicle-associated membrane protein 7
 VAN1	Mannan polymerase I complex VAN1 subunit
 VANGL1	Vang-like protein 1
 VANGL2	Vang-like protein 2
@@ -23346,6 +23462,7 @@ VPS36	Vacuolar protein-sorting-associated protein 36
 VPS37-1	Vacuolar protein-sorting-associated protein 37 1
 VPS37A	Vacuolar protein sorting-associated protein 37A
 VPS37B	Vacuolar protein sorting-associated protein 37B
+VPS37C	Vacuolar protein sorting-associated protein 37C
 VPS38	Vacuolar protein sorting-associated protein 38
 VPS39	Vam6/Vps39-like protein
 VPS41	Vacuolar protein sorting-associated protein 41
@@ -23436,6 +23553,7 @@ WAL1	actin-binding protein
 WAR1	weak acid resistance
 WARS2	Tryptophan--tRNA ligase, mitochondrial
 WASF1	Wiskott-Aldrich syndrome protein family member 1
+WASF2	Wiskott-Aldrich syndrome protein family member 2
 WASF3	Wiskott-Aldrich syndrome protein member 3
 WASHC3	WASH complex subunit 3
 WASHC4	WASH complex subunit 4
@@ -23556,6 +23674,7 @@ WLM	Fe2+/Zn2+ regulated transporter
 WNK1	Serine/threonine-protein kinase WNK1
 WNK3	Serine/threonine-protein kinase WNK3
 WNK4	Serine/threonine-protein kinase wnk4
+WNK5	Probable serine/threonine-protein kinase WNK5
 WNK8	Serine/threonine-protein kinase WNK8
 WNT1	Protein Wnt-1
 WNT2	Protein Wnt-2
@@ -23582,12 +23701,14 @@ WSC1	Cell wall integrity and stress response component 1
 WSC2	Cell wall integrity and stress response component 2
 WSC3	Cell wall integrity and stress response component 3
 WSC4	Cell wall integrity and stress response component 4
+WSCD1	WSC domain-containing protein 1
 WSCD2	WSC domain-containing protein 2
 WSS1	weak suppressor of smt3
 WT1	Wilms tumor protein
 WTM1	transcriptional modulator
 WTM2	transcriptional modulator
 WVE-1	WH2 domain-containing protein
+WWC2	Protein WWC2
 WWM1	WW domain-containing protein WWM1
 WWOX	WW domain-containing oxidoreductase
 WWP1	WW domain containing E3 ubiquitin protein ligase 1
@@ -23622,6 +23743,7 @@ Wsmco1	Cupredoxin
 Wsmco2	Cupredoxin
 Wsmco3	multi-copper oxidase
 Wwox	WW domain-containing oxidoreductase
+XAB1	GPN-loop GTPase 1
 XAB2	Pre-mRNA-splicing factor SYF1
 XBAT33	E3 ubiquitin-protein ligase XBAT33
 XCT	Cystine/glutamate transporter
@@ -23637,6 +23759,7 @@ XKR6	XK- protein 6
 XKR7	XK- protein 7
 XKR8	XK- protein 8
 XKS1	D-xylulokinase
+XLG2	Extra-large guanine nucleotide-binding protein 2
 XLR1	Xylanolytic transcriptional activator xlnR
 XLRS1	Retinoschisin
 XOG1	glucan 1,3-beta-glucosidase
@@ -23687,6 +23810,7 @@ XYL6	Endo-1,4-beta-xylanase 6
 XYLB	Xylulose kinase
 XYLD	Endo-1,4-beta-xylanase D
 XYLT1	Xylosyltransferase 1
+XYLT2	Xylosyltransferase 2
 XYN1	Glycoside hydrolase, family 10
 XYN3	Endo-1,4-beta-xylanase 3
 XYN5	Endo-1,4-beta-xylanase 5
@@ -23698,6 +23822,7 @@ XYNF1	Endo-1,4-beta-xylanase F1
 XYNF3	Endo-1,4-beta-xylanase F3
 Xbp1	X-box-binding protein 1
 YAAT	Stage 0 sporulation protein yaaT
+YAB4	Axial regulator YABBY 4
 YAE1	Essential protein Yae1, N terminal
 YAE1D1	Protein YAE1 homolog
 YAF2	YY1-associated factor 2
@@ -23803,6 +23928,7 @@ YGP1	glycoprotein
 YH07	Putative amino acid permease
 YHAK	Pirin-like protein yhaK
 YHB1	Nitric oxide oxidoreductase
+YHBB2	Amidase_6 domain-containing protein
 YHC1	U1 small nuclear ribonucleoprotein C
 YHC3	amino acid transporter YHC3
 YHET	Putative esterase yheT
@@ -24052,6 +24178,7 @@ ZC2HC1C	Zinc finger C2HC domain-containing protein 1C
 ZC3H3	Zinc finger CCCH domain-containing protein 3
 ZC3H4	Zinc finger CCCH domain-containing protein 4
 ZC3H6	Zinc finger CCCH domain-containing protein 6
+ZC3H7A	Zinc finger CCCH domain-containing protein 7A
 ZC3H7B	Zinc finger CCCH domain-containing protein 7B
 ZC3H8	Zinc finger CCCH domain-containing protein 8
 ZC3H14	Zinc finger CCCH domain-containing protein 14
@@ -24193,6 +24320,7 @@ ZNRD1	DNA-directed RNA polymerase I subunit RPA12
 ZNRF1	E3 ubiquitin-protein ligase znrf1
 ZNRF2	E3 ubiquitin-protein ligase znrf2
 ZNRF3	E3 ubiquitin-protein ligase znrf3
+ZNRF4	E3 ubiquitin-protein ligase ZNRF4
 ZNT8	Zinc transporter 8
 ZPAR2M0002	P2
 ZPARMT0001	COX2
