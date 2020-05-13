@@ -1,5 +1,5 @@
-#version 1.58
-#Date 05-11-2020
+#version 1.59
+#Date 05-12-2020
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -537,6 +537,7 @@ ADRA2C	Alpha-2C adrenergic receptor
 ADRA2DB	Alpha-2Db adrenergic receptor
 ADRB1	Beta-1 adrenergic receptor
 ADRB2	Beta-2 adrenergic receptor
+ADRBK2	Beta-adrenergic receptor kinase 2
 ADRM1	adhesion regulating molecule 1
 ADSL	Adenylosuccinate lyase
 ADSSL1C	Adenylosuccinate synthetase isozyme 1 C
@@ -1022,6 +1023,7 @@ ANTXR1	Anthrax toxin receptor 1
 ANTXR2	Anthrax toxin receptor 2
 ANXA1	Annexin A1
 ANXA2	Annexin A2
+ANXA3	Annexin A3
 ANXA4	Annexin A4
 ANXA5	Annexin A5
 ANXA6	Annexin A6
@@ -1176,6 +1178,7 @@ ARA2	D-arabinose 1-dehydrogenase (NAD(P)(+)) ARA2
 ARAA2	L-arabinose isomerase 2
 ARAC8	Rac-like GTP-binding protein ARAC8
 ARAH6	ABC transporter permease
+ARAL1	Cytochrome c oxidase subunit 1
 ARAP3	Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 3
 ARB1	ABC transporter ATP-binding protein ARB1
 ARB1-1	ATPase of the ATP-binding cassette
@@ -4105,6 +4108,7 @@ CXT1_3	Beta-1,2-xylosyltransferase 1
 CXT1_4	Beta-1,2-xylosyltransferase 1
 CXXC1	CXXC-type zinc finger protein 1
 CXXC4	CXXC-type zinc finger protein 4
+CYA1	Adenylate cyclase 1
 CYA4	Cytochrome c oxidase polypeptide 5, mitochondrial
 CYAD2	Membrane fusion protein
 CYB2	Cytochrome b2, mitochondrial precursor
@@ -5796,6 +5800,7 @@ EPN1	Epsin-1
 EPN2	Epsin-2
 EPN3	Epsin-3
 EPPB9	B9 domain-containing protein 1
+EPRS1	Bifunctional glutamate/proline--tRNA ligase
 EPS1	protein disulfide isomerase EPS1
 EPS15	Epidermal growth factor receptor substrate 15
 EPS15L1	Epidermal growth factor receptor substrate 15-like 1
@@ -6262,6 +6267,7 @@ FBLN5	Fibulin-5
 FBLN7	Fibulin-7
 FBN1	Fibrillin-1
 FBN2	Fibrillin-2
+FBN-1	Fibrillin-1 [Cleaved into: Asprosin]
 FBP1	Fructose-1,6-bisphosphatase
 FBP2	Fructose-1,6-bisphosphatase isozyme 2
 FBP26	Fructose-2,6-bisphosphatase
@@ -6377,6 +6383,7 @@ FET5	ATP binding protein
 FET34	ferroxidase
 FEX1	Fluoride export protein
 FEX2	fluoride transporter
+FEZF1	Fez family zinc finger protein 1
 FEZF2	Fez zinc finger protein 2
 FFT2	ATP-dependent helicase fft2
 FGAOX3	Chanoclavine-I aldehyde reductase fgaOx3
@@ -8652,6 +8659,7 @@ HS6ST2	Heparan-sulfate 6-O-sulfotransferase 2
 HS6ST3B	Heparan-sulfate 6-O-sulfotransferase 3-B
 HSBP1	Heat shock factor-binding protein 1
 HSC71	Heat shock cognate 70 kDa protein
+HSC80	Heat shock cognate protein 80
 HSC82	Cytoplasmic chaperone of the Hsp90 family
 HSCB	Iron-sulfur cluster co-chaperone protein HscB, mitochondrial
 HSD1	high-copy suppressor of sly1 defect
@@ -11607,6 +11615,7 @@ KOG1	Target of rapamycin complex 1 subunit KOG1
 KPAR	ketopantoate reductase
 KPC1	Protein kinase C-like protein
 KPCZ	Protein kinase C zeta type
+KPHMT2	3-methyl-2-oxobutanoate hydroxymethyltransferase 2, mitochondrial
 KPNA1	Importin subunit alpha-5
 KPNA2	Importin subunit alpha-1
 KPNA3	Importin subunit alpha-4
@@ -15079,6 +15088,8 @@ OPCL1	4-coumarate--CoA ligase-like 5
 OPHN1	Oligophrenin-1
 OPI1	transcriptional regulator OPI1
 OPI3	Phosphatidyl-N-methylethanolamine N-methyltransferase
+OPN1LW	Long-wave-sensitive opsin 1
+OPN3	Opsin-3
 OPN4	Melanopsin
 OPN4A	Melanopsin-A
 OPN5	Opsin-5
@@ -15175,6 +15186,7 @@ OSHAP5C	Nuclear transcription factor Y subunit C-2
 OSKBETA1	Beta subunit 1 of SnRK1
 OSM1	Osmotic growth protein 1
 OSM2	Osmotic growth protein
+OSM-1	Intraflagellar transport protein osm-1
 OSR1	Protein odd-skipped- 1
 OSR2A	Protein odd-skipped- 2-A
 OST1	dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1
@@ -15550,6 +15562,7 @@ PCMT1	Protein-L-isoaspartate(D-aspartate) O-methyltransferase
 PCMTD1	Protein-L-isoaspartate O-methyltransferase domain-containing protein 1
 PCMTD2	Protein-L-isoaspartate O-methyltransferase domain-containing protein 2
 PCNA	DNA polymerase delta processivity factor
+PCNA2	Proliferating cell nuclear antigen 2
 PCNX1	Pecanex-like protein 1
 PCNX3	Pecanex-like protein 3
 PCNX4	Pecanex-like protein 4
@@ -16757,6 +16770,7 @@ PPTC7	Protein phosphatase PTC7
 PPWD1	Peptidylprolyl isomerase domain and WD repeat containing protein 1
 PPX1	Exopolyphosphatase
 PPX2	Serine/threonine-protein phosphatase PP-X isozyme 2
+PPX3	Enolase
 PPX4	Serine/threonine-protein phosphatase PP-X 4
 PPZ1	Serine/threonine-protein phosphatase
 PPZ1_0	Serine/threonine-protein phosphatase PP-Z1
@@ -17570,6 +17584,7 @@ RAB6B	Ras-related protein Rab-6B
 RAB6C	Ras-related protein Rab-6C
 RAB7	Ras-related protein Rab-7
 RAB7A	Ras-related protein Rab-7A
+RAB7L1	Ras-related protein Rab-7L1
 RAB7_0	Ras-related protein Rab7
 RAB7_1	Ras-related protein Rab7
 RAB8	Ras-related protein Rab-8A
@@ -19623,10 +19638,14 @@ SERINC3	Serine incorporator 3
 SERINC5	Serine incorporator 5
 SERP1	Stress-associated endoplasmic reticulum protein 1
 SERP2	Stress-associated endoplasmic reticulum protein 2
+SERPINA3	Alpha-1-antichymotrypsin
+SERPINA5	Plasma serine protease inhibitor
+SERPINA10	Protein Z-dependent protease inhibitor
 SERPINB6	Serpin B6
 SERPINC1	Antithrombin-III
 SERPINE3	Probable serpin E3
 SERPINH1	Serpin H1
+SERPINI2	Serpin I2
 SERS2	Type-2 serine--tRNA ligase
 SES1	Cytosolic seryl-tRNA synthetase
 SESN2	Sestrin-2
@@ -20721,6 +20740,7 @@ SSP3	Sentrin-specific protease 3
 SSQ1	Hsp70 family ATPase SSQ1
 SSRP1	FACT complex subunit SSRP1
 SSS1	Sec61p translocation complex subunit
+SSSCA1	Protein ZNRD2
 SST1A	Somatostatin-1A
 SSTR1	Somatostatin receptor type 1
 SSTR2	Somatostatin receptor type 2
@@ -20765,6 +20785,7 @@ STARD3	StAR- lipid transfer protein 3
 STARD3NL	STARD3 N-terminal-like protein
 STARD5	StAR- lipid transfer protein 5
 STARD7	StAR- lipid transfer protein 7, mitochondrial
+STARD8	StAR-related lipid transfer protein 8
 STARD10	START domain-containing protein 10
 STARD13	StAR- lipid transfer protein 13
 STAT1	Signal transducer and activator of transcription 1-alpha/beta
@@ -23036,6 +23057,7 @@ UPF3	NMD pathway component
 UPF3A	regulator of nonsense transcription
 UPF3B	Regulator of nonsense transcripts 3B
 UPL1	E3 ubiquitin- protein ligase UPL1
+UPL4	E3 ubiquitin-protein ligase UPL4
 UPP1	Uridine phosphorylase 1
 UPP2	Uridine phosphorylase 2
 UPPP1	Undecaprenyl-diphosphatase 1
@@ -23333,6 +23355,7 @@ VFA1	VPS4-associated protein 1
 VFB1	Putative VIER F-box protein 1
 VFB2	Putative VIER F-box protein 2
 VHA13	V-type proton ATPase catalytic subunit A
+VHA16	V-type proton ATPase 16 kDa proteolipid subunit
 VHA26	V-type proton ATPase subunit E
 VHA55	V-type proton ATPase subunit B
 VHA-16	V-type proton ATPase 16 kDa proteolipid subunit
