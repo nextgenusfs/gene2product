@@ -1,5 +1,5 @@
-#version 1.63
-#Date 07-26-2020
+#version 1.64
+#Date 08-25-2020
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -106,9 +106,11 @@ AAY4	mating-type protein A-alpha Y4
 AAZ4	A-alpha Z4, HD1 mating type protein
 ABA2	Zeaxanthin epoxidase, chloroplastic
 ABA3	Molybdenum cofactor sulfurase
+ABA4	Short-chain dehydrogenase/reductase aba4
 ABAB2	LysR transcriptional Regulator
 ABC1	mitochondrial chaperone
 ABC1K1	Protein ACTIVITY OF BC1 COMPLEX KINASE 1, chloroplastic
+ABC7	ABC transporter 7
 ABCA1	ATP-binding cassette sub- A member 1
 ABCA2	ATP-binding cassette sub- A member 2
 ABCA3	ATP-binding cassette sub- A member 3
@@ -633,6 +635,8 @@ AGL15	Agamous-like MADS-box protein AGL15
 AGLA2	Alpha amylase, catalytic region
 AGLU	Alpha-glucosidase
 AGM1	phosphoacetylglucosamine mutase
+AGNL7	Atrochrysone carboxyl ACP thioesterase AgnL7
+AGNL8	Dehydratase AgnL8
 AGNPKS1	Atrochrysone carboxylic acid synthase Agnpks1
 AGO1	argonaute 1
 AGO1B	argonaute 1B
@@ -1153,6 +1157,7 @@ APE3.2	leucyl aminopeptidase precursor
 APE4	aspartyl aminopeptidase
 APEX2	DNA-(apurinic or apyrimidinic site) lyase 2
 APG	GDSL esterase/lipase APG
+APG5	Ubiquitin-like modifier-activating enzyme atg7
 APG6	Vacuolar protein sorting-associated protein 30
 APG7	Ubiquitin-like modifier-activating enzyme ATG7
 APH1B	anterior pharynx defective 1
@@ -3549,6 +3554,7 @@ CLIPD2	Serine protease
 CLK2	Dual specificity protein kinase clk2
 CLK3	Dual specificity protein kinase CLK3
 CLK4	Dual specificity protein kinase clk4
+CLM1	Longiborneol synthase clm1
 CLN1	Cyclin CLN1
 CLN2	G1/S-specific cyclin
 CLN3	G1/S-specific cyclin CLN3
@@ -3951,6 +3957,7 @@ CREG1	Cellular repressor of E1A-stimulated genes 1
 CRELD2	Cysteine-rich with EGF-like domain protein 2
 CRF1	copper resistance protein
 CRF2	Putative glycosidase crf2
+CRF21	Chromatin-remodeling ATPase INO80
 CRG1	S-adenosylmethionine-dependent methyltransferase
 CRG71	S-AdoMet-dependent methyltransferase
 CRH1	transglycosylase
@@ -5289,6 +5296,7 @@ DRG2	Developmentally-regulated GTP-binding protein 2
 DRG3	Developmentally-regulated G-protein 3
 DRH1	ATP-dependent RNA helicase dbp2
 DRH9	ATP-dependent RNA helicase ded1
+DRH15	ATP-dependent RNA helicase mrh4, mitochondrial
 DRMIP	DRMIP-like protein
 DRN1	Splicing factor that modulates turnover of branched RNAs
 DRP1	UAA transporter family
@@ -5553,6 +5561,7 @@ EAF6	chromatin modification-related protein EAF6
 EAF7	esa1-associated factor
 EAPP	E2F-associated phosphoprotein
 EARS2	Glutamyl-tRNA synthetase
+EAT5	Cytochrome c oxidase subunit 13, mitochondrial
 EB1	Microtubule-associated protein RP/EB family member 1
 EBAG9	Receptor-binding cancer antigen expressed on SiSo cells
 EBF1	Transcription factor COE1
@@ -7498,6 +7507,7 @@ GIGA6_5	Gigasin-6
 GIGA6_6	Gigasin-6
 GIGYF1	GRB10 interacting GYF protein 1
 GIGYF2	GRB10-interacting GYF protein 2
+GIM1	GPI mannosyltransferase 1
 GIM3	Prefoldin subunit 4
 GIM4	Cochaperone prefoldin complex subunit
 GIM5	subunit of tubulin prefoldin
@@ -7914,6 +7924,7 @@ GRF7	Growth-regulating factor 7
 GRF10	Regulatory protein PHO2
 GRF11	Growth-regulating factor 11
 GRF12	Growth-regulating factor 12
+GRG1	Glucose-repressible protein protein
 GRH1	GRASP65-like protein 1
 GRHL1	grainyhead-like
 GRHL3	Grainyhead-like protein 3 homolog
@@ -8005,6 +8016,7 @@ GSG2	Serine/threonine-protein kinase haspin
 GSH1	glutamate--cysteine ligase
 GSH2	Glutathione synthetase
 GSHB	Glutathione synthetase
+GSK1	Glycogen synthase kinase 1
 GSK2	glycogen synthase kinase GKS2
 GSK3	serine/threonine protein kinase
 GSK3A	Glycogen synthase kinase-3 alpha
@@ -8067,6 +8079,7 @@ GSTZ1	Glutathione S-transferase zeta-1
 GSX1	GS homeobox 1
 GSY1	glycogen synthase isoform 1
 GSY2	glycogen [starch] synthase isoform 2
+GT2	Type 2 glycosyltransferase
 GT7	Anthocyanidin 3-O-glucosyltransferase 7
 GTA	GTA glutaminase A
 GTA1	Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A)
@@ -13928,6 +13941,7 @@ MSP1_1	Protein MSP1
 MSP1_2	Protein MSP1
 MSP4	Pre-mRNA-splicing factor syf2
 MSP5	Pre-mRNA-splicing factor rse1
+MSP7	Pre-mRNA-splicing factor isy1
 MSP41	Pre-mRNA-splicing factor syf1
 MSR1	arginine--tRNA ligase MSR1
 MSRA1	Peptide methionine sulfoxide reductase A1
@@ -14085,6 +14099,7 @@ MURQ	N-acetylmuramic acid 6-phosphate etherase
 MURQ2	N-acetylmuramic acid 6-phosphate etherase 2
 MUS18	UV-damage endonuclease
 MUS23	Double-strand break repair protein mus-23
+MUS41	DNA repair protein rad5
 MUS51	ATP-dependent DNA helicase II subunit 1
 MUS81	Crossover junction endonuclease MUS81
 MUSTN1	Musculoskeletal embryonic nuclear protein 1
@@ -19787,6 +19802,7 @@ SASB	Fatty acyl-CoA hydrolase precursor, medium chain
 SASS6	Spindle assembly abnormal protein 6 homolog
 SAT1	Diamine acetyltransferase 1
 SAT2	Diamine acetyltransferase 2
+SAT3	Short-chain dehydrogenase/reductase sat3
 SAT4	serine/threonine-protein kinase HAL4/SAT4
 SAT4-2	Serine/threonine-protein kinase
 SAT4_0	Serine/threonine-protein kinase HAL4/SAT4
@@ -22687,7 +22703,9 @@ TPT1	tRNA 2'-phosphotransferase
 TPTE2	Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2
 TPX2	Protein TPX2
 TR1	beta ketoadipate:succinyl-CoA transferase, TR1
+TR02	Putative amidase
 TR2	beta ketoadipate:succinyl-CoA transferase, TR2
+TR07	Probable dehydrogenase tr07
 TRA1	transcription-associated protein 1
 TRA1_0	Transcription-associated protein 1
 TRA1_3	Transcription-associated protein 1
@@ -23583,6 +23601,7 @@ UMP1	20S proteasome maturation factor
 UMS2	Heat shock 70 kDa protein 2
 UMV1	Spore development regulator umv1
 UMV3	Sexual development regulator umv3
+UN4	Mitochondrial import inner membrane translocase subunit tim16
 UNC5A	Netrin receptor unc5a
 UNC5B	Netrin receptor unc5b
 UNC5C	Netrin receptor unc5c
@@ -24099,6 +24118,7 @@ VRP1	verprolin
 VRTR1	Transcription factor vrtR1
 VSNL1	Visinin-like protein 1
 VSP1	Sorting nexin mvp1
+VSP6	Sorting nexin-41
 VSP33	Vacuolar sorting protein VPS33/slp1 (Sec1 family)
 VSP71	Predicted BBOX Zn-finger protein
 VSR1	Vacuolar-sorting receptor 1
@@ -24351,6 +24371,7 @@ Wsmco3	multi-copper oxidase
 Wwox	WW domain-containing oxidoreductase
 XAB1	GPN-loop GTPase 1
 XAB2	Pre-mRNA-splicing factor SYF1
+XAN1	Alpha-ketoglutarate-dependent xanthine dioxygenase xan-1
 XBAT33	E3 ubiquitin-protein ligase XBAT33
 XCT	Cystine/glutamate transporter
 XDE1	Putative xanthine dehydrogenase
@@ -24429,6 +24450,7 @@ XYN5	Endo-1,4-beta-xylanase 5
 XYN5A	Endo-1,4-beta-xylanase, putative, xyn5A
 XYN6	Endo-1,4-beta-xylanase 6
 XYN11A	Endo-1,4-beta-xylanase 11A
+XYN30A	GH30 xylanase
 XYNA1	Endo-1,4-beta-xylanase A
 XYNAS9	Endo-1,4-beta-xylanase A
 XYNF1	Endo-1,4-beta-xylanase F1
@@ -24631,6 +24653,7 @@ YNQ8	fumarylacetoacetate hydralase
 YNT1	Glucosamine 6-phosphate synthetase
 YOD1	aminotransferase
 YOD2	aminotransferase
+YOG1	Zinc-type alcohol dehydrogenase-like protein YogA
 YOR1	ATP-binding cassette transporter YOR1
 YOR1-1	ATP-binding cassette (ABC) transporter
 YOR1-2	ATP-binding cassette (ABC) transporter
