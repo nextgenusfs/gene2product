@@ -18,7 +18,7 @@ today = datetime.datetime.today().strftime('%m-%d-%Y')
 #first load existing DB
 version = None
 Data = {}
-with open(os.path.join(currentdir, 'ncbi_cleaned_gene_products.txt'), 'rU') as db:
+with open(os.path.join(currentdir, 'ncbi_cleaned_gene_products.txt'), 'a') as db:
     for line in db:
         line = line.strip()
         if line.startswith('#version'):
@@ -40,7 +40,7 @@ with open(os.path.join(currentdir, 'ncbi_cleaned_gene_products.txt'), 'rU') as d
                 print('%s duplicate gene name, skipping' % name)
 
 #load updating text file, add to dictionary
-with open(sys.argv[1], 'rU') as update:
+with open(sys.argv[1], 'a') as update:
     for line in update:
         line = line.strip()
         if line.startswith('#') or len(line) == 0:
