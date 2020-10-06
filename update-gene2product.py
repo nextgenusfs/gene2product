@@ -2,14 +2,16 @@
 
 #script to update gene2products database
 
-import sys, os, inspect, datetime
+import sys
+import os
+import datetime
 from natsort import natsorted
-currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+currentdir = os.path.join(os.path.dirname(__file__))
 
 if len(sys.argv) < 2:
     print('Usage: update-gene2product.py two-column-file.tsv')
     sys.exit(1)
-    
+
 #just going to do something simple here, must be run from gene2products directory
 #input will be a two-column tsv file
 
@@ -18,8 +20,8 @@ today = datetime.datetime.today().strftime('%m-%d-%Y')
 #first load existing DB
 version = None
 Data = {}
-with open(os.path.join(currentdir, 'ncbi_cleaned_gene_products.txt'), 'a') as db:
-    for line in db:
+with open(os.path.join(currentdir, 'ncbi_cleaned_gene_products.txt'), 'r') as infile:
+    for line in infile:
         line = line.strip()
         if line.startswith('#version'):
             version = line.split(' ')[-1]
@@ -40,7 +42,7 @@ with open(os.path.join(currentdir, 'ncbi_cleaned_gene_products.txt'), 'a') as db
                 print('%s duplicate gene name, skipping' % name)
 
 #load updating text file, add to dictionary
-with open(sys.argv[1], 'a') as update:
+with open(sys.argv[1], 'r') as update:
     for line in update:
         line = line.strip()
         if line.startswith('#') or len(line) == 0:
