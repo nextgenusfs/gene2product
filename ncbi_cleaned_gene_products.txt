@@ -1,5 +1,5 @@
-#version 1.65
-#Date 10-05-2020
+#version 1.66
+#Date 03-04-2021
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -186,6 +186,7 @@ ABCH1	ABC transporter AbcH.1
 ABCH2	ABC transporter H family member 2
 ABCI6	ABC transporter I family member 6, chloroplastic
 ABCT3	Transport permease protein
+ABF1	Alpha-L-arabinofuranosidase
 ABF2	ARM REPEAT PROTEIN INTERACTING WITH ABF2
 ABFB	Alpha-L-arabinofuranosidase
 ABFa	ABFa alfa-L-arabinofuranosidase-A
@@ -13008,6 +13009,7 @@ MBZ1	BZIP-type transcription factor mbz1
 MC1R	Melanocyte-stimulating hormone receptor
 MC4R	Melanocortin receptor 4
 MC5R	Melanocortin receptor 5
+MC69	Secreted virulence factor mc69
 MCA1	Ca(2+)-dependent cysteine protease
 MCA1_0	Metacaspase-1
 MCA1_1	Metacaspase-1
@@ -14122,6 +14124,7 @@ MUC1.11	MUC1-like protein
 MUC2	Mucin-2
 MUC4	Mucin-4
 MUC5B	Mucin-5B
+MUC6	oligomeric mucus gel-forming
 MUC12	Mucin-12
 MUC13	Mucin-13
 MUC19	Mucin-19
@@ -24052,6 +24055,7 @@ VEZF1	Vascular endothelial zinc finger 1
 VFA1	VPS4-associated protein 1
 VFB1	Putative VIER F-box protein 1
 VFB2	Putative VIER F-box protein 2
+VGRG2	Rhs element vgr protein
 VGT1	Vacuolar glucose transporter 1
 VHA13	V-type proton ATPase catalytic subunit A
 VHA14	V-type proton ATPase subunit F
