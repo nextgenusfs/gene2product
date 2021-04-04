@@ -1,5 +1,5 @@
-#version 1.66
-#Date 03-04-2021
+#version 1.67
+#Date 04-04-2021
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -5719,14 +5719,15 @@ EFHC1	EF-hand domain-containing protein 1
 EFHC2	EF-hand domain-containing family member C2
 EFHD2	EF-hand domain-containing protein D2
 EFL1	Elongation factor-like GTPase 1
-EFM1	protein-lysine N-methyltransferase
-EFM2	S-adenosylmethionine-dependent methyltransferase
+EFM1	Protein-lysine N-methyltransferase EFM1
+EFM2	Protein-lysine N-methyltransferase EFM2
 EFM2_0	Protein-lysine N-methyltransferase EFM2
 EFM2_1	Protein-lysine N-methyltransferase EFM2
-EFM3	protein-lysine N-methyltransferase
-EFM4	Lysine methyltransferase
-EFM5	S-adenosylmethionine-dependent lysine methyltransferase
-EFM7	Protein N-terminal and lysine N-methyltransferase efm7
+EFM3	Protein-lysine N-methyltransferase EFM3
+EFM4	Protein-lysine N-methyltransferase EFM4
+EFM5	Protein-lysine N-methyltransferase EFM5
+EFM6	Protein-lysine N-methyltransferase EFM6
+EFM7	Protein N-terminal and lysine N-methyltransferase EFM7
 EFNA2	Ephrin-A2
 EFNA3	Ephrin-A3
 EFNA5B	Ephrin-A5b
