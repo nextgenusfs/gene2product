@@ -6745,7 +6745,8 @@ FLA10	Kinesin-like protein FLA10
 FLACCA	Molybdenum cofactor sulfurase
 FLAD1	FAD1 flavin adenine dinucleotide synthetase
 FLC	flocullin
-FLC2	flavin adenine dinucleotide transporter FLC2
+FLC2	Flavin carrier protein 2
+FLC3	Putative flavin carrier protein 3
 FLCN	Folliculin
 FLCY	Farnesylcysteine lyase
 FLD	Bifunctional alcohol dehydrogenase and formaldehyde dehydrogenase
