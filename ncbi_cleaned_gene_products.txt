@@ -1,4 +1,4 @@
-#version 1.68
+#version 1.69
 #Date 04-09-2021
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
@@ -3101,6 +3101,7 @@ CDKA-1	Cyclin-dependent kinase A-1
 CDKAL1	Threonylcarbamoyladenosine tRNA methylthiotransferase
 CDKB1	Cyclin-dependent kinase B1-1
 CDKB2-1	Cyclin-dependent kinase B2-1
+CDKB11	Cyclin-dependent kinase B1-1
 CDKC2	Cyclin-dependent kinase C-2
 CDKF3	Cyclin-dependent kinase F-3
 CDKG1	Cyclin-dependent kinase G1
@@ -23704,6 +23705,7 @@ UBE2O	E2/E3 hybrid ubiquitin-protein ligase UBE2O
 UBE2Q2	Ubiquitin-conjugating enzyme E2 Q2
 UBE2R2	Ubiquitin-conjugating enzyme E2 R2
 UBE2S	ubiquitin-conjugating enzyme E2 S
+UBE2SB	Ubiquitin-conjugating enzyme E2 S-B
 UBE2T	Ubiquitin-conjugating enzyme E2 T
 UBE2T_0	Ubiquitin-conjugating enzyme E2 T
 UBE2T_1	Ubiquitin-conjugating enzyme E2 T
@@ -24181,6 +24183,7 @@ VATH_1	V-type proton ATPase subunit H
 VATL	Vacuolar ATP synthase 16 kDa proteolipid subunit
 VATL2	Vacuolar ATP synthase 16 kDa proteolipid subunit 2
 VATO	Vacuolar ATP synthase 21 kDa proteolipid subunit
+VATPP1	V-type proton ATPase 16 kDa proteolipid subunit
 VAV1	Proto-oncoprotein vav
 VAV2	Guanine nucleotide exchange factor vav2
 VAV3	Guanine nucleotide exchange factor vav3
@@ -24236,6 +24239,7 @@ VHA-E2	V-type proton ATPase subunit E2
 VHAAC39	V-type proton ATPase subunit d 1
 VHAB2	V-type proton ATPase subunit B2
 VHAC''2	V-type proton ATPase proteolipid subunit
+VHAD1	V-type proton ATPase subunit d1
 VHC1	Vacuolar cation-chloride cotransporter 1
 VHR1	transcription factor VHR1
 VHR2	Transcription factor
