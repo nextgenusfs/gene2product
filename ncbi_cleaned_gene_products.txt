@@ -1,5 +1,5 @@
-#version 1.70
-#Date 06-15-2021
+#version 1.71
+#Date 09-21-2021
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -1842,6 +1842,8 @@ AUP1	Ancient ubiquitous protein 1
 AUR1	Phosphatidylinositol:ceramide phosphoinositol transferase (IPC synthase)
 AURKA	Aurora kinase A
 AURL2	Multicopper oxidase aurL2
+AURR1	Aurofusarin biosynthesis regulatory protein aurR1
+AURR2	Aurofusarin cluster transcription factor aurR2
 AUS1	ATP-binding cassette sterol transporter AUS1
 AUT1	Arabinose-proton symporter (Arabinose transporter)
 AUT7	ubiquitin-like protein
@@ -6206,6 +6208,7 @@ EST1	Telomerase-binding protein
 EST2	Telomerase reverse transcriptase
 EST3	telomerase subunit
 EST-6	Esterase-6
+ESYN1	Enniatin synthetase
 ESYT1	Extended synaptotagmin-1
 ESYT2	Extended synaptotagmin-2
 ESYT3	Extended synaptotagmin-3
@@ -7049,6 +7052,11 @@ FSF1	Putative alpha-isopropylmalate carrier
 FSH1	dihydrofolate reductase
 FSH3	Family of serine hydrolases 3
 FSIP1	Fibrous sheath-interacting protein 1
+FSL1	Fusarielin synthase fsl1
+FSL2	Thioesterase fsl2
+FSL3	Epimerase fsl3
+FSL4	Cytochrome P450 monooxygenase fsl4
+FSL5	Trans-enoyl reductase fsl5
 FSP2	flocculent specific protein
 FST1	Fungal specific transcription factor
 FST2	Fungal transcriptional regulatory protein
@@ -8012,6 +8020,7 @@ GPX2	Glutathione peroxidase 2
 GPX3	Glutathione peroxidase 3
 GPX4	Phospholipid hydroperoxide glutathione peroxidase, mitochondrial
 GPX7	Glutathione peroxidase 7
+GPY1	Highly reducing polyketide synthase gpy1
 GRAMD1A	Protein Aster-A
 GRAMD1B	Protein Aster-B
 GRAMD1C	Protein Aster-C
@@ -8767,6 +8776,7 @@ HGT4	glucose sensor
 HGT6	hexose transporter
 HGT10	glucose-inactivated glycerol proton symporter
 HGT20	Bifunctional purine biosynthesis protein PurH
+HH2AZ	Histone H2A.Z
 HH3V	Histone H3-like centromeric protein hH3v
 HHF1	Histone H4
 HHF2	histone H4
@@ -15271,6 +15281,7 @@ NRPS7	Nonribosomal peptide synthetase 7
 NRPS12	Nonribosomal peptide synthetase 12
 NRPS13	Nonribosomal peptide synthetase 13
 NRPS14	Nonribosomal peptide synthetase 14
+NRPS30	Nonribosomal peptide synthetase 30
 NRS1	Putative asparagine--tRNA ligase, cytoplasmic
 NRSN1	Neurensin-1
 NRT1	nicotinamide riboside transporter
@@ -23848,6 +23859,7 @@ UCK2A	Uridine-cytidine kinase 2-A
 UCKL1	Uridine-cytidine kinase-like 1
 UCP2	Mitochondrial uncoupling protein 2
 UCP3	UBA domain-containing protein 3
+UCR1	Cytochrome b-c1 complex subunit 2, mitochondrial
 UCR7	Ubiquinol-cytochrome c reductase complex 14 kDa protein
 UCRI	Ubiquinol-cytochrome c reductase iron-sulfur subunit, mitochondrial precursor
 UFC1	Ubiquitin-fold modifier-conjugating enzyme 1
