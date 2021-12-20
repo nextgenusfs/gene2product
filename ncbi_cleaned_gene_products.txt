@@ -1,5 +1,5 @@
-#version 1.72
-#Date 10-18-2021
+#version 1.73
+#Date 12-20-2021
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -1373,7 +1373,7 @@ ARIH2	E3 ubiquitin-protein ligase ARIH2
 ARI_0	Aldehyde reductase 1
 ARI_1	Aldehyde reductase 1
 ARK1	Serine/threonine-protein kinase ark1
-ARK2	protein kinase aurora-related
+ARK2	Aurora kinase B 
 ARL1	Arf family GTPase ARL1
 ARL1_0	ADP-ribosylation factor-like protein 1
 ARL1_1	ADP-ribosylation factor-like protein 1
@@ -16006,10 +16006,10 @@ PAIP1	Polyadenylate-binding protein-interacting protein 1
 PAK1	p21 protein (Cdc42 Rac)-activated kinase
 PAK2	Serine/threonine-protein kinase PAK 2
 PAK3	Serine/threonine-protein kinase PAK 3
-PAK4	serine/threonine protein kinase, STE family, PAK/STE20-related
-PAK5	serine/threonine protein kinase, STE family, PAK/STE20-related
-PAK6	serine/threonine protein kinase, STE family, PAK/STE20-related
-PAK7	Serine/threonine-protein kinase PAK 5
+PAK4	Serine/threonine-protein kinase PAK 4
+PAK5	Serine/threonine-protein kinase PAK 5
+PAK6	Serine/threonine-protein kinase PAK 6
+PAK7	Serine/threonine-protein kinase PAK 7
 PAK-2	Serine/threonine-protein kinase PAK 2
 PAL1	Protein PAL1
 PAL2	transmembrane protein
