@@ -1,5 +1,5 @@
-#version 1.73
-#Date 12-20-2021
+#version 1.74
+#Date 02-11-2022
 #Name	Description
 1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -1336,6 +1336,7 @@ ARHGAP26	Rho GTPase-activating protein 26
 ARHGAP27	Rho GTPase-activating protein 27
 ARHGAP29	Rho GTPase-activating protein 29
 ARHGAP30	Rho GTPase-activating protein 30
+ARHGAP31	Rho GTPase-activating protein 31
 ARHGAP32	Rho GTPase-activating protein 32
 ARHGAP35	Rho GTPase-activating protein 35
 ARHGAP39	Rho GTPase activating protein 39
@@ -1373,7 +1374,7 @@ ARIH2	E3 ubiquitin-protein ligase ARIH2
 ARI_0	Aldehyde reductase 1
 ARI_1	Aldehyde reductase 1
 ARK1	Serine/threonine-protein kinase ark1
-ARK2	Aurora kinase B 
+ARK2	Aurora kinase B
 ARL1	Arf family GTPase ARL1
 ARL1_0	ADP-ribosylation factor-like protein 1
 ARL1_1	ADP-ribosylation factor-like protein 1
@@ -3594,11 +3595,12 @@ CLIP1	CAP-GLY domain-containing linker protein 1
 CLIP2	CAP-Gly domain-containing linker protein 2
 CLIP3	CAP-GLY domain-containing linker protein 3
 CLIP4	CAP-Gly domain-containing linker protein 4
-CLIPA10	AAEL001675-PA
-CLIPB5	AGAP004148-PA
-CLIPC2	AGAP004317-PA
-CLIPD1	Serine protease
-CLIPD2	Serine protease
+CLIPA10	CLIP domain-containing serine protease
+CLIPB5	CLIP domain-containing serine protease
+CLIPC2	CLIP domain-containing serine protease
+CLIPD1	CLIP domain-containing serine protease
+CLIPD2	CLIP domain-containing serine protease
+CLIPD3	Trypsin-like serine protease
 CLIPD6	CLIP domain-containing serine protease
 CLK2	Dual specificity protein kinase clk2
 CLK3	Dual specificity protein kinase CLK3
@@ -4682,6 +4684,7 @@ Cul4a	Cullin-4A
 CutC1	CutC superfamily
 CyP1	peptidyl-prolyl cis-trans isomerase
 Cyc8p	TPR-like protein
+CycB3	G2/mitotic-specific cyclin-B3
 Cyp3a9_0	Cytochrome P450 3A9
 Cyp3a9_1	Cytochrome P450 3A9
 Cyp3a9_2	Cytochrome P450 3A9
@@ -6030,6 +6033,7 @@ ENTPD1	Ectonucleoside triphosphate diphosphohydrolase 1
 ENTPD3	Ectonucleoside triphosphate diphosphohydrolase 3
 ENTPD4	Ectonucleoside triphosphate diphosphohydrolase 4
 ENTPD5	Ectonucleoside triphosphate diphosphohydrolase 5
+ENTPD6	Ectonucleoside triphosphate diphosphohydrolase 6
 ENTPD7	Ectonucleoside triphosphate diphosphohydrolase 7
 ENV7	Serine/threonine-protein kinase ENV7
 ENV9	vacuolar protein
@@ -8860,6 +8864,7 @@ HISF2	Putative imidazole glycerol phosphate synthase subunit hisF2
 HISN3	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
 HISN4	Imidazole glycerol phosphate synthase hisHF, chloroplastic
 HISN5B	Imidazoleglycerol-phosphate dehydratase 2, chloroplastic
+HIST1H1A	Histone H1.1
 HIST1H2AA	Histone H2A type 1-A
 HIST1H2AC	Histone H2A type 1-C
 HIST1H2AD	Histone H2A type 1-D
@@ -12022,6 +12027,7 @@ KIN14M	Kinesin-like protein KIN-14M
 KIN14N	Kinesin-like protein KIN-14N
 KIN17	DNA/RNA-binding protein KIN17
 KIN28	TFIIH complex serine/threonine-protein kinase subunit KIN28
+KINGTUBBY1	TULP1 protein
 KINH	Kinesin heavy chain
 KINH_0	Kinesin heavy chain
 KINH_1	Kinesin heavy chain
@@ -15165,6 +15171,7 @@ NOP53	nucleolar protein
 NOP56	snoRNP complex protein NOP56
 NOP58	Nucleolar protein 58
 NOP60B	H/ACA ribonucleoprotein complex subunit 4
+NORR2	Nitric oxide reductase transcription regulator NorR2
 NOS1	Nitric oxide synthase, brain
 NOS1AP	Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein
 NOS2	Nitric oxide synthase, inducible
@@ -20472,6 +20479,7 @@ SERA1	Dehydrogenase
 SERAC1	Serine active site containing protein 1
 SERB1	HAD-super sub IB hydrolase
 SERB2	Phosphoserine phosphatase SerB2
+SERBP1	Plasminogen activator inhibitor 1 RNA-binding protein
 SERF2	Small EDRK-rich factor 2
 SERGEF	Secretion-regulating guanine nucleotide exchange factor
 SERHL2	Serine hydrolase-like protein 2
@@ -22509,6 +22517,7 @@ TENT5C	Terminal nucleotidyltransferase 5C
 TEP1	Telomerase protein component 1
 TER94	Transitional endoplasmic reticulum ATPase TER94
 TERA	Transitional endoplasmic reticulum ATPase TER94
+TERF2	Telomeric repeat-binding factor 2
 TERF2IP	Telomeric repeat-binding factor 2-interacting protein 1
 TES1	acyl-CoA thioesterase
 TESB	Acyl-CoA thioesterase 2
@@ -22761,6 +22770,7 @@ TLCD2	TLC domain-containing protein 2
 TLDC1	TLD domain-containing protein 1
 TLE1	Transducin-like enhancer protein 1
 TLE2	Transducin-like enhancer protein 2
+TLE3	Transducin-like enhancer protein 3
 TLE3B	Transducin-like enhancer protein 3-B
 TLE4	Transducin-like enhancer protein 4
 TLG1	t-SNARE
@@ -26692,6 +26702,7 @@ chit-1	chitinase-1, variant
 chk1	Chk1 protein kinase
 chmp2a2	Charged multivesicular body protein 2a 2
 chmp3	Charged multivesicular body protein 3
+chmp4b	Charged multivesicular body protein 4b
 chmp6	Charged multivesicular body protein 6
 chmp7	Charged multivesicular body protein 7
 cho2	phosphatidylethanolamine N-methyltransferase Cho2
@@ -27748,6 +27759,7 @@ est1	telomerase regulator Est1
 estA	carboxylesterase estA
 est_0	Esterase
 est_1	Esterase
+esyt1	Extended synaptotagmin-1
 eta2	Myb family protein Eta2
 etd1	Ethanol-hypersensitive mutant protein Etd1
 etf	Electron-transferring-flavoproteindehydrogenase
@@ -28565,6 +28577,7 @@ hfb1	hydrophobin
 hfb2	hydrophobin
 hfb3	hydrophobin
 hfi1	SAGA complex subunit Hfi1
+hflC1	Protein HflC
 hfm1/mer3	HFM1/MER3 protein
 hft1	Heterobasidion Fe transporter 1
 hgd	Homogentisate 1,2-dioxygenase
@@ -28794,6 +28807,7 @@ i-Cg1III	I-Cg1III protein
 iap-1	intermembrane space AAA protease IAP-1
 ibp1	Cdc25 family phosphatase Ibp1
 icl1	Isocitrate lyase
+icmF1	Fused isobutyryl-CoA mutase
 icmt	Protein-S-isoprenylcysteine O-methyltransferase
 ict1	Peptidyl-tRNA hydrolase ICT1, mitochondrial
 idh1	isocitrate dehydrogenase (NAD+) subunit 1 Idh1
