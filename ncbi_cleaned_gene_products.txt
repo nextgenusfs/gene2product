@@ -1,7 +1,6 @@
-#version 1.75
-#Date 02-16-2022
+#version 1.76
+#Date 04-03-2022
 #Name	Description
-1-Oct	mitochondrial intermediate peptidase
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
 2ABD	Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform
@@ -11418,7 +11417,7 @@ IME1	transcription factor IME1
 IME2	Serine/threonine protein kinase
 IME4	methyltransferase
 IMG1	mitochondrial ribosomal large subunit component
-IMG2	mitochondrial 54S ribosomal protein IMG2
+IMG2	54S ribosomal protein img2, mitochondrial
 IMH1	Golgin IMH1
 IMH3	IMP dehydrogenase
 IML1	vacuolar membrane-associated protein IML1
@@ -13978,9 +13977,9 @@ MPPED1_0	Metallophosphoesterase domain-containing protein 1
 MPPED1_1	Metallophosphoesterase domain-containing protein 1
 MPPED2	Metallophosphoesterase mpped2
 MPRL16	mitochondrial 54S ribosomal protein YmL47
-MPS1	Dual-specificity kinase, spindle pole body (SPB) duplication and spindle checkpoint function
-MPS2	monopolar spindle
-MPS3	monopolar spindle
+MPS1	Serine/threonine kinase MPS1
+MPS2	Monopolar spindle protein 2
+MPS3	Spindle pole body assembly component MPS3
 MPST	3-mercaptopyruvate sulfurtransferase
 MPT2	Mitochondrial phosphate carrier protein 2, mitochondrial
 MPT3	Mitochondrial phosphate carrier protein 3, mitochondrial
@@ -17108,7 +17107,7 @@ PNPLA7	Patatin-like phospholipase domain-containing protein 7
 PNPLA8	Calcium-independent phospholipase A2-gamma
 PNPT1	Polyribonucleotide nucleotidyltransferase 1, mitochondrial
 PNRC2	Proline-rich nuclear receptor coactivator 2
-PNS1	Putative choline transporter, neither null mutation nor overexpression affects choline transport
+PNS1	pH nine-sensitive protein 1
 PNT1	pentamidine resistance factor
 PNU1	Mitochondrial nuclease
 PNUT	Protein peanut
@@ -21774,7 +21773,7 @@ STP1	species-specific tRNA processing
 STP2	protein with similarity to stp1p
 STP3	Zinc finger protein
 STP4	tRNA splicing, uptake of branched- chain amino acids
-STP22	suppressor protein STP22 of temperature-sensitive alpha-factor receptor and arginine permease
+STP22	Suppressor protein STP22 of temperature-sensitive alpha-factor receptor and arginine permease
 STPG1	O(6)-methylguanine-induced apoptosis 2
 STPG2	Sperm-tail PG-rich repeat-containing protein 2
 STR2	Cystathionine gamma-synthase
@@ -24327,9 +24326,9 @@ VCO29	Vco29
 VCP1	AAA ATPase
 VCPIP1	Deubiquitinating protein VCIP135
 VCPKMT	Protein-lysine methyltransferase METTL21D
-VCX1	Vacuolar membrane antiporter with Ca2+/H+ and K+/H+ exchange activity
-VCX1.1	Ca2+/H+ antiporter
-VCX1.2	Ca2+/H+ antiporter
+VCX1	Vacuolar calcium ion transporter
+VCX1.1	Vacuolar calcium ion transporter
+VCX1.2	Vacuolar calcium ion transporter
 VCX1_0	Vacuolar calcium ion transporter
 VCX1_1	Vacuolar calcium ion transporter
 VCX1_2	Vacuolar calcium ion transporter
@@ -28853,9 +28852,10 @@ ilvN	acetolactate synthase, small subunit
 ima1	integral inner nuclear membrane protein
 imeB	Serine/threonine protein kinase
 img1	54S ribosomal protein subunit img1 mitochondrial
-img2	tRNA
+img2	54S ribosomal protein img2, mitochondrial
 img2_0	54S ribosomal protein img2, mitochondrial
 img2_1	54S ribosomal protein img2, mitochondrial
+img2_2	54S ribosomal protein img2, mitochondrial
 iml1	Vacuolar membrane-associated protein iml1
 iml2	Mitochondrial outer membrane protein iml2
 iml2_0	Mitochondrial outer membrane protein iml2
