@@ -1,5 +1,5 @@
-#version 1.76
-#Date 04-03-2022
+#version 1.77
+#Date 04-20-2022
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -4294,6 +4294,7 @@ CXF1	Putative cation efflux family protein
 CXIP2	Bifunctional monothiol glutaredoxin-S16, chloroplastic
 CXORF22	Cilia- and flagella-associated protein 47
 CXORF26	polysaccharide biosynthesis domain containing protein 1
+PBDC1	polysaccharide biosynthesis domain containing protein 1
 CXORF30	Cilia- and flagella-associated protein 47
 CXORF56	UPF0428 protein CXorf56
 CXORF58	Putative uncharacterized protein CXorf58
@@ -4711,7 +4712,7 @@ D4Z4	Double homeobox protein 4
 D14	D(1)-like dopamine receptor
 D25	Carbohydrate esterase 4 protein
 DAAM1	Disheveled-associated activator of morphogenesis 1
-DAAM2	Dishevelled associated activator of morphoproteinsis 2
+DAAM2	Dishevelled associated activator of morphogenesis 2
 DAB2IP	Disabled 2-interacting protein
 DAC	Deacylase-like protein
 DACH1	Dachshund 1
@@ -15759,7 +15760,7 @@ OPRK1	Kappa-type opioid receptor
 OPRL1	Nociceptin receptor
 OPRM1	Mu-type opioid receptor
 OPRM3	Protein CyaE
-OPS1	ion channel activity
+OPS1	Opsin-1
 OPS2	MFS transporter OpS2
 OPS3	Oosporein cluster regulator OpS3
 OPS4	opaque-phase-specific protein OP4 precursor
@@ -20331,7 +20332,7 @@ SDS22	Protein phosphatase 1 regulatory subunit SDS22
 SDS23	cell separation during budding
 SDS23_0	cell separation during budding
 SDS23_1	cell separation during budding
-SDT1	suppressor of deletion of TFIIS
+SDT1	Putative suppressor of disruption of TFIIS
 SE1L1	sel1-like protein
 SEA4	SEA (Seh1-associated) complex subunit
 SEC1	vacuolar sorting protein VPS33/slp1
