@@ -1,5 +1,5 @@
-#version 1.77
-#Date 04-20-2022
+#version 1.78
+#Date 05-27-2022
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -227,6 +227,8 @@ ABO1	Elongator complex protein 1
 ABP1	actin binding protein
 ABP140	AdoMet-dependent tRNA methyltransferase and actin binding protein
 ABQ6	A-beta Q6, HD1 mating type protein
+ABR1	Multicopper oxidase abr1
+ABR2	Laccase abr2
 ABR6	homeodomain mating type protein, HD2 homeodomain
 ABRAXAS2	BRISC complex subunit Abraxas 2
 ABS6	A-beta-S6, HD1 mating-type protein
@@ -922,6 +924,7 @@ ALS6	agglutinin-like protein 6 serine rich
 ALS9	flocculin
 ALT1	alanine transaminase
 ALT2	alanine transaminase ALT2
+ALT5	Highly reducing polyketide synthase alt5
 ALT-3	acyltransferase, class 3
 ALTA5	60S acidic ribosomal protein P2
 ALTA7	Minor allergen Alt a 7
@@ -4294,7 +4297,6 @@ CXF1	Putative cation efflux family protein
 CXIP2	Bifunctional monothiol glutaredoxin-S16, chloroplastic
 CXORF22	Cilia- and flagella-associated protein 47
 CXORF26	polysaccharide biosynthesis domain containing protein 1
-PBDC1	polysaccharide biosynthesis domain containing protein 1
 CXORF30	Cilia- and flagella-associated protein 47
 CXORF56	UPF0428 protein CXorf56
 CXORF58	Putative uncharacterized protein CXorf58
@@ -6124,9 +6126,12 @@ ERG4	C-24(28) sterol reductase
 ERG5	RNA polymerase C-22 sterol desaturase
 ERG6	Delta(24)-sterol C-methyltransferase
 ERG7	Lanosterol synthase (Oxidosqualene--lanosterol cyclase)
+ERG7A	Lanosterol synthase erg7A
+ERG7B	Lanosterol synthase erg7B
 ERG8	phosphomevalonate kinase
 ERG9	bifunctional farnesyl-diphosphate farnesyltransferase/squalene synthase
 ERG10	erg10, acetyl-CoA C-acetyltransferase
+ERG10A	Acetyl-CoA acetyltransferase erg10A, mitochondrial
 ERG11	Lanosterol 14-alpha-demethylase
 ERG11_0	Lanosterol 14-alpha demethylase
 ERG11_1	Lanosterol 14-alpha demethylase
@@ -8671,7 +8676,10 @@ HEL2	E3 ubiquitin-protein ligase HEL2
 HEL25E	ATP-dependent RNA helicase WM6
 HELB1	Cytochrome P450 monooxygenase helB1
 HELB2	Cytochrome P450 monooxygenase helB2
+HELB3	Cytochrome P450 monooxygenase helB3
 HELB4	Cytochrome P450 monooxygenase helB4
+HELD1	Acyltransferase helD1
+HELD2	Acyltransferase helD2
 HELLS	Lymphoid-specific helicase
 HELZ2	helicase
 HEM1	mitochondrial 5-aminolevulinate synthase
@@ -13924,6 +13932,7 @@ MOXD1	DBH-like monooxygenase protein 1
 MOXR2	MoxR protein, putative
 MOXR3	MoxR-like ATPase
 MOXR-3	MoxR-like ATPase
+MP1	M-myrmeciitoxin-Mp1
 MP3	Bifunctional protein GlmU
 MP20	Muscle-specific protein 20
 MP65	Cell surface mannoprotein MP65
@@ -15306,13 +15315,17 @@ NRPB10L	DNA-directed RNA polymerase subunit 10-like protein
 NRPB12	DNA-directed RNA polymerases II, IV and V subunit 12
 NRPC1	DNA-directed RNA polymerase III subunit 1
 NRPD1B	DNA-directed RNA polymerase V subunit 1
+NRPS1	Trichosetin synthetase PKS-NRPS1
 NRPS2	Non-ribosomal peptide synthetase
 NRPS2_0	Nonribosomal peptide synthetase 2
 NRPS2_1	Nonribosomal peptide synthetase 2
 NRPS3	related to non-ribosomal peptide synthetase
 NRPS4	Nonribosomal peptide synthetase 4
 NRPS5	NRPS5 single domain, non-ribosomal peptide synthase-like protein
+NRPS6	Nonribosomal peptide synthetase 6
 NRPS7	Nonribosomal peptide synthetase 7
+NRPS8	Nonribosomal peptide synthetase 8
+NRPS9	Nonribosomal peptide synthetase 9
 NRPS12	Nonribosomal peptide synthetase 12
 NRPS13	Nonribosomal peptide synthetase 13
 NRPS14	Nonribosomal peptide synthetase 14
@@ -16137,7 +16150,7 @@ PBB1	Proteasome subunit beta type-7-A
 PBB2	Bifunctional protein GlmU
 PBC1	Proteasome subunit beta type-3-A
 PBD1	Proteasome subunit beta type-2-A
-PBDC1	Protein pbdc1
+PBDC1	polysaccharide biosynthesis domain containing protein 1
 PBE1	Proteasome subunit beta type-5-A
 PBE2	Proteasome subunit beta type-5-B
 PBG1	Proteasome subunit beta type-4
@@ -18053,12 +18066,16 @@ PYK1_0	Pyruvate kinase
 PYK1_1	Pyruvate kinase
 PYK2	pyruvate kinase PYK2
 PYR1	Orotidine 5'-phosphate decarboxylase
+PYR2	Tyrosine-protein phosphatase corkscrew
 PYR3	Dihydroorotase
 PYR3_0	Dihydroorotase
 PYR3_1	Dihydroorotase
 PYR3_2	Dihydroorotase
 PYR5	orotidine-5'-phosphate decarboxylase
+PYR6	UMP-CMP kinase 3
 PYR7	CTP synthase
+PYR8	L-lactate dehydrogenase
+PYR9	Cytochrome P450 monooxygenase pyr9
 PYR13	Oxidoreductase
 PYRB2	Aspartate carbamoyltransferase 2, chloroplastic
 PYRF	orotidine-5'-phosphate decarboxylase
@@ -25250,6 +25267,7 @@ ZCCHC16	Retrotransposon Gag-like protein 4
 ZCCHC17	Nucleolar protein of 40 kDa
 ZCCHC24	Zinc finger CCHC domain-containing protein 24
 ZCF2	Putative transcription factor
+ZCF27	Zcf27p
 ZCN10	MFT2-Corn MFT-like protein
 ZCRB1	Zinc finger CCHC-type and RNA-binding motif-containing protein 1
 ZCWPW1	Zinc finger CW-type PWWP domain protein 1
