@@ -1,5 +1,5 @@
-#version 1.78
-#Date 05-27-2022
+#version 1.79
+#Date 06-30-2022
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -14880,8 +14880,8 @@ NDUFS5	NADH dehydrogenase [ubiquinone] iron-sulfur protein 5
 NDUFS6	NADH dehydrogenase Fe-S protein subunit 6 NDUFS6
 NDUFS7	NADH dehydrogenase Fe-S protein subunit 7 NDUFS7
 NDUFS8	NADH dehydrogenase Fe-S protein subunit 8 NDUFS8
-NDUFV1	NDUFV1NADH dehydrogenase flavo protein subunit 1
-NDUFV2	NDUFV2NADH dehydrogenase flavo protein subunit 2
+NDUFV1	NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial
+NDUFV2	NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial
 NDVA2	ABC transporter, ATP-binding protein
 NEC1	Neuroendocrine convertase 1
 NEC3	Bifunctional monodehydroascorbate reductase and carbonic anhydrase nectarin-3
@@ -15621,7 +15621,7 @@ Ndufs4	Ndufs4, NADH dehydrogenase Fe-S protein 4
 Ndufs6	Ndufs6, NADH-ubiquinone oxidoreductase complex I 13kd subunit
 Ndufs7	ndufs7, NADH:ubiquinone oxidoreductase 20 kd subunit
 Ndufs8	Ndufs8, NADH:ubiquinone oxidoreductase 23 kd subunit
-Ndufv1	NDUFV1NADH dehydrogenase flavo protein subunit 1
+Ndufv1	NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial
 Necap2	Adaptin ear-binding coat-associated protein 2
 Nefh	Neurofilament heavy polypeptide
 Nemf	Nuclear export mediator factor Nemf
