@@ -1,5 +1,5 @@
-#version 1.79
-#Date 06-30-2022
+#version 1.80
+#Date 07-06-2022
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -15407,7 +15407,7 @@ NTN3	Netrin-3
 NTNG1	Netrin-G1
 NTNG2	Netrin-G2
 NTO1	nuA3 HAT complex component NTO1
-NTR1	suppressor of prp38 #2
+NTR1	Thioredoxin reductase 1
 NTR2	nineteen complex-related protein
 NTRK2	BDNF/NT-3 growth factors receptor
 NTT1	Cytochrome c oxidase subunit 1
