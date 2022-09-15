@@ -1,5 +1,5 @@
-#version 1.80
-#Date 07-06-2022
+#version 1.81
+#Date 09-15-2022
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -411,6 +411,7 @@ ACTR6	Actin-related protein 6
 ACTR8	Actin-related protein 8
 ACTR10	Actin-related protein 10
 ACTRT2	Actin-related protein T2
+ACTT5	Acyl-CoA synthetase actt5
 ACTY	Actin-11
 ACTZ	Actin-2
 ACTZ_0	Actin-2
@@ -938,6 +939,7 @@ ALX4	Homeobox protein aristaless-like 4
 ALY2	Arrestin-related trafficking adapter 3
 ALYA3	Alginate lyase, family PL17
 ALYREF	THO complex subunit 4
+AM2	Ochratoxinase
 AMA1	meiosis-specific APC/C activator protein AMA1
 AMB1	beta alanine synthase
 AMC3	Metacaspase-3
@@ -4418,6 +4420,7 @@ CYP51	lanosterol 14-alpha-demethylase
 CYP51A	Sterol 14-alpha demethylase
 CYP51A1	Lanosterol 14-alpha demethylase
 CYP51B	Sterol 14-alpha demethylase
+CYP51C	Sterol 14-alpha demethylase cyp51c
 CYP51G1	Sterol 14-demethylase
 CYP51_0	Lanosterol 14-alpha demethylase
 CYP51_1	Lanosterol 14-alpha demethylase
@@ -6123,6 +6126,7 @@ ERG2_0	C-8 sterol isomerase
 ERG2_1	C-8 sterol isomerase
 ERG3	c-5 sterol desaturase
 ERG4	C-24(28) sterol reductase
+ERG4B	Delta(24(24(1)))-sterol reductase erg4B
 ERG5	RNA polymerase C-22 sterol desaturase
 ERG6	Delta(24)-sterol C-methyltransferase
 ERG7	Lanosterol synthase (Oxidosqualene--lanosterol cyclase)
@@ -7024,6 +7028,7 @@ FRE4	ferric reductase
 FRE4.1	Ferric reductase, NADH/NADPH oxidase transmembrane component (7 domains)
 FRE4.2	Ferric reductase, NADH/NADPH oxidase transmembrane component (5 domains)
 FRE6	ferric reductase
+FRE7	Ferric/cupric reductase transmembrane component 7
 FRE8	putative ferric reductase transmembrane component 8
 FREM1	FRAS1-related extracellular matrix protein 1
 FREM2	FRAS1- extracellular matrix protein 2
@@ -9078,6 +9083,7 @@ HPSE2	Inactive heparanase-2
 HPT1	hypoxanthine-guanine phosphoribosyltransferase
 HPt	histidine Phosphotransfer protein
 HQD1	6-chlorohydroxyquinol-1,2-dioxygenase
+HQD2	Catechol 1,2-dioxygenase
 HQD2_1	Catechol 1 2-dioxygenase
 HQD2_2	Catechol 1 2-dioxygenase
 HR4	Ligand-binding domain of nuclear hormone receptor
@@ -17775,6 +17781,7 @@ PRX1-2	Mitochondrial peroxiredoxin with thioredoxin peroxidase activity
 PRX1b	mitochondrial peroxiredoxin PRX1
 PRX5	peroxiredoxin PRX5
 PRX6	Short-chain dehydrogenase/reductase prx6
+PRX7	Short-chain dehydrogenase/reductase prx7
 PRXIIE1	Peroxiredoxin-2E-1, chloroplastic
 PRXL2B	Prostamide/prostaglandin F synthase
 PRY1	sterol-binding protein
@@ -21223,6 +21230,7 @@ SORD_0	Sorbitol dehydrogenase
 SORD_1	Sorbitol dehydrogenase
 SORD_2	Sorbitol dehydrogenase
 SORL1	Sortilin-related receptor
+SORR2	Sorbicillinoid biosynthetic cluster transcription factor 2
 SORT1	Sortilin
 SOS1	Son of sevenless 1
 SOS2	Son of sevenless 2
@@ -24360,6 +24368,8 @@ VEA1	Mutant VeA1 protein
 VEL1	velum formation-related protein
 VEL2	Velvet complex subunit 2
 VEP1	3-oxo-Delta(4,5)-steroid 5-beta-reductase
+VERU2	Verrucosidin biosynthesis cluster protein U2
+VERU3	Verrucosidin biosynthesis cluster protein U3
 VEZF1	Vascular endothelial zinc finger 1
 VFA1	VPS4-associated protein 1
 VFB1	Putative VIER F-box protein 1
