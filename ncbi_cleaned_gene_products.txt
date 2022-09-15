@@ -2248,6 +2248,7 @@ BGS1	1,3-beta-glucan synthase
 BHA1	glycosyl hyrolase, family 3-like protein
 BHLHE40	Class E basic helix-loop-helix protein 40
 BI1	Bax inhibitor 1
+BI-1	Bax inhibitor 1
 BI2	cytochrome b mRNA maturase bI2
 BI3	cytochrome b mRNA maturase bI3
 BI4	intron-encoded RNA maturase bI4
