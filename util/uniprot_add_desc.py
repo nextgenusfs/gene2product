@@ -2,7 +2,8 @@
 import  urllib.request, csv, sys, warnings, re,os
 from urllib.error import HTTPError
 import codecs
-urlbase="https://www.uniprot.org/uniprot/?query={}&sort=score&columns=id,entry%20name,reviewed,organism,genes(PREFERRED),genes,protein%20names&format=tab&limit=1"
+
+urlbase="https://rest.uniprot.org/uniprotkb/search?query={}&format=tsv&sort=score&fields=id,entry%20name,reviewed,organism,genes(PREFERRED),genes,protein%20names&limit=1"
 if len(sys.argv) < 2:
     print("No file argument")
     sys.exit(2)
@@ -11,7 +12,7 @@ infile = sys.argv[1]
 newfile = infile + ".updated"
 seen = {}
 if os.path.exists(newfile):
-    with open(newfile,'rU') as fh:
+    with open(newfile,'r') as fh:
         d = csv.reader(fh,delimiter="\t")
         for r in d:
             if r[0].startswith("#"):
