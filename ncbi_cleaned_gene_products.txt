@@ -1,5 +1,5 @@
-#version 1.82
-#Date 09-25-2022
+#version 1.83
+#Date 10-02-2022
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -105,6 +105,7 @@ AATP1	AAA-ATPase ASD, mitochondrial
 AATP2	ADP,ATP carrier protein 2, chloroplastic
 AAY4	mating-type protein A-alpha Y4
 AAZ4	A-alpha Z4, HD1 mating type protein
+ABA1	Cytochrome P450 monooxygenase aba1
 ABA2	Zeaxanthin epoxidase, chloroplastic
 ABA3	Molybdenum cofactor sulfurase
 ABA4	Short-chain dehydrogenase/reductase aba4
@@ -647,8 +648,12 @@ AGL15	Agamous-like MADS-box protein AGL15
 AGLA2	Alpha amylase, catalytic region
 AGLU	Alpha-glucosidase
 AGM1	phosphoacetylglucosamine mutase
+AGNL4	Oxidoreductase AgnL4
+AGNL6	Short chain dehydrogenase AgnL6
 AGNL7	Atrochrysone carboxyl ACP thioesterase AgnL7
 AGNL8	Dehydratase AgnL8
+AGNL11	Agnestins biosynthesis cluster transcription factor AgnL11
+AGNL12	Agnestins efflux protein AgnL12
 AGNPKS1	Atrochrysone carboxylic acid synthase Agnpks1
 AGNR1	Monooxygenase AgnR1
 AGO1	argonaute 1
@@ -1565,6 +1570,7 @@ ASK5	Shaggy-related protein kinase epsilon
 ASK10	transcriptional activator
 ASL3	2-oxoglutarate-dependent dioxygenase asL3
 ASL5	Oxidoreductase asL5
+ASL6	FAD-dependent monooxygenase asL6
 ASL7	ABC transporter asL7
 ASM4	FG-nucleoporin ASM4
 ASM-3	Putative sphingomyelin phosphodiesterase asm-3
@@ -4272,6 +4278,7 @@ CUP2	copper-binding transcription factor
 CUP5	vacuolar ATPase V0 domain subunit c
 CUP9	homeodomain super family
 CURS1	Highly reducing polyketide synthase curS1
+CURS2	Non-reducing polyketide synthase curS2
 CUS1	U2 snRNP protein
 CUS2	U2 snRNA and Prp11p binding protein
 CUSOD2	Superoxide dismutase [Cu-Zn]
@@ -6670,6 +6677,7 @@ FCK1	Bifunctional cytokinin biosynthesis protein
 FCK2	Cytochrome P450 monooxygenase fck2
 FCP1	Carboxy-terminal domain (CTD) phosphatase
 FCR1	Fluconazole resistance protein 1
+FCR3	Fluconazole resistance protein 3
 FCY1	cytosine deaminase
 FCY2	purine-cytosine permease
 FCY21	Purine-cytosine permease FCY21
@@ -7135,6 +7143,7 @@ FTSZ22	Cell division protein FtsZ
 FTT-2	14-3-3-like protein 2
 FTZF1	Nuclear hormone receptor FTZ-F1
 FUB1	Reducing polyketide synthase fub1
+FUB2	Fusaric acid biosynthesis protein 2
 FUB3	Aspartate kinase fub3
 FUB4	Hydrolase fub4
 FUB5	Homoserine O-acetyltransferase fub5
@@ -8171,6 +8180,7 @@ GS2	gamma-glutamylcysteine synthetase
 GSC1	1,3-beta-glucan synthase
 GSC2	1,3-beta-glucan synthase GSC2
 GSF2	glucose repression protein
+GSFR1	Probable transcription factor gsfR1
 GSG1L	Germ cell-specific protein 1-like protein
 GSG2	Serine/threonine-protein kinase haspin
 GSH1	glutamate--cysteine ligase
@@ -17799,6 +17809,8 @@ PRW1	RbAp48-related WD40 repeat-containing protein prw1
 PRX1-1	Mitochondrial peroxiredoxin with thioredoxin peroxidase activity
 PRX1-2	Mitochondrial peroxiredoxin with thioredoxin peroxidase activity
 PRX1b	mitochondrial peroxiredoxin PRX1
+PRX2	Aristolochene synthase
+PRX4	Short-chain dehydrogenase/reductase prx4
 PRX5	peroxiredoxin PRX5
 PRX6	Short-chain dehydrogenase/reductase prx6
 PRX7	Short-chain dehydrogenase/reductase prx7
@@ -18536,6 +18548,8 @@ RAD54B	DNA repair and recombination protein RAD54B
 RAD54L	DNA repair and recombination protein RAD54-like
 RAD59	mitotic recombination and DNA repair protein RAD59
 RAD61	radiation sensitive protein RAD61
+RADS1	Reducing polyketide synthase rads1
+RADS2	Non-reducing polyketide synthase rads2
 RAE1	Poly(A)+ RNA export protein RAE1
 RAG1	low-affinity glucose transporter protein RAG1
 RAG2	glucose-6-phosphate isomerase protein RAG2
@@ -21253,6 +21267,7 @@ SORD_0	Sorbitol dehydrogenase
 SORD_1	Sorbitol dehydrogenase
 SORD_2	Sorbitol dehydrogenase
 SORL1	Sortilin-related receptor
+SORR1	Sorbicillinoid biosynthetic cluster transcription factor 1
 SORR2	Sorbicillinoid biosynthetic cluster transcription factor 2
 SORT1	Sortilin
 SOS1	Son of sevenless 1
