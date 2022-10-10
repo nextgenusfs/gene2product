@@ -1,5 +1,5 @@
-#version 1.83
-#Date 10-02-2022
+#version 1.84
+#Date 10-09-2022
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -644,10 +644,13 @@ AGK2	Guanylate kinase 2
 AGL1	alpha-glucosidase maltase
 AGL2	Alpha-glucosidase 2
 AGL3	Alpha-galactosidase 3
+AGL8	Putative alpha-galactosidase 8
 AGL15	Agamous-like MADS-box protein AGL15
 AGLA2	Alpha amylase, catalytic region
 AGLU	Alpha-glucosidase
 AGM1	phosphoacetylglucosamine mutase
+AGNL1	Decarboxylase AgnL1
+AGNL2	Anthrone oxygenase AgnL2
 AGNL4	Oxidoreductase AgnL4
 AGNL6	Short chain dehydrogenase AgnL6
 AGNL7	Atrochrysone carboxyl ACP thioesterase AgnL7
@@ -2347,6 +2350,7 @@ BNI5	bud neck involved protein
 BNIP1	Vesicle transport protein S20
 BNIP2	BCL2/adenovirus E1B 19 kDa protein-interacting protein 2
 BNR1	linear actin filament forming protein
+BOA6	Reducing polyketide synthase boa6
 BOA17	Oxidoreductase BOA17
 BOB1	transcriptional coactivator
 BOD1	Biorientation of chromosomes in cell division protein 1
@@ -3179,6 +3183,7 @@ CEL6B	1,4-beta-D-glucan cellobiohydrolase cel6b
 CEL6C	1,4-beta-D-glucan cellobiohydrolase CEL6C
 CEL9	Endoglucanase
 CEL9B	Glycoside hydrolase, 9
+CEL12B	Endoglucanase cel12B
 CEL12C	Endoglucanase cel12C
 CELA1	Chymotrypsin-like elastase family member 1
 CELA2A	Chymotrypsin-like elastase member 2A
@@ -4859,6 +4864,7 @@ DCL2	Dicer-like protein 2
 DCL3A	Endoribonuclease Dicer 3a
 DCL4	endoribonuclease Dicer
 DCL21	Dicer-like protein 2-1
+DCL22	Dicer-like protein 2-2
 DCL2401	dsRNA-specific nuclease
 DCL-2	ATP-dependent helicase DCL-2
 DCLK1	Serine/threonine-protein kinase dclk1
@@ -9100,6 +9106,7 @@ HPK31	His Kinase A domain protein
 HPM1	mitotic exit network interactor 1
 HPM2	Glutathione S-transferase hmp2
 HPM6	Efflux pump hmp6
+HPM8	Reducing polyketide synthase hmp8
 HPR1	hyperrecombination-related protein
 HPR5	meiotic recombination and transition protein
 HPRT1	hypoxanthine phosphoribosyltransferase 1
@@ -13358,6 +13365,7 @@ MDN17	Midasin
 MDN18	Midasin
 MDN19	Midasin
 MDP1	Magnesium-dependent phosphatase 1
+MDPH2	Anthrone oxygenase
 MDR1	GTPase-activating protein
 MDR2	multidrug-resistance transporter MDR2
 MDR3	ABC multidrug transporter mdr3
@@ -16596,6 +16604,7 @@ PGANT9	Putative polypeptide N-acetylgalactosaminyltransferase 9
 PGAP1	GPI inositol-deacylase
 PGAP2	Post-GPI attachment to proteins factor 2
 PGAP3	Post-GPI attachment to proteins factor 3
+PGAX1	Exopolygalacturonase X-1
 PGAX2	Exopolygalacturonase X-2
 PGA_0	Pepsin A
 PGA_1	Pepsin A
@@ -17810,10 +17819,14 @@ PRX1-1	Mitochondrial peroxiredoxin with thioredoxin peroxidase activity
 PRX1-2	Mitochondrial peroxiredoxin with thioredoxin peroxidase activity
 PRX1b	mitochondrial peroxiredoxin PRX1
 PRX2	Aristolochene synthase
+PRX3	FAD-dependent monooxygenase prx3
 PRX4	Short-chain dehydrogenase/reductase prx4
 PRX5	peroxiredoxin PRX5
 PRX6	Short-chain dehydrogenase/reductase prx6
 PRX7	Short-chain dehydrogenase/reductase prx7
+PRX8	Cytochrome P450 monooxygenase prx8
+PRX9	Cytochrome P450 monooxygenase prx9
+PRX11	Eremophilane O-acetyltransferase prx11
 PRXIIE1	Peroxiredoxin-2E-1, chloroplastic
 PRXL2B	Prostamide/prostaglandin F synthase
 PRY1	sterol-binding protein
@@ -18776,6 +18789,7 @@ RDR16203	RNA-directed RNA polymerase
 RDS1	transcriptional regulator
 RDS2	Transcription factor
 RDS3	regulator of drug sensitivity
+RDT1	Elsinochrome reductase 1
 REB1	RNA polymerase I enhancer binding protein
 REC8	meiosis-specific component of sister chromatid cohesion complex
 REC102	meiosis-specific recombination protein
@@ -23352,6 +23366,14 @@ TRS65	Trafficking protein particle complex II-specific subunit 65
 TRS85	Trafficking protein particle complex III-specific subunit 85
 TRS120	Trafficking protein particle complex II-specific subunit 120
 TRS130	targeting complex (TRAPP) component
+TRT2	Polyprenyl transferase trt2
+TRT3	FAD-binding monooxygenase trt3
+TRT4	Non-reducing polyketide synthase trt4
+TRT5	Methyltransferase trt5
+TRT6	Cytochrome P450 monooxygenase trt6
+TRT8	FAD-dependent monooxygenase trt8
+TRT9	Short chain dehydrogenase trt9
+TRT14	Isomerase trt14
 TRTHY	transthyretin (preambulin)
 TRUB1	TruB pseudouridine (psi) synthase 1
 TRUD	tRNA pseudouridine synthase D
@@ -24221,6 +24243,8 @@ USP50	Inactive ubiquitin carboxyl-terminal hydrolase 50
 USP51	Ubiquitin carboxyl-terminal hydrolase 51
 USPA1	Carcinoembryonic antigen-related cell adhesion molecule 1
 UST1	Cell pattern formation-associated protein ust1
+USTF1	Flavin-containing monooxygenase ustF1
+USTF2	Flavin-containing monooxygenase ustF2
 USV1	Up in starvation
 USV1_0	Nutrient and stress factor 1
 USV1_1	Nutrient and stress factor 1
@@ -24409,6 +24433,7 @@ VEA1	Mutant VeA1 protein
 VEL1	velum formation-related protein
 VEL2	Velvet complex subunit 2
 VEP1	3-oxo-Delta(4,5)-steroid 5-beta-reductase
+VERC1	FAD-dependent monooxygenase verC1
 VERU2	Verrucosidin biosynthesis cluster protein U2
 VERU3	Verrucosidin biosynthesis cluster protein U3
 VEZF1	Vascular endothelial zinc finger 1
@@ -28095,6 +28120,7 @@ ftmOx1	Verruculogen synthase
 ftmP450-1	Tryprostatin B 6-hydroxylase
 ftmPT1	Tryprostatin B synthase
 ftmPT2	12-alpha,13-alpha-dihydroxyfumitremorgin C prenyltransferase
+ftmPT3	Verruculogen prenyltransferase
 ftp105	Ubp5 interacting protein Ftp10
 ftr1	iron permease FTR1
 ftt2	14-3-3 class protein
@@ -28916,6 +28942,8 @@ ifcA	Fumarate reductase flavoprotein subunit
 ifcA_0	Fumarate reductase flavoprotein subunit
 ifcA_1	Fumarate reductase flavoprotein subunit
 ife-4	Eukaryotic translation initiation factor 4E-4
+ifgF1	Festuclavine synthase I
+ifgF2	Festuclavine synthase II
 ikzf5	Zinc finger protein Pegasus
 ilv1	acetolactate synthase catalytic subunit
 ilv-2	Ketol-acid reductoisomerase mitochondrial
