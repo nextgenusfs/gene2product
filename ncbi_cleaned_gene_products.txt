@@ -1,5 +1,5 @@
-#version 1.85
-#Date 12-21-2022
+#version 1.86
+#Date 02-07-2023
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -4281,6 +4281,7 @@ CTT1	catalase T
 CTU2	Cytoplasmic tRNA 2-thiolation protein 2
 CTXN2	Cortexin-2
 CU	Cerato-ulmin
+CUB1	Cu(2+) suppressing and bleomycin sensitive protein 1
 CUE1	coupling of ubiquitin conjugation to ER degradation
 CUE2	coupling of ubiquitin conjugation to ER degradation
 CUE3	CUE domain-containing protein 3
@@ -6719,11 +6720,12 @@ FCK2	Cytochrome P450 monooxygenase fck2
 FCP1	Carboxy-terminal domain (CTD) phosphatase
 FCR1	Fluconazole resistance protein 1
 FCR3	Fluconazole resistance protein 3
-FCY1	cytosine deaminase
-FCY2	purine-cytosine permease
+FCY1	Cytosine deaminase
+FCY2	Purine-cytosine permease FCY2
 FCY21	Purine-cytosine permease FCY21
-FCY22	purine-cytosine permease
-FDB2	N-malonyltransferase fdb2
+FCY22	Purine-cytosine permease FCY22
+FDB1	Gamma-lactamase FDB1
+FDB2	N-malonyltransferase FDB2
 FDB3	Transcription factor FBD3
 FDC1	Ferulic acid decarboxylase 1
 FDFT1	Farnesyl-diphosphate farnesyltransferase
@@ -6731,7 +6733,7 @@ FDH1	formate dehydrogenase (NAD+)
 FDH1.1	formate dehydrogenase-like protein
 FDH1.2	formate dehydrogenase-like protein
 FDH2	Zinc-binding oxidoreductase
-FDH3	bifunctional alcohol dehydrogenase/S-(hydroxymethyl)glutathione dehydrogenase
+FDH3	S-(hydroxymethyl)glutathione dehydrogenase
 FDX1	Adrenodoxin, mitochondrial
 FDX2	Ferredoxin-2, mitochondrial
 FDXACB1	Ferredoxin-fold anticodon-binding domain-containing protein 1
