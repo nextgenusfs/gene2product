@@ -1,5 +1,5 @@
-#version 1.86
-#Date 02-07-2023
+#version 1.87
+#Date 02-14-2023
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -16,6 +16,7 @@
 4CLL1	4-coumarate--CoA ligase-like 1
 4CLL2	4-coumarate--CoA ligase-like 2
 4CLL3	4-coumarate--CoA ligase-like 3
+4CLL4	4-coumarate--CoA ligase-like 4
 4CLL7	4-coumarate--CoA ligase-like 7
 4CLL7_0	4-coumarate--CoA ligase-like 7
 4CLL7_1	4-coumarate--CoA ligase-like 7
@@ -42,6 +43,7 @@ A2	mating type regulatory protein, silenced copy at HMR locus
 A4GALT	Lactosylceramide 4-alpha-galactosyltransferase
 A4GNT	Alpha-1,4-N-acetylglucosaminyltransferase
 A4LEA	4-alpha-L-fucosyltransferase
+AA13	Lytic polysaccharide monooxygenase AA13
 AAA1	Asc-type amino acid transporter 1
 AAC	ADP,ATP carrier protein
 AAC1	ADP/ATP carrier protein AAC1
@@ -2800,6 +2802,7 @@ CAX4	Dolichyl pyrophosphate (Dol-P-P) phosphatase
 CAX5	Vacuolar cation/proton exchanger 5
 CAX7	sodium/calcium exchanger protein
 CAX8	K+-dependent Na+:Ca2+ antiporter
+CAY1	Splicing factor cactin
 CBC1	nuclear cap-binding protein complex subunit 1
 CBC2	nuclear cap binding complex subunit
 CBF1	basic helix-loop-helix protein
@@ -4956,6 +4959,7 @@ DDR48	DNA damage-responsive protein 48
 DDRGK1	DDRGK domain-containing protein 1
 DDX1	ATP-dependent RNA helicase ddx1
 DDX3X	ATP-dependent RNA helicase DDX3X
+DDX3Y	ATP-dependent RNA helicase ddx3y
 DDX4	Probable ATP-dependent RNA helicase ddx4
 DDX5	Probable ATP-dependent RNA helicase ddx5
 DDX6	Probable ATP-dependent RNA helicase ddx6
@@ -5303,6 +5307,7 @@ DNF1_0	Phospholipid-transporting ATPase DNF1
 DNF1_1	Phospholipid-transporting ATPase DNF1
 DNF2	phospholipid-translocating ATPase
 DNF3	drs2 neo1 family protein
+DNG1	Inhibitor of growth protein 1
 DNJ1	Tetratricopeptide repeat and J domain-containing co-chaperone dnj1
 DNJC9	DnaJ subfamily C member 9
 DNL1	DNA ligase IV
@@ -7201,6 +7206,7 @@ FUB5	Homoserine O-acetyltransferase fub5
 FUB6	Dehydrogenase fub6
 FUB7	Sulfhydrylase fub7
 FUB8	Non-canonical non-ribosomal peptide synthetase fub8
+FUB9	Oxidase fub9
 FUB10	Fusaric acid cluster transcription factor fub10
 FUB11	Efflux pump fub11
 FUB12	Fusaric acid cluster transcription factor fub12
@@ -12070,6 +12076,7 @@ KI13B	Kinesin-like protein KIF13B
 KI18B	Kinesin-like protein KIF18B
 KI21B	Kinesin-like protein KIF21B
 KIC1	kinase that interacts with cdc31p
+KIF1	Kinesin-related protein 1
 KIF1A	Kinesin-like protein kif1a
 KIF1B	Kinesin-like protein KIF1B
 KIF1C	Kinesin-like protein KIF1C
@@ -15248,6 +15255,7 @@ NOC2_1	Nucleolar Complex protein 2
 NOC4	Maturation and nuclear export of 40S ribosomal subunits interacting protein
 NOC4L	Nucleolar complex protein 4 homolog
 NOD2	Nucleotide-binding oligomerization domain-containing protein 2
+NODY1	FAD-dependent monooxygenase nodY1
 NOG1	Nucleolar GTP-binding protein 1
 NOG2	GTPase required for pre-60S ribosomal subunit nuclear export and maturation
 NOG3	Noggin-3
@@ -15912,6 +15920,7 @@ ORC4	origin recognition complex subunit 4
 ORC5	Origin recognition complex subunit 5
 ORC6	Origin of replication complex subunit 6
 ORF3	Diels-Alderase orf3
+ORF6	Ascochitine biosynthesis cluster MFS transporter
 ORF8	Chromosome alignment-maintaining phosphoprotein 1
 ORF9	ORF9b protein
 ORF10	Glyoxylase-like domain-containing protein
@@ -18050,6 +18059,7 @@ PTCHD3	Patched domain-containing protein 3
 PTDSS1	Phosphatidylserine synthase 2
 PTDSS2	Phosphatidylserine synthase 2
 PTEN	Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+PTF1	Pdp3-interacting factor 1
 PTF1A	Pancreas transcription factor 1 subunit alpha
 PTGER4	Prostaglandin E2 receptor EP4 subtype
 PTGES2	Prostaglandin E synthase 2
@@ -19069,6 +19079,7 @@ RIC1	WD40 repeat protein
 RIC2	Ras- protein ric2
 RIC8A	Synembryn-A
 RIC8B	Synembryn-B
+RID1	Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH10
 RID2	18S rRNA
 RIF1	DNA-binding protein RIF1
 RIF2	rap1p-interacting factor
@@ -20795,6 +20806,7 @@ SHFM1	26S proteasome complex subunit SEM1
 SHG1	COMPASS (complex proteins associated with Set1p) component
 SHISAL1A	Protein shisa-like-1a
 SHKBP1	SH3KBP1-binding protein 1
+SHL2	Probable RNA-dependent RNA polymerase shl2
 SHL23	Shl23p/Lst1p complex component
 SHM1	glycine hydroxymethyltransferase SHM1
 SHM2	Serine hydroxymethyltransferase, cytosolic
@@ -21937,6 +21949,7 @@ STPG1	O(6)-methylguanine-induced apoptosis 2
 STPG2	Sperm-tail PG-rich repeat-containing protein 2
 STR2	Cystathionine gamma-synthase
 STR3	cystathionine beta-lyase
+STR7	Aldo-keto reductase str7
 STR17	Rhodanese-like domain-containing protein 17
 STRA6	Receptor for retinol uptake stra6
 STRA13	Centromere protein X
@@ -24915,6 +24928,7 @@ WSC4	Cell wall integrity and stress response component 4
 WSCD1	WSC domain-containing protein 1
 WSCD2	WSC domain-containing protein 2
 WSS1	weak suppressor of smt3
+WSS2	DNA-dependent metalloprotease WSS1 2
 WT1	Wilms tumor protein
 WTM1	transcriptional modulator
 WTM2	transcriptional modulator
@@ -25088,6 +25102,7 @@ YC06	Putative tyrosine-protein kinase in cps region
 YCF1	ATP-binding cassette glutathione S-conjugate transporter YCF1
 YCF1_0	Metal resistance protein YCF1
 YCF1_1	Metal resistance protein YCF1
+YCF4	Photosystem I assembly protein Ycf4
 YCF8	GATA zinc finger domain-containing protein
 YCF16	Probable ATP-dependent transporter ycf16
 YCF24	UPF0051 protein ABCI8, chloroplastic
@@ -25543,6 +25558,7 @@ ZNF512B	Zinc finger protein 512B
 ZNF560	Zinc finger protein 560
 ZNF729	Zinc finger protein 729
 ZNFX1	NFX1-type zinc finger-containing protein 1
+ZNG1	Zinc-regulated GTPase metalloprotein activator 1
 ZNHIT2	Zinc finger HIT domain-containing protein 2
 ZNHIT3	Zinc finger HIT domain-containing protein 3
 ZNHIT6	Box C/D snoRNA protein 1
