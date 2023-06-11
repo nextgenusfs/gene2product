@@ -34,7 +34,7 @@ with open(infile,'r') as genes, open(newfile,'w') as output:
             output.flush()
             continue
         url=urlbase.format(line[0])
-        warnings.warn("url is {}".format(url))
+        # warnings.warn("url is {}".format(url))
         try:
             with urllib.request.urlopen(url) as uniprot:
                 uniprotdat = csv.reader(codecs.iterdecode(uniprot,'utf-8'),delimiter="\t")
