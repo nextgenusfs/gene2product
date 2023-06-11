@@ -1,5 +1,5 @@
-#version 1.88
-#Date 02-14-2023
+#version 1.91
+#Date 06-11-2023
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -1111,6 +1111,7 @@ AO-I	primary-amine oxidase
 AO-I_1	Copper amine oxidase 1
 AO-I_2	Copper amine oxidase 1
 AOAT2	Glutamate--glyoxylate aminotransferase 2
+AOC1	tryptamine:oxygen oxidoreductase (deaminating) activity
 AOC1-1	Lysyl oxidase
 AOC1-2	Lysyl oxidase
 AOD1	Alternative oxidase, mitochondrial
@@ -1582,6 +1583,7 @@ ASIC4A	Acid-sensing ion channel 4-A
 ASK1	DASH complex subunit ask1
 ASK5	Shaggy-related protein kinase epsilon
 ASK10	transcriptional activator
+ASL1	Salicylate hydroxylase asL1
 ASL3	2-oxoglutarate-dependent dioxygenase asL3
 ASL5	Oxidoreductase asL5
 ASL6	FAD-dependent monooxygenase asL6
@@ -1628,6 +1630,7 @@ ASTN2	Astrotactin-2
 ASXL1	Polycomb group protein ASXL1
 ASXL2	Putative Polycomb group protein ASXL2
 ASXL3	Putative Polycomb group protein ASXL3
+ASZ1	Ankyrin repeat, SAM and basic leucine zipper domain-containing protein 1
 AT1A	Sodium/potassium-transporting ATPase subunit alpha
 AT1A_0	Sodium/potassium-transporting ATPase subunit alpha-A
 AT1A_1	Sodium/potassium-transporting ATPase subunit alpha-A
@@ -3437,6 +3440,8 @@ CHRNA10	Neuronal acetylcholine receptor subunit alpha-10
 CHRNB2	Neuronal acetylcholine receptor subunit beta-2
 CHRNB4	Neuronal acetylcholine receptor subunit beta-4
 CHRY2	Amidase chry2
+CHRY4	Short-chain dehydrogenase chry4
+CHRY6	Glutamine amidotransferase-like protein chry6
 CHS1	Chitin synthase, class 1
 CHS1_0	Chitin synthase, class 1
 CHS1_1	Chitin synthase, class 1
@@ -3645,6 +3650,7 @@ CLK2	Dual specificity protein kinase clk2
 CLK3	Dual specificity protein kinase CLK3
 CLK4	Dual specificity protein kinase clk4
 CLM1	Longiborneol synthase clm1
+CLM2	CMRF35-like molecule 2
 CLN1	Cyclin CLN1
 CLN2	G1/S-specific cyclin
 CLN3	G1/S-specific cyclin CLN3
@@ -9015,7 +9021,7 @@ HMF1	Protein HMF1
 HMG1	3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase isozyme
 HMG2	3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase isozyme
 HMG20A	High mobility group protein 20A
-HMG20B	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related
+HMG20B	SMARCE1-related protein
 HMGB1	High mobility group box 1
 HMGB1P1	Putative high mobility group protein B1-like 1
 HMGB2	High mobility group
@@ -12718,6 +12724,7 @@ LPIN2	Nuclear elongation and deformation protein 1
 LPIN3	Lipin-3
 LPL1-1	Phospholipase
 LPL1-2	Phospholipase
+LPMO13A	Lytic polysaccharide monooxygenase 13A
 LPP1	Lipid phosphate phosphatase 1
 LPP2	Lipid phosphate phosphatase 2
 LPR1	Leucine permease transcriptional regulator
@@ -16291,6 +16298,7 @@ PBX2	Pre-B-cell leukemia transcription factor 2
 PBX3	Pre-B-cell leukemia transcription factor 3
 PBY1	Probable tubulin--tyrosine ligase PBY1
 PC6	Proprotein convertase subtilisin/kexin type 5
+PC14	Monooxygenase PC-14
 PCA1	P-type cation-transporting ATPase
 PCA2	Probable proteasome subunit alpha type-2
 PCAB2	Adenylosuccinate lyase
@@ -18182,6 +18190,7 @@ PXP9	Peroxisomal catalase
 PXP18	Oleate-induced peroxisomal protein POX18 (Lipid-transfer protein) (PXP-18)
 PXPA1	5-oxoprolinase subunit A 1
 PXR1	telomerase inhibitor
+PXR2	Aristolochene synthase prx2
 PXYLP1	2-phosphoxylose phosphatase 1
 PYC	pyruvate carboxylase
 PYC1	pyruvate carboxylase
@@ -18723,6 +18732,7 @@ RASGRP2A	RAS guanyl-releasing protein 2-A
 RASGRP3	  Ras guanyl-releasing protein 3
 RASGRP4	RAS guanyl-releasing protein 4
 RASIP1	Ras-interacting protein 1
+RASL10B	Ras-like protein family member 10B
 RASL11B	Ras-like protein member 11B
 RASL12	Ras-like protein member 12
 RASSF2	Ras association domain-containing protein 2
@@ -20460,6 +20470,7 @@ SDH8	Succinate dehydrogenase assembly factor 4, mitochondrial
 SDH11	Succinate dehydrogenase [ubiquinone] flavoprotein subunit 1, mitochondrial
 SDHA	succinate dehydrogenase flavo protein subunit 1 SDH1
 SDHA1	Succinate dehydrogenase (Flavoprotein subunit)
+SDHAF1	mitochondrial respiratory chain complex II assembly
 SDHAF2	Succinate dehydrogenase assembly factor 2, mitochondrial
 SDHAF3	Succinate dehydrogenase assembly factor 3, mitochondrial
 SDHAF4	Succinate dehydrogenase assembly factor 4, mitochondrial
@@ -28713,6 +28724,7 @@ hag1	DeSI-like protein hag1
 hagh	hydroxyacylglutathione hydrolase
 hak-1	potassium transporter hak-1
 hal1	halogenase
+hal2	Tryptophan halogenase
 hal4	Pkinase-domain-containing protein
 hal4_0	Serine/threonine-protein kinase hal4
 hal4_1	Serine/threonine-protein kinase hal4
@@ -31127,6 +31139,7 @@ pks4	polyketide synthase
 pks6	polyketide synthase
 pks7	polyketide synthase
 pks9	polyketide synthase
+pks18	Chalcone and stilbene synthases, C-terminal domain
 pks-1	polyketide synthase 1
 pks-2	polyketide synthase 2
 pks-3	polyketide synthase 3
