@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 #script to update gene2products database
 
@@ -35,7 +35,7 @@ with open(os.path.join(currentdir, 'ncbi_cleaned_gene_products.txt'), 'r') as in
                 continue
             if len(product) > 100:
                 print('Product too long: %s' % product)
-                product = raw_input("Product for %s: " % name)
+                product = input("Product for %s: " % name)
             if not name in Data:
                 Data[name] = product
             else: #existing name, so warn
@@ -57,7 +57,7 @@ with open(sys.argv[1], 'r') as update:
             continue
         if len(product) > 100:
             print('Product too long: %s' % product)
-            product = raw_input("Product for %s: " % name)
+            product = input("Product for %s: " % name)
         if not name in Data:
             Data[name] = product
         else: #existing name, so warn
