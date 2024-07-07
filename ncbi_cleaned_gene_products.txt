@@ -1,5 +1,5 @@
-#version 1.92
-#Date 10-02-2023
+#version 1.93
+#Date 07-07-2024
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -43,6 +43,7 @@ A2	mating type regulatory protein, silenced copy at HMR locus
 A4GALT	Lactosylceramide 4-alpha-galactosyltransferase
 A4GNT	Alpha-1,4-N-acetylglucosaminyltransferase
 A4LEA	4-alpha-L-fucosyltransferase
+AA11	AA11 family lytic polysaccharide monooxygenase
 AA13	Lytic polysaccharide monooxygenase AA13
 AAA1	Asc-type amino acid transporter 1
 AAC	ADP,ATP carrier protein
@@ -4291,6 +4292,7 @@ CTR-A	copper transporter
 CTR-B	copper transporter
 CTR-C	copper transporter
 CTR-D	copper transporter
+CTRA2	High-affinity copper transporter ctrA2
 CTRB1	Chymotrypsinogen B
 CTRB2	Chymotrypsinogen B2
 CTS1	Endochitinase 1
@@ -7683,6 +7685,7 @@ GET3	Golgi to ER traffic-related protein
 GET3_0	ATPase GET3
 GET3_1	ATPase GET3
 GET4	Golgi to ER traffic protein 4
+GET5	Ubiquitin-like protein MDY2
 GEX1	glutathione exchanger
 GEX2	glutathione exchanger
 GF14A	14-3-3-like protein GF14-A
@@ -12757,6 +12760,7 @@ LPIN2	Nuclear elongation and deformation protein 1
 LPIN3	Lipin-3
 LPL1-1	Phospholipase
 LPL1-2	Phospholipase
+LPMO9G	AA9 family lytic polysaccharide monooxygenase G
 LPMO13A	Lytic polysaccharide monooxygenase 13A
 LPP1	Lipid phosphate phosphatase 1
 LPP2	Lipid phosphate phosphatase 2
@@ -14440,6 +14444,7 @@ MUC5B	Mucin-5B
 MUC6	oligomeric mucus gel-forming
 MUC12	Mucin-12
 MUC13	Mucin-13
+MUC17	Mucin-17
 MUC19	Mucin-19
 MUC21	Mucin-21
 MUD1	U1 small nuclear ribonucleoprotein A
