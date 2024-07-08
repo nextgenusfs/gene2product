@@ -1,4 +1,4 @@
-#version 1.93
+#version 1.94
 #Date 07-07-2024
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
@@ -13298,9 +13298,9 @@ MBO2	Coiled-coil flagellar protein
 MBOAT1	Lysophospholipid acyltransferase 1
 MBOAT2	Lysophospholipid acyltransferase 2
 MBOAT7	Lysophospholipid acyltransferase 7
-MBP1	Transcription factor MBP1 (MBF subunit p120)
-MBP2	Protein MICROTUBULE BINDING PROTEIN 2C
-MBR1	mitochondrial functions and stress response protein
+MBP1	Transcription factor MBP1
+MBP2	Myrosinase-binding protein 2
+MBR1	Mitochondrial biogenesis regulation protein 1
 MBT1	MADS box transcription factor
 MBTD1	MBT domain-containing protein 1
 MBTPS1	Membrane-bound transcription factor site-1 protease
@@ -17089,7 +17089,7 @@ PKP1	protein kinase PKP1
 PKP1-1	Pyruvate dehydrogenase complex negative regulator
 PKP1-2	Pyruvate dehydrogenase complex negative regulator
 PKP1-3	Pyruvate dehydrogenase complex negative regulator
-PKP2	putative protein kinase YGL059W
+PKP2	[Pyruvate dehydrogenase (acetyl-transferring)] kinase 2, mitochondrial
 PKP4	Plakophilin-4
 PKPA	Serine/threonine-protein kinase pkpA
 PKR1	SMK killer toxin resistance protein
@@ -19236,7 +19236,7 @@ RLBP1	Retinaldehyde-binding protein 1
 RLF	Cytochrome b5 domain-containing protein RLF
 RLF2	chromatin assembly factor-I (CAF-I) p90 subunit
 RLI1	Fe-S cluster-binding ribosome biosynthesis protein
-RLM1	resistance to lethality of mkk1p386 overexpression
+RLM1	Transcription factor RLM1
 RLP7	ribosomal-like protein
 RLP24	ATPase-activating ribosome biosynthesis protein
 RLR1	THO2 plays a role in transcriptional elongation
@@ -20021,7 +20021,7 @@ RTA1_2	Protein RTA1
 RTA1_3	Protein RTA1
 RTA3	Envelope glycoprotein gp160
 RTC1	SEA (Seh1-associated) complex subunit
-RTC2	Putative vacuolar membrane transporter for cationic amino acids
+RTC2	Vacuolar histidine transporter YPQ3
 RTC3	SDO1-like protein YHR087W
 RTC4	Restriction of telomere capping protein 4
 RTC5	Restriction of telomere capping protein 5
@@ -20778,7 +20778,6 @@ SFH11	Phosphatidylinositol/phosphatidylcholine transfer protein SFH11
 SFL1	Flocculation suppression protein
 SFM1	SPOUT methyltransferase
 SFMBT2	Scm-like with four MBT domains protein 2
-SFP1	Transcriptional regulator of ribosomal biogenesis genes
 SFRP1	Secreted frizzled-related protein 1
 SFRP2	Secreted frizzled-related protein 2
 SFRP5	Secreted frizzled-related protein 5
@@ -20789,7 +20788,7 @@ SFT2-2	Tetra-spanning membrane protein
 SFT2D1	Vesicle transport protein
 SFT2D2	Vesicle transport protein SFT2B
 SFT2D3	Vesicle transport protein
-SFU1	GATA type transcriptional activator of nitrogen-regulated genes
+SFU1	Suppressor of ferric uptake 1
 SFU1_0	Suppressor of ferric uptake 1
 SFU1_1	Suppressor of ferric uptake 1
 SFXN1	Sideroflexin-1
@@ -22246,7 +22245,7 @@ SYNJ1	Synaptojanin-1
 SYNJ2	Synaptojanin-2
 SYNTAXIN-5	Syntaxin-5
 SYO1	Transport adaptor or symportin
-SYP1	Suppressor of Yeast Profilin deletion
+SYP1	Suppressor of yeast profilin deletion
 SYP8	Qa-SNARE, SYP8/Ufe1p/Syntaxin 18-type
 SYP22_0	Syntaxin-22
 SYP22_1	Syntaxin-22
@@ -32858,6 +32857,7 @@ sfi1	spindle pole body protein Sfi1
 sfk1	Protein sfk1
 sfmM3	O-methyltransferase SfmM3
 sfp1	Transcription factor SFP1
+SFP1	Transcription factor SFP1
 sfp1_0	Zinc finger protein sfp1
 sfp1_1	Zinc finger protein sfp1
 sfp1_2	Zinc finger protein sfp1
