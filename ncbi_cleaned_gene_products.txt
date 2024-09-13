@@ -3329,7 +3329,7 @@ CHDH	Choline dehydrogenase, mitochondrial
 CHE2101	Snf5 subunit
 CHE16201	SWI-SNF chromatin remodeling complex, Snf5 subunit
 CHEA4	Chemotaxis protein histidin kinase CheA4
-CHEB1	Protein-glutamate methylesterase/protein-glutamine glutaminase 1
+CHEB1	Chemotaxis response regulator protein-glutamate methylesterase
 CHED1	Transcription factor Ovo-like 2
 CHEK1	Serine/threonine-protein kinase Chk1
 CHEK2	Checkpoint kinase 2
