@@ -1,5 +1,5 @@
-#version 1.94
-#Date 07-07-2024
+#version 1.95
+#Date 09-13-2024
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -2966,6 +2966,7 @@ CCNL2	Cyclin-L2
 CCNT2	Cyclin-T2
 CCNYL1	Cyclin Y
 CCNYL2	cyclin-Y-like protein
+CCON1	Cbb3-type cytochrome c oxidase subunit CcoN1
 CCP	class I heme peroxidase
 CCP1	heme peroxidase
 CCP1-1	Cytochrome c peroxidase, mitochondrial
@@ -3328,6 +3329,7 @@ CHDH	Choline dehydrogenase, mitochondrial
 CHE2101	Snf5 subunit
 CHE16201	SWI-SNF chromatin remodeling complex, Snf5 subunit
 CHEA4	Chemotaxis protein histidin kinase CheA4
+CHEB1	Chemotaxis response regulator protein-glutamate methylesterase
 CHED1	Transcription factor Ovo-like 2
 CHEK1	Serine/threonine-protein kinase Chk1
 CHEK2	Checkpoint kinase 2
@@ -3900,6 +3902,7 @@ CORO6	Coronin-6
 CORO7	Coronin-7
 COS111	Ciclopirox olamine resistance protein
 COT1	Cobalt uptake protein COT1
+COT2	Glucan synthesis regulatory protein
 COT3	Elongation factor 2
 COTL1	Coactosin-like protein
 COX1	Cytochrome c oxidase subunit 1
@@ -6217,9 +6220,11 @@ ERG2	C-8 sterol isomerase
 ERG2_0	C-8 sterol isomerase
 ERG2_1	C-8 sterol isomerase
 ERG3	c-5 sterol desaturase
+ERG3A	Delta(7)-sterol 5(6)-desaturase erg3a
 ERG4	C-24(28) sterol reductase
 ERG4B	Delta(24(24(1)))-sterol reductase erg4B
 ERG5	RNA polymerase C-22 sterol desaturase
+ERG5A	C-22 sterol desaturase erg5a
 ERG5B	C-22 sterol desaturase erg5b
 ERG6	Delta(24)-sterol C-methyltransferase
 ERG6B	Sterol 24-C-methyltransferase erg6b
@@ -6239,7 +6244,9 @@ ERG13	3-hydroxy-3-methylglutaryl coenzyme A synthase
 ERG19	Diphosphomevalonate decarboxylase
 ERG20	Farnesyl pyrophosphate synthetase
 ERG24	ERG24, C-14 sterol reductase
+ERG24B	Delta(14)-sterol reductase erg24b
 ERG25	C-4 sterol methyl oxidase
+ERG25B	Methylsterol monooxygenase erg25B
 ERG25p-2	C4-methyl sterol oxidase
 ERG26	ERG26, C-3 sterol dehydrogenase
 ERG27	3-keto-steroid reductase
@@ -6820,6 +6827,8 @@ FEZF1	Fez family zinc finger protein 1
 FEZF2	Fez zinc finger protein 2
 FFT2	ATP-dependent helicase fft2
 FGAOX3	Chanoclavine-I aldehyde reductase fgaOx3
+FGAQP1	Aquaporin-1
+FGAQP2	Probable aquaglyceroporin-2
 FGD1	FYVE, RhoGEF and PH domain-containing protein 1
 FGD3	FYVE, RhoGEF and PH domain-containing protein 3
 FGD4	FYVE, RhoGEF and PH domain-containing protein 4
@@ -6858,6 +6867,7 @@ FGM5	ABC transporter fgm5
 FGM9	Short chain dehydrogenase fgm9
 FGP1	Global transcription regulator FGP1
 FGR2	Filamentous Growth Regulator
+FGR3	Acetyltransferase fgr3
 FGR16	U4/U6-U5 snRNP complex subunit
 FH6	Formin-like protein 6
 FH7	Formin like protein 7
@@ -13827,6 +13837,7 @@ MIOX5	inositol oxygenase 1
 MIP	mitochondrial intermediate peptidase
 MIP1	DNA-directed DNA polymerase gamma MIP1
 MIP6	mex67-interacting protein
+MIP11	MST50-interacting protein 11
 MIPS3	Probable inositol 3-phosphate synthase isozyme 3
 MIR1	mitochondrial phosphate carrier protein
 MIS1	C-1-tetrahydrofolate synthase, mitochondrial
@@ -14336,6 +14347,8 @@ MSS51	translational activator for mitochondrial COX1
 MSS116	ATP-dependent RNA helicase
 MST1	threonyl-tRNA synthetase
 MST4	Sugar transport protein MST4
+MST7	Mitogen-activated protein kinase kinae mst7
+MST11	Mitogen-activated protein kinase kinae kinase mst11
 MST12	Transcription factor mst12
 MST20	Serine/threonine-protein kinase mst20
 MST27	DUP240 family protein MST27
@@ -16871,6 +16884,7 @@ PHM6	phosphate metabolism-related protein
 PHM7	phosphate metabolism protein 7
 PHM8	bifunctional nucleotidase/lysophosphatidic acid phosphatase
 PHNC1	Phosphonates import ATP-binding protein PhnC 1
+PHNC2	Phosphonates import ATP-binding protein PhnC 2
 PHNF2	Transcriptional regulator
 PHNM2	Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
 PHNX	Phosphonoacetaldehyde hydrolase
@@ -18646,6 +18660,7 @@ RABX6	RE70650p
 RAC1	Rho family GTPase protein RAC1
 RAC1A	Rho- protein rac1A
 RAC1B	Rho-related protein rac1B
+RAC1C	Rho-related protein rac1C
 RAC2	Ras-related C3 botulinum toxin substrate 2
 RAC3	Ras-related C3 botulinum toxin substrate 3
 RAC7	Rac-like GTP-binding protein ARAC7
@@ -19019,6 +19034,7 @@ RGA2	Rho-type gtpase-activating protein
 RGC1	protein ASK10
 RGD1	Rho GTPase-activating protein
 RGD2	GTPase-activating protein
+RGE13	Hydroxymethylglutaryl-CoA synthase ERG13
 RGI1	Respiratory growth induced protein 1
 RGL1	Ral guanine nucleotide dissociation stimulator-like 1
 RGL2	DELLA protein RGL2
@@ -20778,6 +20794,7 @@ SFH11	Phosphatidylinositol/phosphatidylcholine transfer protein SFH11
 SFL1	Flocculation suppression protein
 SFM1	SPOUT methyltransferase
 SFMBT2	Scm-like with four MBT domains protein 2
+SFP1	Transcription factor SFP1
 SFRP1	Secreted frizzled-related protein 1
 SFRP2	Secreted frizzled-related protein 2
 SFRP5	Secreted frizzled-related protein 5
@@ -20927,6 +20944,7 @@ SIR2RP1	NAD-dependent protein deacetylase SIR2rp1
 SIR2rp2	NAD-dependent protein deacylase SIR2rp2
 SIR3	chromatin-silencing protein SIR3
 SIR4	chromatin-silencing protein SIR4
+SIR5	NAD-dependent protein deacylase sir5
 SIRT1	NAD-dependent protein deacetylase sirtuin-1
 SIRT2	NAD-dependent protein deacetylase sirtuin-2
 SIRT3	NAD-dependent protein deacetylase sirtuin-3, mitochondrial
@@ -22565,6 +22583,7 @@ TAS1R3	Taste receptor type 1 member 3
 TASP1	taspase, threonine aspartase, 1
 TAT1	amino acid transporter TAT1
 TAT2	aromatic amino acid transmembrane transporter TAT2
+TATC6	Terpene cyclase 6
 TATD1	Putative deoxyribonuclease TATDN1
 TATDN1	TatD DNase
 TATDN2	Putative deoxyribonuclease TATDN2
@@ -24608,6 +24627,7 @@ VFA1	VPS4-associated protein 1
 VFB1	Putative VIER F-box protein 1
 VFB2	Putative VIER F-box protein 2
 VFL3	Centrosomal protein CCDC61
+VGRG1B	Type VI secretion system spike protein VgrG1b
 VGRG2	Rhs element vgr protein
 VGT1	Vacuolar glucose transporter 1
 VHA13	V-type proton ATPase catalytic subunit A
@@ -32857,7 +32877,6 @@ sfi1	spindle pole body protein Sfi1
 sfk1	Protein sfk1
 sfmM3	O-methyltransferase SfmM3
 sfp1	Transcription factor SFP1
-SFP1	Transcription factor SFP1
 sfp1_0	Zinc finger protein sfp1
 sfp1_1	Zinc finger protein sfp1
 sfp1_2	Zinc finger protein sfp1
