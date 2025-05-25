@@ -1,5 +1,5 @@
-#version 1.94
-#Date 07-07-2024
+#version 1.95
+#Date 05-25-2025
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -45,6 +45,7 @@ A4GNT	Alpha-1,4-N-acetylglucosaminyltransferase
 A4LEA	4-alpha-L-fucosyltransferase
 AA11	AA11 family lytic polysaccharide monooxygenase
 AA13	Lytic polysaccharide monooxygenase AA13
+AA14A	AA14 lytic polysaccharide monooxygenase A
 AAA1	Asc-type amino acid transporter 1
 AAC	ADP,ATP carrier protein
 AAC1	ADP/ATP carrier protein AAC1
@@ -9459,6 +9460,7 @@ HUT1-A	UDP-galactose transporter 1
 HUT1A	UDP-galactose transporter 1
 HUTH2	histidine ammonia-lyase
 HUWE1	E3 ubiquitin-protein ligase huwe1
+HVA1	Putative primary metabolism protein hva1
 HVA22J	HVA22-like protein j
 HVCN1	Voltage-gated hydrogen channel 1
 HWH4	conserved fungal putative protein
@@ -20778,6 +20780,7 @@ SFH11	Phosphatidylinositol/phosphatidylcholine transfer protein SFH11
 SFL1	Flocculation suppression protein
 SFM1	SPOUT methyltransferase
 SFMBT2	Scm-like with four MBT domains protein 2
+SFP1	Transcription factor SFP1
 SFRP1	Secreted frizzled-related protein 1
 SFRP2	Secreted frizzled-related protein 2
 SFRP5	Secreted frizzled-related protein 5
@@ -24336,6 +24339,7 @@ URE1	Urease
 URE2	Transcriptional regulator URE2
 URE2-1	Transcriptional regulator URE2
 URE2-2	Transcriptional regulator URE2
+URE7	Urease accessory protein 7
 UREC1	Urease subunit alpha 1
 UREC2	Urease subunit alpha 2
 URED2	Urease accessory protein UreD 2
@@ -25449,6 +25453,7 @@ YXEK	Putative monooxygenase yxeK
 YY1	Transcriptional repressor protein yy1
 Yeats2	YEATS domain-containing protein 2
 Yipf1	Protein YIPF1
+Yipf4	YIP1 family member 4
 Ypel4_0	Protein yippee-like 4
 Ypel4_1	Protein yippee-like 4
 Ythdf1	YTH domain-containing family protein 1
@@ -32856,8 +32861,8 @@ sfh5	Phosphatidylinositol transfer protein sfh5
 sfi1	spindle pole body protein Sfi1
 sfk1	Protein sfk1
 sfmM3	O-methyltransferase SfmM3
-sfp1	Transcription factor SFP1
 SFP1	Transcription factor SFP1
+sfp1	Transcription factor SFP1
 sfp1_0	Zinc finger protein sfp1
 sfp1_1	Zinc finger protein sfp1
 sfp1_2	Zinc finger protein sfp1
