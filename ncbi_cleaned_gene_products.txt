@@ -1,5 +1,5 @@
-#version 1.95
-#Date 05-25-2025
+#version 1.96
+#Date 06-10-2025
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -31973,11 +31973,11 @@ rdi-1	rho-gdp dissociation inhibitor
 rdl1	RAD51D-like protein 1
 rdp1	RNA-directed RNA polymerase Rdp1
 rdr1	RNA-dependent RNA polymerase 1
-rds1	conserved fungal protein
-rds1_0	Protein rds1
-rds1_1	Protein rds1
-rds1_2	Protein rds1
-rds1_3	Protein rds1
+rds1	Regulator of drug sensitivity 1
+rds1_0	Regulator of drug sensitivity
+rds1_1	Regulator of drug sensitivity
+rds1_2	Regulator of drug sensitivity
+rds1_3	Regulator of drug sensitivity
 reb1	RNA polymerase I transcription termination factor Reb1
 rec6	meiotic recombination protein Rec6
 rec7	meiotic recombination protein Rec7
