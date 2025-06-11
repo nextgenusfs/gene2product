@@ -33259,7 +33259,7 @@ ssr2_0	SWI/SNF and RSC complexes subunit ssr2
 ssr2_1	SWI/SNF and RSC complexes subunit ssr2
 ssr3	SWI/SNF and RSC complex subunit Ssr3
 ssr4	SWI/SNF and RSC complex subunit Ssr4
-sst2	human AMSH/STAMBP protein  ubiquitin specific-protease
+sst2	AMSH-like protease sst2
 sst4	ESCRT 0 complex subunit sst4
 sst6	ESCRT I complex subunit Vps23
 ssuD	Alkanesulfonate monooxygenase
