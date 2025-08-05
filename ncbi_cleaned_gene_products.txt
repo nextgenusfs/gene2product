@@ -1,5 +1,5 @@
-#version 1.96
-#Date 06-10-2025
+#version 1.97
+#Date 08-05-2025
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -12940,6 +12940,8 @@ LYS21	homocitrate synthase LYS21
 LYS22	homocitrate synthase
 LYSA1	Diaminopimelate decarboxylase 1, chloroplastic
 LYSA2	Diaminopimelate decarboxylase 2, chloroplastic
+LYSM15	Non-secreted LysM effector LysM15
+LYSM19	Non-secreted LysM effector LysM19
 LYSMD1	LysM and putative peptidoglycan-binding domain-containing protein 1
 LYSMD2	LysM and putative peptidoglycan-binding domain-containing protein 2
 LYSMD3	LysM and putative peptidoglycan-binding domain-containing protein 3
