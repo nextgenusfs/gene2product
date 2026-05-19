@@ -1626,7 +1626,7 @@ ASP3-3	asparaginase ASP3-3
 ASP3-4	asparaginase ASP3-4
 ASP5	Aspartate aminotransferase, cytoplasmic
 ASP23	alkaline shock protein
-ASP31	L-asparaginase 2-1
+ASP31	Aspartate aminotransferase
 ASP-1	Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase
 ASPC1	Aspartate aminotransferase
 ASPERGILLOPEPSIN2	Aspergillopepsin-2
@@ -2357,8 +2357,8 @@ BMR3	Envelope glycoprotein gp160
 BMS1	Glycoside hydrolase family 2 (Mannanase, beta-galactosidase)
 BMT1	Beta-mannosyltransferase 1
 BMT2	25S rRNA (adenine2142-N1)-methyltransferase
-BMT3	Protein of unknown function (DUF3589)
-BMT4	mannosyltransferase activity
+BMT3	Beta-mannosyltransferase 3
+BMT4	Beta-mannosyltransferase 4
 BMT5	25S rRNA (uracil2634-N3)-methyltransferase
 BMT6	25S rRNA (uracil2843-N3)-methyltransferase
 BNA1	3-hydroxyanthranilic acid dioxygenase
@@ -4228,7 +4228,7 @@ CSY2	CRISPR-associated protein Csy2
 CTA1	peroxisomal catalase A
 CTA4	Fungal transcriptional regulatory protein
 CTA4.2	zinc finger transcription factor
-CTA6	Apc13p protein
+CTA6	CTA6p
 CTA8	Heat shock transcription factor
 CTA9	transactivator protein
 CTAD1	Probable cytochrome c oxidase subunit 1-alpha
@@ -5211,7 +5211,7 @@ DIT2	cytochrome P450-DIT2
 DIXDC1	Dixin
 DIXDC1A	Dixin-A
 DJ1D	Protein DJ-1 homolog D
-DJP1	X-domain of DnaJ-containing
+DJP1	DnaJ-like protein 1
 DKC1	H/ACA ribonucleoprotein complex subunit dkc1
 DLA1	Cytochrome c oxidase subunit 1
 DLC2	StAR-related lipid transfer protein 13
@@ -5793,7 +5793,7 @@ ECM1	60S ribosomal protein subunit export
 ECM2	Pre-mRNA splicing factor
 ECM3	Protein ECM3
 ECM4	S-glutathionyl-(chloro)hydroquinone reductase
-ECM5	PLU-1-like protein
+ECM5	Protein ECM5
 ECM7	Calcium uptake protein
 ECM10	Heat shock protein of the Hsp70 family
 ECM15	UPF0045 protein ECM15
@@ -5804,7 +5804,7 @@ ECM17.2	Sulfite reductase [NADPH] beta subunit (Extracellular matrix protein 17)
 ECM18	alpha/beta hydrolase family protein
 ECM21	Plasma membrane proteins endocytosis
 ECM22	Sterol regulatory element-binding protein ECM22
-ECM25	Divergent CRAL/TRIO domain
+ECM25	Protein ECM25
 ECM29	proteasome component ECM29
 ECM29_1	Proteasome component ECM29
 ECM29_2	Proteasome component ECM29
@@ -6685,7 +6685,7 @@ FASA	3-oxoacyl-synthase
 FAT1	long-chain fatty acid transporter FAT1
 FAT4	Protocadherin Fat 4
 FAU1	5,10-methenyltetrahydrofolate synthetase
-FAV3	Glycosyl hydrolase 76
+FAV3	Alpha-1,6-mannanase
 FAXDC2	Fatty acid hydroxylase domain-containing protein 2
 FBA1	Fructose-bisphosphate aldolase 1
 FBA1-1	Fructose 1,6-bisphosphate aldolase
@@ -6946,8 +6946,8 @@ FLA8	Envelope glycoprotein gp160
 FLA10	Kinesin-like protein FLA10
 FLACCA	Molybdenum cofactor sulfurase
 FLAD1	FAD1 flavin adenine dinucleotide synthetase
-FLC	flocullin
-FLC1	ML-like domain
+FSFP1LC	flocullin
+FLC1	Flavin carrier protein 1
 FLC2	Flavin carrier protein 2
 FLC3	Putative flavin carrier protein 3
 FLCN	Folliculin
@@ -7522,8 +7522,8 @@ GAP1.8	general amino acid permease
 GAP2	amino acid permease
 GAP3	glyceraldehyde-3-phosphate dehydrogenase 3
 GAP4	S-adenosylmethionine permease GAP4
-GAP5	Amino-acid permease gap5
-GAP6	Amino-acid permease gap6
+GAP5	Amino-acid permease GAP5
+GAP6	Amino-acid permease GAP6
 GAPC3	Glyceraldehyde-3-phosphate dehydrogenase 3, cytosolic
 GAPCP-1	Glyceraldehyde-3-phosphate dehydrogenase GAPCP1, chloroplastic
 GAPD	Glyceraldehyde-3-phosphate dehydrogenase
@@ -7600,7 +7600,7 @@ GCD7	GCD complex subunit GCD7
 GCD10	1-methyladenosine tRNA methyltransferase subunit
 GCD11	eukaryotic translation initiation factor 2 subunit gamma
 GCD14	translational repressor of GCN4
-GCF1	Protein Gcf1p
+GCF1	Gcf1p
 GCFC1	GC-rich sequence DNA-binding factor
 GCFC2	GC-rich sequence DNA-binding factor 2
 GCG1	Gamma-glutamyl cyclotransferase
@@ -16747,8 +16747,8 @@ PGA5	1,3-beta-glucanosyltransferase PGA5
 PGA6	Putative GPI-anchored protein 6
 PGA7	GPI-anchored hemophore PGA7
 PGA12	Phosphomutase-like protein 3
-PGA30	pathogenesis
-PGA62	Flocculin type 3 repeat
+PGA30	Cell wall protein PGA30
+PGA62	Cell wall protein PGA62
 PGAM1	Phosphoglycerate mutase 1
 PGAM2	Phosphoglycerate mutase 2
 PGAM5	Serine/threonine-protein phosphatase pgam5, mitochondrial
@@ -20499,7 +20499,7 @@ SCUBE2	Signal peptide, CUB and EGF-like domain-containing protein 2
 SCW4	Glycoside hydrolase, family 17
 SCW4.1	Soluble Cell Wall protein
 SCW4.2	cell wall glucanase putative family 17 glucosidase SCW4 precursor (Soluble cell wall protein 4)
-SCW11	cell wall protein
+SCW11	Probable family 17 glucosidase SCW11
 SCY1	protein kinase-like protein SCY1
 SCYL1	N-terminal kinase-like protein
 SCYL2	SCY1-like protein 2
@@ -20657,7 +20657,7 @@ SED4	vesicle formation at the endoplasmic reticulum
 SED5	cis-Golgi t-SNARE syntaxin
 SEE1	Efm4p
 SEF1	suppressor protein sef1
-SEF2	Transcription factor
+SEF2	Sef2p Transcription factor
 SEH1	epoxide hydrolase, soluble (sEH)
 SEH1L	Nucleoporin SEH1
 SEH2	soluble epoxide hydrolase
@@ -21421,7 +21421,7 @@ SOD4	Cell surface superoxide dismutase [Cu-Zn] 4
 SOD4.1	Manganese superoxide dismutase
 SOD4.2	Mn-superoxide dismutase
 SOD5	Cell surface Cu-only superoxide dismutase 5
-SOD6	Cell surface superoxide dismutase [Cu-Zn] 6
+SOD6	superoxide dismutase [Cu-Zn] 6
 SOD200	Putative Cu/Zn superoxide dismutase
 SOD201	Putative Cu/Zn superoxide dismutase
 SODB2	Superoxide dismutase
@@ -21624,7 +21624,7 @@ SPO0A	Stage 0 sporulation protein A
 SPO0B	GTPase Obg
 SPO0F	Sporulation initiation phosphotransferase F
 SPO0M	Sporulation-control protein spo0M
-SPO1	lysophospholipase
+SPO1	Putative meiotic phospholipase SPO1
 SPO7	Nem1-Spo7 phosphatase regulatory subunit
 SPO11	endodeoxyribonuclease
 SPO12	sporulation protein
@@ -23290,7 +23290,7 @@ TOS1	target of Sbf
 TOS2	target of SBF
 TOS3	serine/threonine protein kinase TOS3
 TOS4	target of SBF
-TOS6	Protein tos6
+TOS6	Protein TOS6
 TOS8	Homeobox protein TOS8
 TOS9	Gluconate transport-inducing protein required for gluconate-H+ symport
 TOX3	TOX high mobility group box member 3
@@ -24992,7 +24992,7 @@ WHIB1	Transcriptional regulator WhiB1
 WHIB2	Transcriptional regulator WhiB2
 WHIB3	Redox- and pH-responsive transcriptional regulator WhiB3
 WHIB4	Transcriptional regulator WhiB4
-WHS11	White colony protein whs11
+WHS11	White colony protein WHS11
 WHSC1	Histone-lysine N-methyltransferase NSD3
 WHSC1L1	Histone-lysine N-methyltransferase NSD3
 WHSC2	Negative elongation factor A
@@ -25402,7 +25402,7 @@ YPS1-4	Aspartic proteinase 3
 YPS1-5	Aspartic proteinase 3
 YPS3	Aspartyl protease
 YPS6	Aspartic protease
-YPS7	Belongs to the peptidase A1
+YPS7	Aspartic proteinase yapsin-7
 YPT1	GTP-binding protein of the rab family
 YPT3	Ras-related protein YPT3
 YPT6	Rab family GTPase YPT6
@@ -31276,7 +31276,7 @@ pla1	Poly(A) polymerase pla1
 pla1_0	Poly(A) polymerase pla1
 pla1_1	Poly(A) polymerase pla1
 pla1_2	Poly(A) polymerase pla1
-plb1	lysophospholipase
+plb1	Phospholipase B
 plb2	Lysophospholipase 2
 plb3	Lysophospholipase 3
 plc1	phosphoinositide phospholipase C Plc1
@@ -33902,7 +33902,7 @@ tubgcp3	Gamma-tubulin complex component 3
 tuf	translation elongation factor Tu
 tuf1	mitochondrial translation elongation factor EF-Tu Tuf1
 tug1	Tubulin gamma chain
-tum1	sulfurtransferase
+tum1	Sulfurtransferase TUM1
 tun	Protein N-terminal glutamine amidohydrolase
 tup11	transcriptional corepressor Tup11
 tup12	transcriptional corepressor Tup12
