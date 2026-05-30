@@ -1,5 +1,5 @@
-#version 1.98
-#Date 05-18-2026
+#version 1.99
+#Date 05-30-2026
 #Name	Description
 1AMINOCYCLOPROPANE1CARBOXYLATE	Probable 1-aminocyclopropane-1-carboxylate deaminase
 2ABA	Protein phosphatase PP2A 55 kDa regulatory subunit
@@ -7276,7 +7276,7 @@ FUNDC2	FUN14 domain-containing protein 2
 FUR1	Uracil phosphoribosyltransferase, synthesizes UMP from uracil
 FUR2	Furin-like protease 2
 FUR4	Uracil permease
-FUS1	FUS1 actin binding activity
+FUS1	Nuclear fusion protein FUS1
 FUS2	cell fusion-related protein
 FUS3	mitogen-activated serine/threonine-protein kinase FUS3
 FUS6	COP9 signalosome complex subunit 1
@@ -7860,10 +7860,10 @@ GLMS2	glutamine-fructose-6-phosphate transaminase
 GLN1	glutamate--ammonia ligase
 GLN1_0	Glutamine synthetase
 GLN1_1	Glutamine synthetase
-GLN2	Predicted glutamine synthetase glutamine amidotransferase
-GLN3	regulates glutamine-repressible gene products
-GLN3p	GLN3p transcription factor
-GLN4	Glutaminyl-tRNA synthetase
+GLN2	Glutamine synthetase glutamine amidotransferase
+GLN3	Nitrogen-responsive transcriptional regulator
+GLN3p	Nitrogen-responsive transcriptional regulator
+GLN4	glutamine--tRNA ligase
 GLN11	Glutamine synthetase cytosolic isozyme 1-1
 GLN32	zinc finger transcription factor
 GLNA2	Glutamine synthetase
@@ -8305,7 +8305,7 @@ GSK3B	Glycogen synthase kinase-3 beta
 GSK5	glycogen synthase kinase GSK5
 GSL1	Callose synthase 11
 GSL2	Callose synthase 5
-GSM1	Putative zinc cluster protein of unknown function
+GSM1	Glucose starvation modulator protein 1
 GSO2	LRR receptor-like serine/threonine-protein kinase GSO2
 GSP1	GTP-binding nuclear protein GSP1/Ran
 GSP2	Ran GTPase GSP2
@@ -15156,7 +15156,7 @@ NGL2	RNA exonuclease NGL2
 NGL3	3'-5' poly(A) RNA exonuclease
 NGLY1	Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase
 NGP-1	Nucleolar GTP-binding protein 2
-NGR1	RRM
+NGR1	Negative growth regulatory protein NGR1
 NH2	Envelope glycoprotein gp160
 NH2L1	NHP2-like protein 1
 NHA1	Na(+)/H(+) antiporter
@@ -17556,7 +17556,7 @@ PP7435_Chr3-0424	Putative mitochondrial transport protein
 PP7435_Chr3-0523	Putative substrate of cAMP-dependent protein kinase
 PP7435_Chr3-0568	Putative serine carboxypeptidase
 PP7435_Chr3-0625	Phosphoinositides binding protein
-PP7435_Chr3-0654	Vacuolar membrane protein of unknown function
+PP7435_Chr3-0654	Major facilitator superfamily (MFS) profile domain-containing protein
 PP7435_Chr3-0688	Putative cytoskeleton protein
 PP7435_Chr3-0724	Putative transcription factor
 PP7435_Chr3-0762	Aldehyde reductase
@@ -21133,7 +21133,7 @@ SLD1	Delta 8 Fatty Acid Desaturase
 SLD2	DNA replication regulator SLD2
 SLD3	DNA replication regulator SLD3
 SLD5	GINS complex subunit
-SLD7	mitochondrial morphogenesis protein YOR060C
+SLD7	mitochondrial morphogenesis protein SLD7
 SLG1	Stress-activated PKC1-MPK1 kinase pathway sensor
 SLI1	N-acetyltransferase SLI1
 SLIT1	Slit 1 protein
@@ -21157,7 +21157,7 @@ SLN1	Histidine kinase osmosensor
 SLO1	Arl3p interacting protein
 SLP1	Glycosylated integral ER membrane protein
 SLP2	Synaptotagmin-like protein 2
-SLS1	Protein that coordinates expression of mitochondrially-encoded genes
+SLS1	Sigma-like sequence protein 1, mitochondrial
 SLT2	Mitogen-activated protein kinase SLT2/MPK1
 SLT2_0	Mitogen-activated protein kinase SLT2/MPK1
 SLT2_1	Mitogen-activated protein kinase SLT2/MPK1
@@ -21948,7 +21948,7 @@ STAU1	Double-stranded RNA-binding protein Staufen 1
 STAU2	Double-stranded RNA-binding protein Staufen 2
 STB1	Sin3p binding protein
 STB3	DNA-binding proteins Bright/BRCAA1/RBP1 and related proteins containing BRIGHT domain
-STB4	binds Sin3p in two-hybrid assay
+STB4	Probable transcriptional regulatory protein STB4
 STB5	Rac GTPase-activating protein BCR/ABR
 STB6	Protein STB6
 STC2	Stanniocalcin-2
